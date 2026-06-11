@@ -1,0 +1,88 @@
+{
+  "file": "infomerics.json.xlsx",
+  "total_rows": 8438,
+  "unique_companies": 4175,
+  "date_range": {
+    "min": "2016-12-06",
+    "max": "2026-02-10"
+  },
+  "null_counts": {
+    "Company Name": 0,
+    "Date": 4,
+    "Current Ratings": 14,
+    "Instruments": 0,
+    "Size": 21
+  },
+  "columns": [
+    "Company Name",
+    "Date",
+    "Instruments",
+    "Size",
+    "Current Ratings",
+    "Outlook",
+    "Rating Rationale PDF",
+    "Source URL",
+    "Date_parsed",
+    "months_ago",
+    "Urgency",
+    "Action",
+    "Action_clean",
+    "Instrument_family"
+  ],
+  "note": "No State/Sector column found - data enrichment needed",
+  "urgency_distribution": {
+    "HIGH": 4308,
+    "MEDIUM": 2687,
+    "LOW": 1439,
+    "UNKNOWN": 4
+  },
+  "action_distribution": {
+    "Reaffirmed": 2350,
+    "INC": 1993,
+    "Assigned": 1827,
+    "Upgraded": 1064,
+    "Other": 904,
+    "Downgraded": 206,
+    "Withdrawn": 94
+  },
+  "top_instruments": {
+    "Long Term Bank Facilities": 2645,
+    "Short Term Bank Facilities": 1602,
+    "Long Term Facilities": 571,
+    "Short Term Facilities": 312,
+    "Long Term Bank Facility": 229,
+    "Short Term Bank Facility": 164,
+    "Long Term Bank Facilities - Term Loan": 90,
+    "Proposed Long Term Bank Facilities": 82,
+    "Long Term Bank Facilities - Cash Credit": 69,
+    "Long term Bank Facilities": 66,
+    "Long Term/ Short Term Bank Facilities": 58,
+    "Long Term Bank Facilities - Proposed": 55,
+    "Long Term/Short Term Bank Facilities": 48,
+    "Proposed Short Term Bank Facilities": 39,
+    "Short term Bank Facilities": 38
+  },
+  "instrument_family": {
+    "Long Term": 4967,
+    "Short Term": 3096,
+    "NCD/Debenture": 185,
+    "Other": 89,
+    "Term Loan": 41,
+    "Commercial Paper": 37,
+    "Fund Based": 18,
+    "Non-Fund Based": 5
+  },
+  "outlook_distribution": {
+    "Nil": 3597,
+    "Stable": 3258,
+    "Negative": 1047,
+    "Stable/-": 229,
+    "Negative/-": 117,
+    "Positive": 117,
+    "Rating Watch with Developing Implications": 45,
+    "Positive/-": 13,
+    "Rating Watch with Negative Implications": 12,
+    "Credit Watch with Negative Implications": 2,
+    "Credit Watch with Developing Implications": 1
+  }
+}

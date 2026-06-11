@@ -1,0 +1,97 @@
+{
+  "file": "d365_data.xlsx",
+  "total_rows": 49945,
+  "unique_companies": 17622,
+  "date_range": {
+    "min": "2025-05-06",
+    "max": "2026-05-04"
+  },
+  "null_counts": {
+    "Company Name": 1,
+    "Date": 1,
+    "Agency": 1,
+    "Instrument": 1,
+    "Rating": 1
+  },
+  "columns": [
+    "Company Name",
+    "Date",
+    "Agency",
+    "Instrument",
+    "Grade",
+    "Rating",
+    "Status",
+    "Ammount",
+    "Company/Issuer not cooperating",
+    "Date_parsed",
+    "months_ago",
+    "Urgency",
+    "Instrument_family"
+  ],
+  "note": "No State/Region column found - data enrichment needed",
+  "urgency_distribution": {
+    "MEDIUM": 21576,
+    "LOW": 19441,
+    "HIGH": 8926,
+    "UNKNOWN": 2
+  },
+  "agencies": {
+    "CRISIL": 18549,
+    "CARE": 11020,
+    "ICRA": 6360,
+    "IND-RA": 5162,
+    "ACUITE": 4635,
+    "BRICKWORK": 4217,
+    "Agency": 1
+  },
+  "top_instruments": {
+    "Term loans": 15634,
+    "Bank Guarantee": 7393,
+    "Non-government debt": 6334,
+    "Long term Loans": 5435,
+    "Letter Of credit": 5025,
+    "Fund based financial facility/instrument": 3887,
+    "Non-fund-based financial facility/instrument": 2825,
+    "Debentures / Bonds / notes / bills": 1526,
+    "Non-fund based working capital limit": 1087,
+    "Short-term loan": 788,
+    "Medium-term loan": 6,
+    "Unsecured debentures/bonds/notes/bills": 1,
+    "Performance guarantee": 1,
+    "EPCG Guarantee": 1,
+    "Instrument": 1
+  },
+  "instrument_family": {
+    "Non-Fund Based": 16330,
+    "Term Loan": 15640,
+    "Other": 6338,
+    "Long Term": 5435,
+    "Fund Based": 3887,
+    "NCD/Debenture": 1527,
+    "Short Term": 788
+  },
+  "status_distribution": {
+    "Reaffirmed": 31391,
+    "Downgraded": 5608,
+    "Initial Rating": 4154,
+    "Withdrawn": 4102,
+    "Upgraded": 3329,
+    "Rating Watch": 1359,
+    "Status": 1
+  },
+  "grade_distribution": {
+    "High Risk": 12970,
+    "Moderate Safety": 9182,
+    "High Safety": 6764,
+    "Adequate Safety": 6103,
+    "Highest Safety": 5362,
+    "Default": 4688,
+    "Inadequate Safety": 3872,
+    "Substantial Risk": 1002,
+    "Grade": 1
+  },
+  "concentration": {
+    "Single-Agency": 13999,
+    "Multi-Agency": 3623
+  }
+}
