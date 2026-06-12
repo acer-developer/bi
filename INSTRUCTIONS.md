@@ -92,13 +92,13 @@ Score each sector on:
 ## OUTPUT FORMATS
 
 ### Lead List (for sales team)
-Save to: intelligence_outputs/leads_[REGION]_[YYYYMMDD].md
+Save to: intelligence_outputs/session_[YYYYMMDD]/leads_[REGION]_[YYYYMMDD].md
 
 Columns: Company | State | Sector | Instrument | Current Rater | 
 Rating | Rating Date | Urgency | Why Target | ACER Pitch Angle
 
 ### Sector Brief (for leadership)
-Save to: intelligence_outputs/sector_brief_[SECTOR]_[YYYYMMDD].md
+Save to: intelligence_outputs/session_[YYYYMMDD]/sector_brief_[SECTOR]_[YYYYMMDD].md
 
 Structure:
 - Sector overview (volume, dominant rater, instrument mix)
@@ -107,7 +107,7 @@ Structure:
 - Recommended sales approach
 
 ### Region Map (for regional heads)
-Save to: intelligence_outputs/region_map_[REGION]_[YYYYMMDD].md
+Save to: intelligence_outputs/session_[YYYYMMDD]/region_map_[REGION]_[YYYYMMDD].md
 
 Structure:
 - Total rated companies in region
