@@ -109,32 +109,96 @@ When showing market share or competitor analysis:
 
 ---
 
-## OUTPUT FORMATS
+## ACTION RULE — MANDATORY, NO EXCEPTIONS
 
-### Lead List (for sales team)
-Save to: intelligence_outputs/session_[YYYYMMDD]/leads_[REGION]_[YYYYMMDD].md
+Every finding must be backed by an actual data file.
 
-Columns: Company | State | Sector | Instrument | Current Rater | 
-Rating | Rating Date | Urgency | Why Target | ACER Pitch Angle
+WRONG (not acceptable):
+"3,623 companies use 2+ rating agencies"
 
-### Sector Brief (for leadership)
-Save to: intelligence_outputs/session_[YYYYMMDD]/sector_brief_[SECTOR]_[YYYYMMDD].md
+RIGHT (required):
+"3,623 companies use 2+ rating agencies —
+saved to csv/multi_agency_companies_20260612.csv"
 
-Structure:
-- Sector overview (volume, dominant rater, instrument mix)
-- Top 10 companies by activity
-- ACER opportunity: HIGH / MEDIUM / LOW with reason
-- Recommended sales approach
+If Claude identifies ANY group of companies → produce full list as CSV.
+No exceptions. No truncation. All rows.
 
-### Region Map (for regional heads)
-Save to: intelligence_outputs/session_[YYYYMMDD]/region_map_[REGION]_[YYYYMMDD].md
+This applies to:
+- Companies with HIGH urgency ratings → CSV
+- Companies rated by 2+ agencies → CSV
+- Companies with INC ratings → CSV
+- Companies downgraded in last 12 months → CSV
+- Companies in a specific sector → CSV
+- Companies fetched from BSE/NSE/MCA → CSV
+- ANY group of companies Claude identifies → CSV
 
-Structure:
-- Total rated companies in region
-- Competitor share breakdown
-- Top 5 target companies with rationale
-- Instruments to prioritize
-- Monthly outreach target numbers
+Every CSV minimum columns:
+Company Name | Current Rater | Instrument |
+Rating | Rating Date | Urgency | Why Target
+
+If external data is fetched (BSE SME, NSE, MCA):
+→ Save raw file to csv/raw/[source]_[YYYYMMDD].csv
+→ Cross match with ratings data
+→ Save matched output to csv/enriched_[YYYYMMDD].csv
+
+Claude's job is not to tell ACER what exists.
+Claude's job is to give ACER the data to act on it.
+
+---
+## OUTPUT FORMATS — ALWAYS PRODUCE ACTUAL FILES, NOT SUMMARIES
+
+Claude does not summarize findings and stop.
+Claude produces actual usable output files every session.
+
+### Rule 1 — If data exists, produce the file. No excuses.
+If 3000 companies qualify as targets → produce all 3000 in a file.
+If 500 companies were downgraded → produce all 500 in a file.
+Never truncate to "top 10" or "sample" unless explicitly told to.
+
+### Rule 2 — All outputs go into session folder
+Every file created this session goes into:
+intelligence_outputs/session_[YYYYMMDD]/
+
+### Rule 3 — File naming
+leads_[SEGMENT]_[YYYYMMDD].csv     ← company lead lists
+sector_[SECTORNAME]_[YYYYMMDD].md  ← sector briefs
+region_[REGIONNAME]_[YYYYMMDD].md  ← region maps
+summary_[YYYYMMDD].md              ← session summary
+
+### Rule 4 — Lead list format (MOST IMPORTANT FILE)
+Always produce as CSV so sales team can open in Excel directly.
+Save to: intelligence_outputs/session_[YYYYMMDD]/leads_ALL_[YYYYMMDD].csv
+
+Columns must include:
+Company Name
+Instrument Type
+Current Rating Agency
+Rating
+Rating Date
+Urgency (HIGH / MEDIUM / LOW)
+Sector (if available)
+State (if available)
+Why Target (one line reason)
+ACER Pitch Angle (what to say when calling)
+Contact Person (CEO / CFO name if derivable from data)
+Contact Info (if available in data)
+
+### Rule 5 — Never produce MD files for lead lists
+Lead lists must always be CSV — sales team needs Excel.
+MD files only for briefs, summaries, and session logs.
+
+### Rule 6 — Organize outputs cleanly
+
+example:
+intelligence_outputs/
+└── session_20260612/
+    ├── csv/
+    │   ├── leads_ALL_20260612.csv
+    │   └── leads_HIGH_urgency_20260612.csv
+    ├── sector_Infrastructure_20260612.md
+    ├── sector_Textiles_20260612.md
+    ├── region_West_20260612.md
+    └── summary_20260612.md
 
 ---
 
