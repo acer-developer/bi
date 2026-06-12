@@ -5,6 +5,11 @@
 
 ---
 
+## CRITICAL — BRANCH RULES
+Always work on main branch only.
+Run first: git checkout main && git pull origin main
+Never create a new branch. Never open a pull request.
+
 ## WHO IS ACER
 
 ACER is India's 8th credit rating agency, newly launched in a market with
@@ -88,6 +93,21 @@ Score each sector on:
 - Recency (more recent issuances = sector is active)
 
 ---
+  
+## DATA RULES — MANDATORY
+
+NEVER produce any market summary, competitor analysis,
+lead list, or sector brief using only one file.
+
+ALL outputs must combine BOTH files.
+Always read both files fresh and state actual record counts found.
+
+When showing market share or competitor analysis:
+- Use d365_data for agency-wise market share
+- Use infomerics for Infomerics-specific company details
+- Clearly state actual record counts in every output header
+
+---
 
 ## OUTPUT FORMATS
 
@@ -138,3 +158,44 @@ Structure:
 Save to: session_logs/session_[YYYYMMDD_HHMM].md
 
 Use this structure:
+# ACER Intelligence Session Log
+Date: [DATE]
+Session #: [INCREMENT FROM LAST LOG]
+
+## Completed This Session
+- [list everything done]
+- [list all files created with paths]
+
+## Key Findings
+- [3 to 7 most important intelligence findings]
+- [any patterns, anomalies, surprises in the data]
+
+## Hypotheses for Next Session
+- [things noticed but not yet explored]
+- [questions the data raised]
+
+## Data Quality Notes
+- [any nulls, inconsistencies, date format issues found]
+- [assumptions made]
+
+## Open Questions
+- [what could not be resolved and why]
+- [what additional data or input is needed]
+
+---
+
+### Update tasks/TODO.md
+- Mark completed tasks as done with date
+- Add any new tasks discovered this session
+- Keep P1/P2/P3 priority order
+
+---
+
+## ACER STRATEGIC CONTEXT — ALWAYS KEEP IN MIND
+
+- Small and mid-sized companies are ACER's sweet spot
+- Tier 2 and Tier 3 cities have lower competitor density
+- Challenger sectors (green energy, new-age NBFCs, MSME lending) are more open to a new rater
+- Every lead list must include a WHY ACER angle
+- State confidence level on every major finding: HIGH / MEDIUM / LOW
+- Never fabricate data — if the dataset does not have it, say so clearly
