@@ -1,43 +1,34 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-12
-Status: Session 1 complete. Session 2 starting tonight.
+Status: Session 2 complete. Session 3 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Extract ALL INC companies from infomerics data
-      → Companies with "(INC)" in rating = walked out on Infomerics
-      → These are hottest possible leads — need new agency immediately
-      → Output: csv/INC_companies_[YYYYMMDD].csv
-      → Columns: Company | Instrument | Rating | Date | Urgency | Pitch Angle
+- [ ] Cross-filter: INC companies also in d365 (doubly hot leads)
+      → Fuzzy match INC Infomerics names with d365 INC names
+      → Output: csv/INC_cross_matched_[YYYYMMDD].csv
+      → Columns: Company | Infomerics Rating | d365 Agency | d365 Rating | Both INC?
 
-- [ ] Extract ALL HIGH urgency companies from both files
-      → Rating date older than 12 months = overdue for renewal
-      → Output: csv/high_urgency_leads_[YYYYMMDD].csv
-      → Columns: Company | Rater | Instrument | Rating | Date | Days Overdue
+- [ ] Sector × INC breakdown — which sectors have highest INC rates?
+      → Cross-filter leads_ALL by Sector + Lead Segment
+      → Output: csv/sector_INC_breakdown_[YYYYMMDD].csv
+      → Find if Textiles/Steel/Agro cluster at INC
 
-- [ ] Extract ALL multi-agency companies from d365
-      → 3,623 companies use 2+ agencies — full list needed not just count
-      → Output: csv/multi_agency_companies_[YYYYMMDD].csv
-      → Columns: Company | Agencies Used | Agency Count | Last Rating Date
+- [ ] BSE SME company fetch (if network available)
+      → URL: https://www.bseindia.com/corporates/List_Scrips.aspx
+      → Filter: Segment = SME, Status = Active
+      → Save raw: csv/raw/bse_sme_raw_[YYYYMMDD].csv
+      → Cross match with ratings data
+      → Output: csv/bse_sme_matched_[YYYYMMDD].csv
 
-- [ ] Extract ALL downgraded companies from both files
-      → 1,380 from Infomerics + 5,608 from d365 = full lists needed
-      → Output: csv/downgraded_infomerics_[YYYYMMDD].csv
-      → Output: csv/downgraded_d365_[YYYYMMDD].csv
-      → Columns: Company | Previous Rating | Current Rating | Date | Rater
+- [ ] BFSI sector brief
+      → Banks, NBFCs, housing finance — major rating category
+      → Output: sector_BFSI_[YYYYMMDD].md
 
-- [ ] Fuzzy match Infomerics companies with d365 companies
-      → Use rapidfuzz library
-      → True overlap likely 200-500 companies
-      → Output: csv/matched_companies_[YYYYMMDD].csv
-      → Columns: Infomerics Name | d365 Name | Match Score | Combined Data
-
-- [ ] Sector briefs for remaining sectors
-      → Agro/Food → sector_AgroFood_[YYYYMMDD].md
-      → Steel & Metals → sector_SteelMetals_[YYYYMMDD].md
-      → Textiles → sector_Textiles_[YYYYMMDD].md
+- [ ] Chemicals/Pharma sector brief
+      → Output: sector_Chemicals_[YYYYMMDD].md
 
 ---
 
@@ -109,3 +100,10 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Top 50 sales lead list generated — 2026-06-11 (Session 1)
 - [x] Infrastructure sector brief — 2026-06-11 (Session 1)
 - [x] Company overlap check — 2026-06-11 (Session 1)
+- [x] INC companies extracted — 996 companies — 2026-06-12 (Session 2)
+- [x] HIGH urgency leads — both files — 3,535 companies — 2026-06-12 (Session 2)
+- [x] Multi-agency companies — full CSV — 3,623 companies — 2026-06-12 (Session 2)
+- [x] Downgraded companies — both files — full CSVs — 2026-06-12 (Session 2)
+- [x] Fuzzy company matching Infomerics ↔ d365 — 1,827 matches — 2026-06-12 (Session 2)
+- [x] Sector briefs: Agro/Food, Steel & Metals, Textiles — 2026-06-12 (Session 2)
+- [x] Master lead database — 10,768 leads — leads_ALL_20260612.csv — 2026-06-12 (Session 2)
