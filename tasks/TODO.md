@@ -1,49 +1,44 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-12
-Status: Session 2 complete. Session 3 starting next run.
+Status: Session 3 complete. Session 4 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Cross-filter: INC companies also in d365 (doubly hot leads)
-      → Fuzzy match INC Infomerics names with d365 INC names
-      → Output: csv/INC_cross_matched_[YYYYMMDD].csv
-      → Columns: Company | Infomerics Rating | d365 Agency | d365 Rating | Both INC?
+- [ ] Sub-sector breakdown of 160 doubly-INC companies
+      → Which sectors do these ultra-hot leads cluster in?
+      → Output: csv/doubly_INC_sector_breakdown_[YYYYMMDD].csv
+      → Also: are they mostly BFSI, Chemicals, or Manufacturing?
 
-- [ ] Sector × INC breakdown — which sectors have highest INC rates?
-      → Cross-filter leads_ALL by Sector + Lead Segment
-      → Output: csv/sector_INC_breakdown_[YYYYMMDD].csv
-      → Find if Textiles/Steel/Agro cluster at INC
+- [ ] BFSI HIGH + INC overlap — ultimate BFSI hot list
+      → Companies that are BOTH HIGH urgency AND INC in BFSI
+      → Output: csv/bfsi_hot_leads_[YYYYMMDD].csv
+      → These are mandatory renewals + already dissatisfied = highest conversion
 
-- [ ] BSE SME company fetch (if network available)
-      → URL: https://www.bseindia.com/corporates/List_Scrips.aspx
-      → Filter: Segment = SME, Status = Active
-      → Save raw: csv/raw/bse_sme_raw_[YYYYMMDD].csv
-      → Cross match with ratings data
-      → Output: csv/bse_sme_matched_[YYYYMMDD].csv
+- [ ] Seasonal issuance pattern analysis
+      → Which months have highest new instrument issuances? (from Rating Date)
+      → Both files combined
+      → Output: csv/seasonal_pattern_[YYYYMMDD].csv
+      → Key question: Are we at peak season now (June)?
 
-- [ ] BFSI sector brief
-      → Banks, NBFCs, housing finance — major rating category
-      → Output: sector_BFSI_[YYYYMMDD].md
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED
+      → Blocked by firewall (403) — automated fetch not possible
+      → Action needed: Team to manually download from BSE website and upload to data/ folder
+      → Once uploaded: cross-match script ready to run
 
-- [ ] Chemicals/Pharma sector brief
-      → Output: sector_Chemicals_[YYYYMMDD].md
+- [ ] Infrastructure sector deep-dive
+      → 1,246 leads in master list but sector brief was Session 1 (basic)
+      → Refresh with INC breakdown, agency breakdown, urgency
+      → Output: sector_Infrastructure_refresh_[YYYYMMDD].md
 
 ---
 
 ## P2 — Next Sessions
 
-- [ ] Fetch BSE SME listed companies
-      → URL: https://www.bseindia.com/corporates/List_Scrips.aspx
-      → Filter: Segment = SME, Status = Active
-      → Save raw: csv/raw/bse_sme_raw_[YYYYMMDD].csv
-      → Cross match with ratings data
-      → Output: csv/bse_sme_matched_[YYYYMMDD].csv
-      → Columns: Company | BSE Code | Sector | State | Currently Rated | Rater
-
 - [ ] Fetch NSE Emerge listed companies
       → URL: https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv
+      → BLOCKED by firewall — needs manual download
       → Save raw: csv/raw/nse_equity_raw_[YYYYMMDD].csv
       → Cross match with ratings data
       → Output: csv/nse_matched_[YYYYMMDD].csv
@@ -59,18 +54,22 @@ Status: Session 2 complete. Session 3 starting next run.
       → Unblock by: deriving state from company name / MCA enrichment
       → Once unblocked: region_North.md / region_South.md / region_West.md / region_East.md
 
----
-
-## P3 — Exploratory
-
-- [ ] Seasonal pattern analysis
-      → Which months have highest new instrument issuances?
-      → Output: csv/seasonal_pattern_[YYYYMMDD].csv
-
 - [ ] Master company database
       → Unified deduped list across both files
       → Output: csv/master_company_database_[YYYYMMDD].csv
       → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score
+
+- [ ] Construction sector brief
+      → 439 leads in master list — major sector not yet briefed
+      → Output: sector_Construction_[YYYYMMDD].md
+
+- [ ] Healthcare sector brief
+      → 194 leads — hospitals, diagnostics, pharma services
+      → Output: sector_Healthcare_[YYYYMMDD].md
+
+---
+
+## P3 — Exploratory
 
 - [ ] ACER whitespace map
       → Region x Sector gap table
@@ -78,6 +77,16 @@ Status: Session 2 complete. Session 3 starting next run.
 
 - [ ] Instrument family grouping
       → Short Term / Long Term / Structured Finance buckets
+      → Which instrument family has most INC exposure?
+
+- [ ] Brickwork deep-dive
+      → 1,527 Brickwork INC companies — largest SME-focused INC pool
+      → Most switchable to ACER (Brickwork is direct competitor)
+      → Output: csv/brickwork_INC_full_[YYYYMMDD].csv
+
+- [ ] Agency concentration per sector
+      → Which sectors are most dependent on a single agency?
+      → Single-agency sectors = lowest switching friction for ACER
 
 ---
 
@@ -107,3 +116,8 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Fuzzy company matching Infomerics ↔ d365 — 1,827 matches — 2026-06-12 (Session 2)
 - [x] Sector briefs: Agro/Food, Steel & Metals, Textiles — 2026-06-12 (Session 2)
 - [x] Master lead database — 10,768 leads — leads_ALL_20260612.csv — 2026-06-12 (Session 2)
+- [x] INC cross-match — 160 doubly-abandoned companies — 2026-06-12 (Session 3)
+- [x] Sector × INC breakdown — all 12 sectors — 2026-06-12 (Session 3)
+- [x] BFSI sector brief — 475 companies, 115 HIGH urgency, 69 INC — 2026-06-12 (Session 3)
+- [x] Chemicals/Pharma sector brief — 889 companies, 142 HIGH urgency, 384 INC — 2026-06-12 (Session 3)
+- [x] BSE SME fetch attempted — BLOCKED (403 Forbidden) — 2026-06-12 (Session 3)
