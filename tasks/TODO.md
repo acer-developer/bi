@@ -1,35 +1,31 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-13
-Status: Session 4 complete. Session 5 starting next run.
+Status: Session 5 complete. Session 6 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Forward renewal calendar — predict July–September 2026 renewals
-      → Rating Date + 12 months = renewal month
-      → Find all companies with renewal due July / August / September 2026
-      → Output: csv/renewal_pipeline_Jul_Sep_2026_[YYYYMMDD].csv
-      → Priority: reach them NOW in June before renewal month
+- [ ] Manufacturing sector brief
+      → 29 doubly-INC + likely 500+ more from full dataset — not yet briefed
+      → Use both files; keyword match: 'manufactur', 'industries', 'engineering', 'mfg', etc.
+      → Output: sector_Manufacturing_[YYYYMMDD].md + csv/leads_Manufacturing_[YYYYMMDD].csv
 
-- [ ] Manual sector tagging of 84 "Other/Unknown" doubly-INC companies
-      → Top priority leads are unclassified — use instrument type + rating text to infer sector
-      → Output: csv/doubly_INC_sector_breakdown_v2_[YYYYMMDD].csv (updated with classified sectors)
+- [ ] Infomerics vulnerability deep-dive
+      → Map ALL Infomerics INC clients: sector × size × instrument × urgency
+      → INC rates: Infra 41.5%, Construction 23.1%, BFSI dominates ULTRA HOT
+      → Output: csv/infomerics_full_vulnerability_[YYYYMMDD].csv + sector_Infomerics_vulnerability_[YYYYMMDD].md
+      → Promoted from P2 — Infomerics is ACER's #1 acquisition target
 
-- [ ] 12 BFSI ULTRA HOT companies — deep profile
-      → These 12 companies (BOTH overdue AND INC) need director / decision-maker names
-      → Research via company name — derive CIN if possible, check public regulatory filings
-      → Output: csv/bfsi_ultra_hot_profiles_[YYYYMMDD].csv
-
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (3rd attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (4th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
 
-- [ ] Construction sector brief
-      → 439 leads in master list — major sector not yet briefed
-      → Promote from P2: needed for complete sector coverage
-      → Output: sector_Construction_[YYYYMMDD].md + csv/leads_Construction_[YYYYMMDD].csv
+- [ ] July contact blitz list — INC + renewal due July 2026
+      → Subset of renewal pipeline: companies where INC = Y AND renewal month = July 2026
+      → Filter by Infomerics + Brickwork (most switchable) first
+      → Output: csv/july_blitz_INC_20260613.csv — prioritized outreach list for first week of July
 
 ---
 
@@ -61,12 +57,6 @@ Status: Session 4 complete. Session 5 starting next run.
 - [ ] Healthcare sector brief
       → 194 leads — hospitals, diagnostics, pharma services
       → Output: sector_Healthcare_[YYYYMMDD].md
-
-- [ ] Infomerics vulnerability deep-dive
-      → Infomerics has highest INC rates across multiple sectors (infra: 41.5%, BFSI: dominates ULTRA HOT)
-      → Map full Infomerics client portfolio by sector × urgency × INC rate
-      → This is ACER's primary acquisition target — need full picture
-      → Output: csv/infomerics_full_vulnerability_[YYYYMMDD].csv + sector_Infomerics_vulnerability_[YYYYMMDD].md
 
 ---
 
@@ -126,3 +116,7 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] BFSI hot list — 12 ULTRA HOT (overdue + INC), 186 total hot — 2026-06-13 (Session 4)
 - [x] Seasonal issuance pattern — July peak (9.7%), June below-average (7.7%) — 2026-06-13 (Session 4)
 - [x] Infrastructure sector deep-dive refresh — 1,246 leads, 305 HIGH, 124 INC — 2026-06-13 (Session 4)
+- [x] Forward renewal calendar — 15,406 records, 7,144 unique companies, Jul–Sep 2026 — 2026-06-13 (Session 5)
+- [x] Sector tagging of 84 Other/Unknown doubly-INC companies — all classified — 2026-06-13 (Session 5)
+- [x] 12 BFSI ULTRA HOT deep profiles — overdue days, sizes, pitch scripts — 2026-06-13 (Session 5)
+- [x] Construction sector brief — 1,289 companies, 624 HIGH, 1,231 INC (38%) — 2026-06-13 (Session 5)
