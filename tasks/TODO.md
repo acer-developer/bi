@@ -1,36 +1,35 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-12
-Status: Session 3 complete. Session 4 starting next run.
+Last Updated: 2026-06-13
+Status: Session 4 complete. Session 5 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Sub-sector breakdown of 160 doubly-INC companies
-      → Which sectors do these ultra-hot leads cluster in?
-      → Output: csv/doubly_INC_sector_breakdown_[YYYYMMDD].csv
-      → Also: are they mostly BFSI, Chemicals, or Manufacturing?
+- [ ] Forward renewal calendar — predict July–September 2026 renewals
+      → Rating Date + 12 months = renewal month
+      → Find all companies with renewal due July / August / September 2026
+      → Output: csv/renewal_pipeline_Jul_Sep_2026_[YYYYMMDD].csv
+      → Priority: reach them NOW in June before renewal month
 
-- [ ] BFSI HIGH + INC overlap — ultimate BFSI hot list
-      → Companies that are BOTH HIGH urgency AND INC in BFSI
-      → Output: csv/bfsi_hot_leads_[YYYYMMDD].csv
-      → These are mandatory renewals + already dissatisfied = highest conversion
+- [ ] Manual sector tagging of 84 "Other/Unknown" doubly-INC companies
+      → Top priority leads are unclassified — use instrument type + rating text to infer sector
+      → Output: csv/doubly_INC_sector_breakdown_v2_[YYYYMMDD].csv (updated with classified sectors)
 
-- [ ] Seasonal issuance pattern analysis
-      → Which months have highest new instrument issuances? (from Rating Date)
-      → Both files combined
-      → Output: csv/seasonal_pattern_[YYYYMMDD].csv
-      → Key question: Are we at peak season now (June)?
+- [ ] 12 BFSI ULTRA HOT companies — deep profile
+      → These 12 companies (BOTH overdue AND INC) need director / decision-maker names
+      → Research via company name — derive CIN if possible, check public regulatory filings
+      → Output: csv/bfsi_ultra_hot_profiles_[YYYYMMDD].csv
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (3rd attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
 
-- [ ] Infrastructure sector deep-dive
-      → 1,246 leads in master list but sector brief was Session 1 (basic)
-      → Refresh with INC breakdown, agency breakdown, urgency
-      → Output: sector_Infrastructure_refresh_[YYYYMMDD].md
+- [ ] Construction sector brief
+      → 439 leads in master list — major sector not yet briefed
+      → Promote from P2: needed for complete sector coverage
+      → Output: sector_Construction_[YYYYMMDD].md + csv/leads_Construction_[YYYYMMDD].csv
 
 ---
 
@@ -59,13 +58,15 @@ Status: Session 3 complete. Session 4 starting next run.
       → Output: csv/master_company_database_[YYYYMMDD].csv
       → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score
 
-- [ ] Construction sector brief
-      → 439 leads in master list — major sector not yet briefed
-      → Output: sector_Construction_[YYYYMMDD].md
-
 - [ ] Healthcare sector brief
       → 194 leads — hospitals, diagnostics, pharma services
       → Output: sector_Healthcare_[YYYYMMDD].md
+
+- [ ] Infomerics vulnerability deep-dive
+      → Infomerics has highest INC rates across multiple sectors (infra: 41.5%, BFSI: dominates ULTRA HOT)
+      → Map full Infomerics client portfolio by sector × urgency × INC rate
+      → This is ACER's primary acquisition target — need full picture
+      → Output: csv/infomerics_full_vulnerability_[YYYYMMDD].csv + sector_Infomerics_vulnerability_[YYYYMMDD].md
 
 ---
 
@@ -121,3 +122,7 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] BFSI sector brief — 475 companies, 115 HIGH urgency, 69 INC — 2026-06-12 (Session 3)
 - [x] Chemicals/Pharma sector brief — 889 companies, 142 HIGH urgency, 384 INC — 2026-06-12 (Session 3)
 - [x] BSE SME fetch attempted — BLOCKED (403 Forbidden) — 2026-06-12 (Session 3)
+- [x] Sub-sector breakdown of 160 doubly-INC companies — Infrastructure leads (24) — 2026-06-13 (Session 4)
+- [x] BFSI hot list — 12 ULTRA HOT (overdue + INC), 186 total hot — 2026-06-13 (Session 4)
+- [x] Seasonal issuance pattern — July peak (9.7%), June below-average (7.7%) — 2026-06-13 (Session 4)
+- [x] Infrastructure sector deep-dive refresh — 1,246 leads, 305 HIGH, 124 INC — 2026-06-13 (Session 4)
