@@ -1,31 +1,31 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-13
-Status: Session 5 complete. Session 6 starting next run.
+Last Updated: 2026-06-14
+Status: Session 6 complete. Session 7 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Manufacturing sector brief
-      → 29 doubly-INC + likely 500+ more from full dataset — not yet briefed
-      → Use both files; keyword match: 'manufactur', 'industries', 'engineering', 'mfg', etc.
-      → Output: sector_Manufacturing_[YYYYMMDD].md + csv/leads_Manufacturing_[YYYYMMDD].csv
+- [ ] Healthcare sector brief
+      → 194 leads — hospitals, diagnostics, pharma services (promoted from P2)
+      → Use both files; keyword match: hospital, health, pharma, drug, medic, diagnostic, clinic, biotech
+      → Output: sector_Healthcare_[YYYYMMDD].md + csv/leads_Healthcare_[YYYYMMDD].csv
 
-- [ ] Infomerics vulnerability deep-dive
-      → Map ALL Infomerics INC clients: sector × size × instrument × urgency
-      → INC rates: Infra 41.5%, Construction 23.1%, BFSI dominates ULTRA HOT
-      → Output: csv/infomerics_full_vulnerability_[YYYYMMDD].csv + sector_Infomerics_vulnerability_[YYYYMMDD].md
-      → Promoted from P2 — Infomerics is ACER's #1 acquisition target
+- [ ] Brickwork deep-dive
+      → 572 INC companies with renewal NOW; 1,527 total INC (largest SME-focused INC pool)
+      → Direct competitor displacement playbook — most actionable for sales team
+      → Output: csv/brickwork_INC_full_[YYYYMMDD].csv + analysis of Brickwork vs ACER positioning
+      → Promoted from P3 — July blitz confirmed Brickwork as ACER's top displacement target
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (4th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (5th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
 
-- [ ] July contact blitz list — INC + renewal due July 2026
-      → Subset of renewal pipeline: companies where INC = Y AND renewal month = July 2026
-      → Filter by Infomerics + Brickwork (most switchable) first
-      → Output: csv/july_blitz_INC_20260613.csv — prioritized outreach list for first week of July
+- [ ] Regional clustering of July blitz list
+      → Derive state/region from company name or MCA enrichment
+      → Group 3,230 July blitz companies by region → enable regional sales blitzes
+      → Output: csv/july_blitz_by_region_[YYYYMMDD].csv + region_blitz_map_[YYYYMMDD].md
 
 ---
 
@@ -54,9 +54,10 @@ Status: Session 5 complete. Session 6 starting next run.
       → Output: csv/master_company_database_[YYYYMMDD].csv
       → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score
 
-- [ ] Healthcare sector brief
-      → 194 leads — hospitals, diagnostics, pharma services
-      → Output: sector_Healthcare_[YYYYMMDD].md
+- [ ] Master company database
+      → Unified deduped list across both files (now 3,572 mfg + 3,230 blitz + prior sessions)
+      → Output: csv/master_company_database_[YYYYMMDD].csv
+      → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score
 
 ---
 
@@ -120,3 +121,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Sector tagging of 84 Other/Unknown doubly-INC companies — all classified — 2026-06-13 (Session 5)
 - [x] 12 BFSI ULTRA HOT deep profiles — overdue days, sizes, pitch scripts — 2026-06-13 (Session 5)
 - [x] Construction sector brief — 1,289 companies, 624 HIGH, 1,231 INC (38%) — 2026-06-13 (Session 5)
+- [x] Manufacturing sector brief — 3,572 companies, 846 HIGH, 1,619 INC (45.3%) — 2026-06-14 (Session 6)
+- [x] Infomerics vulnerability deep-dive — 996 INC companies, 23.9% overall INC rate — 2026-06-14 (Session 6)
+- [x] July contact blitz list — 3,230 companies, Brickwork 572 + Infomerics 350 top targets — 2026-06-14 (Session 6)
