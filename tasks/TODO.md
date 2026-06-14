@@ -1,31 +1,33 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-14
-Status: Session 6 complete. Session 7 starting next run.
+Status: Session 7 complete. Session 8 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Healthcare sector brief
-      → 194 leads — hospitals, diagnostics, pharma services (promoted from P2)
-      → Use both files; keyword match: hospital, health, pharma, drug, medic, diagnostic, clinic, biotech
-      → Output: sector_Healthcare_[YYYYMMDD].md + csv/leads_Healthcare_[YYYYMMDD].csv
+- [ ] Master company database — HIGH PRIORITY
+      → Unify all leads across all sessions (Manufacturing 3,572 + Healthcare 807 + Construction 1,289
+        + Infrastructure 1,246 + BFSI 475 + Chemicals 889 + July blitz 3,230 = deduplicated master)
+      → Estimate: 8,000-12,000 unique companies total
+      → Output: csv/master_company_database_[YYYYMMDD].csv
+      → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score | INC
 
-- [ ] Brickwork deep-dive
-      → 572 INC companies with renewal NOW; 1,527 total INC (largest SME-focused INC pool)
-      → Direct competitor displacement playbook — most actionable for sales team
-      → Output: csv/brickwork_INC_full_[YYYYMMDD].csv + analysis of Brickwork vs ACER positioning
-      → Promoted from P3 — July blitz confirmed Brickwork as ACER's top displacement target
+- [ ] June 2026 URGENT sub-list — "Call TODAY" list
+      → Extract 1,018 June 2026 renewal companies from july_blitz_by_region_20260614.csv
+      → These are ALREADY OVERDUE — banks calling now
+      → Sort by Days Since Rating descending
+      → Output: csv/june_urgent_TODAY_[YYYYMMDD].csv
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (5th attempt note)
+- [ ] ACER whitespace map — Region × Sector gap analysis
+      → Which Region × Sector combinations have highest INC density?
+      → Use master company database once built
+      → Output: region_whitespace_map_[YYYYMMDD].md
+
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (6th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
-
-- [ ] Regional clustering of July blitz list
-      → Derive state/region from company name or MCA enrichment
-      → Group 3,230 July blitz companies by region → enable regional sales blitzes
-      → Output: csv/july_blitz_by_region_[YYYYMMDD].csv + region_blitz_map_[YYYYMMDD].md
 
 ---
 
@@ -49,15 +51,10 @@ Status: Session 6 complete. Session 7 starting next run.
       → Unblock by: deriving state from company name / MCA enrichment
       → Once unblocked: region_North.md / region_South.md / region_West.md / region_East.md
 
-- [ ] Master company database
-      → Unified deduped list across both files
-      → Output: csv/master_company_database_[YYYYMMDD].csv
-      → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score
-
-- [ ] Master company database
-      → Unified deduped list across both files (now 3,572 mfg + 3,230 blitz + prior sessions)
-      → Output: csv/master_company_database_[YYYYMMDD].csv
-      → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score
+- [ ] MCA enrichment pilot
+      → Test CIN-based state mapping on 50 companies manually via mca.gov.in
+      → CIN state codes: MH=Maharashtra, GJ=Gujarat, DL=Delhi, TN=Tamil Nadu etc.
+      → If feasible: unlock regional mapping for full 3,230 blitz list
 
 ---
 
@@ -71,10 +68,10 @@ Status: Session 6 complete. Session 7 starting next run.
       → Short Term / Long Term / Structured Finance buckets
       → Which instrument family has most INC exposure?
 
-- [ ] Brickwork deep-dive
-      → 1,527 Brickwork INC companies — largest SME-focused INC pool
-      → Most switchable to ACER (Brickwork is direct competitor)
-      → Output: csv/brickwork_INC_full_[YYYYMMDD].csv
+- [ ] Bank Guarantee product verification
+      → Check if ACER has BG rating capability (867 Brickwork INC BG companies depend on this)
+      → If yes: immediate unlock of contractor segment
+      → Note for team: confirm with ACER product team before next blitz call
 
 - [ ] Agency concentration per sector
       → Which sectors are most dependent on a single agency?
@@ -124,3 +121,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Manufacturing sector brief — 3,572 companies, 846 HIGH, 1,619 INC (45.3%) — 2026-06-14 (Session 6)
 - [x] Infomerics vulnerability deep-dive — 996 INC companies, 23.9% overall INC rate — 2026-06-14 (Session 6)
 - [x] July contact blitz list — 3,230 companies, Brickwork 572 + Infomerics 350 top targets — 2026-06-14 (Session 6)
+- [x] Healthcare sector brief — 807 companies, 315 INC (39%), 106 HIGH urgency — 2026-06-14 (Session 7)
+- [x] Brickwork deep-dive — 1,950 INC companies (89.7% INC rate), displacement playbook written — 2026-06-14 (Session 7)
+- [x] Regional clustering of July blitz — 116/3,230 geolocated, June urgent cohort identified (1,018) — 2026-06-14 (Session 7)
