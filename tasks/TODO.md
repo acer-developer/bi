@@ -1,30 +1,31 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-14
-Status: Session 7 complete. Session 8 starting next run.
+Last Updated: 2026-06-15
+Status: Session 8 complete. Session 9 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Master company database — HIGH PRIORITY
-      → Unify all leads across all sessions (Manufacturing 3,572 + Healthcare 807 + Construction 1,289
-        + Infrastructure 1,246 + BFSI 475 + Chemicals 889 + July blitz 3,230 = deduplicated master)
-      → Estimate: 8,000-12,000 unique companies total
-      → Output: csv/master_company_database_[YYYYMMDD].csv
-      → Columns: Company | All Raters | All Instruments | Sectors | State | Urgency Score | INC
+- [ ] Agro/Food sector deep-dive — HIGH PRIORITY (NEW)
+      → 478 INC companies identified — never been briefed
+      → June-July is pre-Kharif season — TIMING IS NOW
+      → Output: sector_AgroFood_refresh_[YYYYMMDD].md
+      → Output: csv/leads_AgroFood_full_[YYYYMMDD].csv (all 812 companies)
+      → Output: csv/agrofood_INC_[YYYYMMDD].csv (478 INC companies for blitz)
 
-- [ ] June 2026 URGENT sub-list — "Call TODAY" list
-      → Extract 1,018 June 2026 renewal companies from july_blitz_by_region_20260614.csv
-      → These are ALREADY OVERDUE — banks calling now
-      → Sort by Days Since Rating descending
-      → Output: csv/june_urgent_TODAY_[YYYYMMDD].csv
+- [ ] Textiles sector deep-dive — HIGH PRIORITY (NEW)
+      → 214 INC companies (63.7% INC rate — highest of any classified sector)
+      → Surat, Tirupur, Hooghly clusters to highlight
+      → Output: sector_Textiles_refresh_[YYYYMMDD].md
+      → Output: csv/leads_Textiles_full_[YYYYMMDD].csv (all 336 companies)
 
-- [ ] ACER whitespace map — Region × Sector gap analysis
-      → Which Region × Sector combinations have highest INC density?
-      → Use master company database once built
-      → Output: region_whitespace_map_[YYYYMMDD].md
+- [ ] Instrument family grouping — PROMOTE TO P1
+      → Short-term vs Long-term vs Structured Finance buckets
+      → Which instrument family has highest INC exposure?
+      → Output: csv/instrument_family_INC_[YYYYMMDD].csv
+      → Output: instrument_family_brief_[YYYYMMDD].md
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (6th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (7th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -60,13 +61,11 @@ Status: Session 7 complete. Session 8 starting next run.
 
 ## P3 — Exploratory
 
-- [ ] ACER whitespace map
-      → Region x Sector gap table
-      → Output: region_whitespace_map_[YYYYMMDD].md
+- [ ] ACER whitespace map — COMPLETED 2026-06-15 (Session 8)
+      → region_whitespace_map_20260615.md — Sector scores + Region x Sector cross-tab
 
-- [ ] Instrument family grouping
-      → Short Term / Long Term / Structured Finance buckets
-      → Which instrument family has most INC exposure?
+- [ ] Instrument family grouping — PROMOTED TO P1
+      → See P1 above
 
 - [ ] Bank Guarantee product verification
       → Check if ACER has BG rating capability (867 Brickwork INC BG companies depend on this)
@@ -124,3 +123,8 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Healthcare sector brief — 807 companies, 315 INC (39%), 106 HIGH urgency — 2026-06-14 (Session 7)
 - [x] Brickwork deep-dive — 1,950 INC companies (89.7% INC rate), displacement playbook written — 2026-06-14 (Session 7)
 - [x] Regional clustering of July blitz — 116/3,230 geolocated, June urgent cohort identified (1,018) — 2026-06-14 (Session 7)
+- [x] Master company database — 20,918 unique companies, 9,461 INC (45.2%) — 2026-06-15 (Session 8)
+- [x] June 2026 urgent "Call TODAY" list — 1,883 overdue companies, 984 INC — 2026-06-15 (Session 8)
+- [x] ACER whitespace map — Sector scores + Region x Sector INC density — 2026-06-15 (Session 8)
+- [x] Top targets CSV (INC + HIGH urgency) — 962 companies — 2026-06-15 (Session 8)
+- [x] Multi-agency + HIGH urgency warmest leads — 83 companies — 2026-06-15 (Session 8)
