@@ -1,31 +1,33 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-15
-Status: Session 8 complete. Session 9 starting next run.
+Status: Session 9 complete. Session 10 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Agro/Food sector deep-dive — HIGH PRIORITY (NEW)
-      → 478 INC companies identified — never been briefed
-      → June-July is pre-Kharif season — TIMING IS NOW
-      → Output: sector_AgroFood_refresh_[YYYYMMDD].md
-      → Output: csv/leads_AgroFood_full_[YYYYMMDD].csv (all 812 companies)
-      → Output: csv/agrofood_INC_[YYYYMMDD].csv (478 INC companies for blitz)
+- [ ] BFSI NBFC/MFI sub-segment outreach playbook — CARRY FORWARD
+      → 60 HIGH urgency NBFCs flagged since Session 5 — never got a dedicated playbook
+      → Separate NBFC from Banks from MFIs in BFSI dataset
+      → Pitch scripts differ: NBFCs need RBI regulatory compliance angle; Banks need peer benchmark
+      → Output: sector_BFSI_NBFC_[YYYYMMDD].md
+      → Output: csv/leads_NBFC_[YYYYMMDD].csv
 
-- [ ] Textiles sector deep-dive — HIGH PRIORITY (NEW)
-      → 214 INC companies (63.7% INC rate — highest of any classified sector)
-      → Surat, Tirupur, Hooghly clusters to highlight
-      → Output: sector_Textiles_refresh_[YYYYMMDD].md
-      → Output: csv/leads_Textiles_full_[YYYYMMDD].csv (all 336 companies)
+- [ ] Education sector deep-dive — PROMOTE TO P1
+      → 31.4% HIGH urgency rate — highest of any sector
+      → Only 30% INC rate (lower than average) — different dynamics from other sectors
+      → 70 companies total, small but may reveal pattern: private universities, coaching chains
+      → Output: sector_Education_[YYYYMMDD].md
+      → Output: csv/leads_Education_[YYYYMMDD].csv
 
-- [ ] Instrument family grouping — PROMOTE TO P1
-      → Short-term vs Long-term vs Structured Finance buckets
-      → Which instrument family has highest INC exposure?
-      → Output: csv/instrument_family_INC_[YYYYMMDD].csv
-      → Output: instrument_family_brief_[YYYYMMDD].md
+- [ ] Agency concentration by sector — PROMOTE TO P1
+      → Which sectors are most dependent on a single agency?
+      → Single-agency sectors = lowest switching friction for ACER
+      → Combine with INC rate for "vulnerability score" per sector × agency
+      → Output: csv/agency_sector_concentration_[YYYYMMDD].csv
+      → Output: agency_concentration_brief_[YYYYMMDD].md
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (7th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (8th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -128,3 +130,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] ACER whitespace map — Sector scores + Region x Sector INC density — 2026-06-15 (Session 8)
 - [x] Top targets CSV (INC + HIGH urgency) — 962 companies — 2026-06-15 (Session 8)
 - [x] Multi-agency + HIGH urgency warmest leads — 83 companies — 2026-06-15 (Session 8)
+- [x] Agro/Food sector deep-dive — 812 companies, 478 INC (58.9%), June Kharif pitch window — 2026-06-15 (Session 9)
+- [x] Textiles sector deep-dive — 336 companies, 214 INC (63.7%), cluster playbook written — 2026-06-15 (Session 9)
+- [x] Instrument family grouping — Short-term 40% INC, Long-term 35.4% INC; BG (48.6%) + LC (50.6%) are hottest instruments — 2026-06-15 (Session 9)
