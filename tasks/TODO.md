@@ -1,32 +1,26 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-16
-Status: Session 10 complete. Session 11 starting next run.
+Status: Session 11 complete. Session 12 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Hotels/Tourism sector blitz — PROMOTE TO P1
-      → 84 companies, 90.5% single-agency (HIGHEST of any sector) — easiest penetration
-      → 38.1% INC rate + 11.9% HIGH urgency — moderate but concentrated
-      → Geographic hypothesis: Maharashtra, Goa, Rajasthan, Delhi — one regional push
-      → Output: sector_Hotels_Tourism_[YYYYMMDD].md
-      → Output: csv/leads_Hotels_Tourism_[YYYYMMDD].csv
+- [ ] Automobiles/Auto sector brief — PROMOTE TO P1
+      → 309 companies (NEW sector discovered in Session 11), 67.6% INC, CRISIL holds 49.5%
+      → 30 HIGH urgency + 17 ultra-hot (INC+HIGH) — strong immediate pipeline
+      → Fee wedge pitch: CRISIL charges ₹4–6L; ACER at ₹1.5–2.5L for same SEBI output
+      → Output: sector_Automobiles_Auto_[YYYYMMDD].md
+      → Data already in: csv/leads_Automobiles_Auto_20260616.csv
 
-- [ ] IT/Software sector deep-dive — PROMOTE TO P1
-      → 265 companies, 44.2% INC rate — significant opportunity
-      → Likely clustered in Bangalore/Hyderabad/Pune — regional angle possible
-      → Output: sector_IT_Software_[YYYYMMDD].md
-      → Output: csv/leads_IT_Software_[YYYYMMDD].csv
+- [ ] Chemicals/Pharma sector full brief — PROMOTE TO P1
+      → Expanded from 139 → 726 companies after reclassification (+422%)
+      → ~45% INC rate; now a top-6 sector by volume
+      → Previous brief (Session 3) was based on 139 companies — OUTDATED
+      → Output: sector_ChemicalsPharma_full_[YYYYMMDD].md
+      → Output: csv/leads_ChemicalsPharma_full_[YYYYMMDD].csv
 
-- [ ] "Other" bucket sub-classification attempt — PROMOTE TO P1
-      → 14,166 companies in "Other" sector = 67.7% of master DB
-      → Attempt keyword classification to uncover hidden sectors
-      → Even 20% reclassification = 2,800 companies newly organized
-      → Output: csv/other_reclassified_[YYYYMMDD].csv
-      → Output: other_sector_breakdown_[YYYYMMDD].md
-
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (9th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (10th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -35,12 +29,27 @@ Status: Session 10 complete. Session 11 starting next run.
 
 ## P2 — Next Sessions
 
+- [ ] Jewellery/Gems sector brief
+      → 183 companies (NEW sector discovered Session 11), 43.2% INC, 86.3% single-agency
+      → Gemstone/diamond clusters: Mumbai (Bharat Diamond Bourse), Surat (diamonds), Jaipur (gems)
+      → Output: sector_Jewellery_Gems_[YYYYMMDD].md
+
+- [ ] Logistics sector full brief
+      → 275 companies (nearly doubled after reclassification: 139 → 275)
+      → 41.2% INC, 87.5% single-agency; aligned with DMIC/industrial corridors
+      → Output: sector_Logistics_[YYYYMMDD].md
+
+- [ ] MCA CIN NIC code enrichment
+      → 8,356 "Other (Unclassified)" companies remain after keyword reclassification
+      → CIN NIC code (positions 5–10 in CIN) encodes industry activity
+      → Estimated unlock: ~3,000–4,000 more companies classified
+      → High-value unlock for state-level targeting AND industry coverage
+      → First step: extract CIN from any available source
+
 - [ ] Fetch NSE Emerge listed companies
-      → URL: https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv
       → BLOCKED by firewall — needs manual download
       → Save raw: csv/raw/nse_equity_raw_[YYYYMMDD].csv
       → Cross match with ratings data
-      → Output: csv/nse_matched_[YYYYMMDD].csv
 
 - [ ] Enrich company list with director/CEO/CFO names
       → Source: https://www.zaubacorp.com
@@ -50,13 +59,8 @@ Status: Session 10 complete. Session 11 starting next run.
 
 - [ ] Regional Territory Maps
       → Currently BLOCKED — no State column in either file
-      → Unblock by: deriving state from company name / MCA enrichment
+      → Unblock by: MCA CIN state-code enrichment
       → Once unblocked: region_North.md / region_South.md / region_West.md / region_East.md
-
-- [ ] MCA enrichment pilot
-      → Test CIN-based state mapping on 50 companies manually via mca.gov.in
-      → CIN state codes: MH=Maharashtra, GJ=Gujarat, DL=Delhi, TN=Tamil Nadu etc.
-      → If feasible: unlock regional mapping for full 3,230 blitz list
 
 - [ ] Agency × Instrument Family matrix
       → Which agency has highest BG/LC INC rate?
@@ -139,3 +143,9 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] BFSI NBFC/MFI sub-segment playbook — 496 NBFC/MFI/HFC leads, 56 HIGH urgency, regulatory pitch scripts — 2026-06-16 (Session 10)
 - [x] Education sector deep-dive — 70 companies, 31.4% HIGH urgency (highest sector), Infomerics leads sector — 2026-06-16 (Session 10)
 - [x] Agency concentration by sector — 14 sectors scored, vulnerability index built, no monopoly found, 3-phase attack sequence — 2026-06-16 (Session 10)
+- [x] Hotels/Tourism sector blitz — expanded to 247 companies (from 84), 38.1% INC, 85% single-agency, 7 ultra-hot — 2026-06-16 (Session 11)
+- [x] IT/Software deep-dive — expanded to 812 companies (from 265), 42.5% INC, 70 HIGH urgency, 30 ultra-hot — 2026-06-16 (Session 11)
+- [x] "Other" bucket reclassification — 14,166 companies analyzed, 5,810 reclassified (41%), 7 new sectors discovered — 2026-06-16 (Session 11)
+- [x] Automobiles/Auto NEW sector — 309 companies, 67.6% INC, CRISIL-dominant, lead file produced — 2026-06-16 (Session 11)
+- [x] Paper/Packaging NEW sector — 64 companies, 76.6% INC (highest sector rate), lead file produced — 2026-06-16 (Session 11)
+- [x] Mining/Minerals NEW sector — 183 companies, 54.6% INC, lead file produced — 2026-06-16 (Session 11)
