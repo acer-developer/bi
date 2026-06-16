@@ -1,33 +1,32 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-15
-Status: Session 9 complete. Session 10 starting next run.
+Last Updated: 2026-06-16
+Status: Session 10 complete. Session 11 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] BFSI NBFC/MFI sub-segment outreach playbook — CARRY FORWARD
-      → 60 HIGH urgency NBFCs flagged since Session 5 — never got a dedicated playbook
-      → Separate NBFC from Banks from MFIs in BFSI dataset
-      → Pitch scripts differ: NBFCs need RBI regulatory compliance angle; Banks need peer benchmark
-      → Output: sector_BFSI_NBFC_[YYYYMMDD].md
-      → Output: csv/leads_NBFC_[YYYYMMDD].csv
+- [ ] Hotels/Tourism sector blitz — PROMOTE TO P1
+      → 84 companies, 90.5% single-agency (HIGHEST of any sector) — easiest penetration
+      → 38.1% INC rate + 11.9% HIGH urgency — moderate but concentrated
+      → Geographic hypothesis: Maharashtra, Goa, Rajasthan, Delhi — one regional push
+      → Output: sector_Hotels_Tourism_[YYYYMMDD].md
+      → Output: csv/leads_Hotels_Tourism_[YYYYMMDD].csv
 
-- [ ] Education sector deep-dive — PROMOTE TO P1
-      → 31.4% HIGH urgency rate — highest of any sector
-      → Only 30% INC rate (lower than average) — different dynamics from other sectors
-      → 70 companies total, small but may reveal pattern: private universities, coaching chains
-      → Output: sector_Education_[YYYYMMDD].md
-      → Output: csv/leads_Education_[YYYYMMDD].csv
+- [ ] IT/Software sector deep-dive — PROMOTE TO P1
+      → 265 companies, 44.2% INC rate — significant opportunity
+      → Likely clustered in Bangalore/Hyderabad/Pune — regional angle possible
+      → Output: sector_IT_Software_[YYYYMMDD].md
+      → Output: csv/leads_IT_Software_[YYYYMMDD].csv
 
-- [ ] Agency concentration by sector — PROMOTE TO P1
-      → Which sectors are most dependent on a single agency?
-      → Single-agency sectors = lowest switching friction for ACER
-      → Combine with INC rate for "vulnerability score" per sector × agency
-      → Output: csv/agency_sector_concentration_[YYYYMMDD].csv
-      → Output: agency_concentration_brief_[YYYYMMDD].md
+- [ ] "Other" bucket sub-classification attempt — PROMOTE TO P1
+      → 14,166 companies in "Other" sector = 67.7% of master DB
+      → Attempt keyword classification to uncover hidden sectors
+      → Even 20% reclassification = 2,800 companies newly organized
+      → Output: csv/other_reclassified_[YYYYMMDD].csv
+      → Output: other_sector_breakdown_[YYYYMMDD].md
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (8th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (9th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -59,24 +58,28 @@ Status: Session 9 complete. Session 10 starting next run.
       → CIN state codes: MH=Maharashtra, GJ=Gujarat, DL=Delhi, TN=Tamil Nadu etc.
       → If feasible: unlock regional mapping for full 3,230 blitz list
 
+- [ ] Agency × Instrument Family matrix
+      → Which agency has highest BG/LC INC rate?
+      → Brickwork suspected top for BG; CARE suspected for LC
+      → Output: csv/agency_instrument_INC_matrix_[YYYYMMDD].csv
+
 ---
 
 ## P3 — Exploratory
 
-- [ ] ACER whitespace map — COMPLETED 2026-06-15 (Session 8)
-      → region_whitespace_map_20260615.md — Sector scores + Region x Sector cross-tab
-
-- [ ] Instrument family grouping — PROMOTED TO P1
-      → See P1 above
-
 - [ ] Bank Guarantee product verification
-      → Check if ACER has BG rating capability (867 Brickwork INC BG companies depend on this)
+      → Check if ACER has BG rating capability (3,593 INC BG companies depend on this)
       → If yes: immediate unlock of contractor segment
       → Note for team: confirm with ACER product team before next blitz call
 
-- [ ] Agency concentration per sector
-      → Which sectors are most dependent on a single agency?
-      → Single-agency sectors = lowest switching friction for ACER
+- [ ] Logistics sector brief
+      → 139 companies, 40.3% INC — aligned with industrial corridors
+      → Output: sector_Logistics_[YYYYMMDD].md
+
+- [ ] Chemicals/Pharma sector refresh
+      → 139 companies, 49.6% INC — significant but small sector
+      → Was covered in Session 3 — refresh with current urgency scores
+      → Output: sector_ChemicalsPharma_refresh_[YYYYMMDD].md
 
 ---
 
@@ -133,3 +136,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Agro/Food sector deep-dive — 812 companies, 478 INC (58.9%), June Kharif pitch window — 2026-06-15 (Session 9)
 - [x] Textiles sector deep-dive — 336 companies, 214 INC (63.7%), cluster playbook written — 2026-06-15 (Session 9)
 - [x] Instrument family grouping — Short-term 40% INC, Long-term 35.4% INC; BG (48.6%) + LC (50.6%) are hottest instruments — 2026-06-15 (Session 9)
+- [x] BFSI NBFC/MFI sub-segment playbook — 496 NBFC/MFI/HFC leads, 56 HIGH urgency, regulatory pitch scripts — 2026-06-16 (Session 10)
+- [x] Education sector deep-dive — 70 companies, 31.4% HIGH urgency (highest sector), Infomerics leads sector — 2026-06-16 (Session 10)
+- [x] Agency concentration by sector — 14 sectors scored, vulnerability index built, no monopoly found, 3-phase attack sequence — 2026-06-16 (Session 10)
