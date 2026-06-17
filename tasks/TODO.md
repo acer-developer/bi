@@ -1,26 +1,24 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-16
-Status: Session 11 complete. Session 12 starting next run.
+Last Updated: 2026-06-17
+Status: Session 12 complete. Session 13 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] Automobiles/Auto sector brief — PROMOTE TO P1
-      → 309 companies (NEW sector discovered in Session 11), 67.6% INC, CRISIL holds 49.5%
-      → 30 HIGH urgency + 17 ultra-hot (INC+HIGH) — strong immediate pipeline
-      → Fee wedge pitch: CRISIL charges ₹4–6L; ACER at ₹1.5–2.5L for same SEBI output
-      → Output: sector_Automobiles_Auto_[YYYYMMDD].md
-      → Data already in: csv/leads_Automobiles_Auto_20260616.csv
+- [ ] July 2026 Mega Blitz List — PROMOTE TO P1
+      → Compile ALL HIGH urgency leads across every sector into one actionable master call list
+      → Current total HIGH urgency: ~500+ companies across 15+ sectors
+      → Sort by: Ultra-hot first, then sector priority, then recency
+      → Output: csv/july_blitz_master_[YYYYMMDD].csv
+      → Supplemental: blitz_by_sector_[YYYYMMDD].md
 
-- [ ] Chemicals/Pharma sector full brief — PROMOTE TO P1
-      → Expanded from 139 → 726 companies after reclassification (+422%)
-      → ~45% INC rate; now a top-6 sector by volume
-      → Previous brief (Session 3) was based on 139 companies — OUTDATED
-      → Output: sector_ChemicalsPharma_full_[YYYYMMDD].md
-      → Output: csv/leads_ChemicalsPharma_full_[YYYYMMDD].csv
+- [ ] Logistics sector brief — PROMOTE TO P1
+      → 275 companies, lead file ready (leads_Logistics_20260617.csv)
+      → 40.7% INC, 35 HIGH urgency; aligned with DMIC/industrial corridors
+      → Output: sector_Logistics_[YYYYMMDD].md
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (10th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (11th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -29,15 +27,22 @@ Status: Session 11 complete. Session 12 starting next run.
 
 ## P2 — Next Sessions
 
-- [ ] Jewellery/Gems sector brief
-      → 183 companies (NEW sector discovered Session 11), 43.2% INC, 86.3% single-agency
-      → Gemstone/diamond clusters: Mumbai (Bharat Diamond Bourse), Surat (diamonds), Jaipur (gems)
-      → Output: sector_Jewellery_Gems_[YYYYMMDD].md
+- [ ] Trading/Exports sector brief
+      → 198 companies, lead file ready (leads_Trading_Exports_20260617.csv)
+      → 64.1% INC (3rd highest sector rate), August export season pitch window
+      → Output: sector_Trading_Exports_[YYYYMMDD].md
 
-- [ ] Logistics sector full brief
-      → 275 companies (nearly doubled after reclassification: 139 → 275)
-      → 41.2% INC, 87.5% single-agency; aligned with DMIC/industrial corridors
-      → Output: sector_Logistics_[YYYYMMDD].md
+- [ ] Paper/Packaging pitch pack
+      → 64 companies, 76.6% INC (highest of all sectors), lead file ready (Session 11)
+      → Re-engagement angle: companies had ratings before, just lapsed
+      → CRISIL 59% + Brickwork 37.5% = displacement opportunity
+      → Output: sector_Paper_Packaging_[YYYYMMDD].md
+
+- [ ] Agency × Instrument Family matrix
+      → Which agency has highest BG/LC INC rate?
+      → BG is cross-sector instrument (IT 33%, Chem 19%, Auto 18%, Infra ~25%)
+      → Brickwork suspected top for BG; CARE suspected for LC
+      → Output: csv/agency_instrument_INC_matrix_[YYYYMMDD].csv
 
 - [ ] MCA CIN NIC code enrichment
       → 8,356 "Other (Unclassified)" companies remain after keyword reclassification
@@ -62,11 +67,6 @@ Status: Session 11 complete. Session 12 starting next run.
       → Unblock by: MCA CIN state-code enrichment
       → Once unblocked: region_North.md / region_South.md / region_West.md / region_East.md
 
-- [ ] Agency × Instrument Family matrix
-      → Which agency has highest BG/LC INC rate?
-      → Brickwork suspected top for BG; CARE suspected for LC
-      → Output: csv/agency_instrument_INC_matrix_[YYYYMMDD].csv
-
 ---
 
 ## P3 — Exploratory
@@ -76,14 +76,9 @@ Status: Session 11 complete. Session 12 starting next run.
       → If yes: immediate unlock of contractor segment
       → Note for team: confirm with ACER product team before next blitz call
 
-- [ ] Logistics sector brief
-      → 139 companies, 40.3% INC — aligned with industrial corridors
-      → Output: sector_Logistics_[YYYYMMDD].md
-
-- [ ] Chemicals/Pharma sector refresh
-      → 139 companies, 49.6% INC — significant but small sector
-      → Was covered in Session 3 — refresh with current urgency scores
-      → Output: sector_ChemicalsPharma_refresh_[YYYYMMDD].md
+- [ ] Mining/Minerals sector brief
+      → 183 companies, 54.6% INC, lead file already produced (Session 11)
+      → Output: sector_Mining_Minerals_[YYYYMMDD].md
 
 ---
 
@@ -149,3 +144,8 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Automobiles/Auto NEW sector — 309 companies, 67.6% INC, CRISIL-dominant, lead file produced — 2026-06-16 (Session 11)
 - [x] Paper/Packaging NEW sector — 64 companies, 76.6% INC (highest sector rate), lead file produced — 2026-06-16 (Session 11)
 - [x] Mining/Minerals NEW sector — 183 companies, 54.6% INC, lead file produced — 2026-06-16 (Session 11)
+- [x] Automobiles/Auto sector brief — 309 companies, 17 ultra-hot, CRISIL 57%, Brickwork displacement — 2026-06-17 (Session 12)
+- [x] Chemicals/Pharma FULL sector brief — 763 companies (+449% vs Session 3), 40 ultra-hot, 4 pitch scripts — 2026-06-17 (Session 12)
+- [x] Jewellery/Gems sector brief — 183 companies, 43.2% INC, 86.3% single-agency, Surat/Jaipur/Mumbai clusters — 2026-06-17 (Session 12)
+- [x] Logistics lead file produced — 275 companies (139 orig + 136 reclassified), 40.7% INC — 2026-06-17 (Session 12)
+- [x] Trading/Exports lead file produced — 198 companies, 64.1% INC — 2026-06-17 (Session 12)
