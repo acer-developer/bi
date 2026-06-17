@@ -1,24 +1,22 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-17
-Status: Session 12 complete. Session 13 starting next run.
+Status: Session 13 complete. Session 14 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] July 2026 Mega Blitz List — PROMOTE TO P1
-      → Compile ALL HIGH urgency leads across every sector into one actionable master call list
-      → Current total HIGH urgency: ~500+ companies across 15+ sectors
-      → Sort by: Ultra-hot first, then sector priority, then recency
-      → Output: csv/july_blitz_master_[YYYYMMDD].csv
-      → Supplemental: blitz_by_sector_[YYYYMMDD].md
+- [x] July 2026 Mega Blitz List — COMPLETE — 2026-06-17 (Session 13)
+      → 1,602 HIGH urgency companies compiled across 18 sectors
+      → 451 ULTRA HOT (HIGH + INC) | 1,151 HOT | 3-wave call strategy defined
+      → Output: csv/july_blitz_master_20260617.csv + blitz_by_sector_20260617.md
 
-- [ ] Logistics sector brief — PROMOTE TO P1
-      → 275 companies, lead file ready (leads_Logistics_20260617.csv)
-      → 40.7% INC, 35 HIGH urgency; aligned with DMIC/industrial corridors
-      → Output: sector_Logistics_[YYYYMMDD].md
+- [x] Logistics sector brief — COMPLETE — 2026-06-17 (Session 13)
+      → 275 companies | 112 INC (40.7%) | 35 HIGH | 12 Ultra Hot
+      → Brickwork 94.1% INC rate — highest single-agency abandonment rate seen
+      → Output: sector_Logistics_20260617.md
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (11th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (13th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -27,13 +25,14 @@ Status: Session 12 complete. Session 13 starting next run.
 
 ## P2 — Next Sessions
 
-- [ ] Trading/Exports sector brief
+- [ ] Trading/Exports sector brief — PROMOTE TO P1 NEXT SESSION
       → 198 companies, lead file ready (leads_Trading_Exports_20260617.csv)
-      → 64.1% INC (3rd highest sector rate), August export season pitch window
+      → 64.1% INC, 76.5% of HIGH urgency are ULTRA HOT — highest hit rate in blitz
+      → August export season pitch window opening
       → Output: sector_Trading_Exports_[YYYYMMDD].md
 
-- [ ] Paper/Packaging pitch pack
-      → 64 companies, 76.6% INC (highest of all sectors), lead file ready (Session 11)
+- [ ] Paper/Packaging pitch pack — PROMOTE TO P1 NEXT SESSION
+      → 64 companies, 76.6% INC (highest of all sectors), 100% ULTRA HOT among HIGH urgency
       → Re-engagement angle: companies had ratings before, just lapsed
       → CRISIL 59% + Brickwork 37.5% = displacement opportunity
       → Output: sector_Paper_Packaging_[YYYYMMDD].md
@@ -149,3 +148,5 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Jewellery/Gems sector brief — 183 companies, 43.2% INC, 86.3% single-agency, Surat/Jaipur/Mumbai clusters — 2026-06-17 (Session 12)
 - [x] Logistics lead file produced — 275 companies (139 orig + 136 reclassified), 40.7% INC — 2026-06-17 (Session 12)
 - [x] Trading/Exports lead file produced — 198 companies, 64.1% INC — 2026-06-17 (Session 12)
+- [x] July 2026 Mega Blitz Master — 1,602 HIGH urgency companies, 451 Ultra Hot, 1,151 Hot, 18 sectors — 2026-06-17 (Session 13)
+- [x] Logistics sector brief — 275 companies, 94.1% Brickwork INC, 12 ultra-hot, Whitespace Score 20/25 — 2026-06-17 (Session 13)
