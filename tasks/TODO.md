@@ -1,54 +1,51 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-18
-Status: Session 14 complete. Session 15 starting next run.
+Status: Session 15 complete. Session 16 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (14th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (15th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
 
-- [ ] BRICKWORK Master Displacement File — PROMOTE TO P1 NEXT SESSION
-      → Aggregate all ~3,600 BRICKWORK working capital INC companies across all sectors
-      → Single actionable master file: BW_displacement_master_[YYYYMMDD].csv
-      → This is ACER's highest-yield single call list: 86-88% INC on BG/LC/Term loans
-      → Matrix confirmed: BG 86.5%, LC 87.9%, Term loans 86.1% (session_20260618)
+- [ ] MCA CIN NIC code enrichment — PROMOTE TO P1
+      → 724 unclassified BRICKWORK INC companies + 8,356 total "Other" companies
+      → CIN NIC code (positions 5-10 in CIN) encodes industry activity
+      → Estimated unlock: ~3,000–4,000 more companies classified
+      → First step: extract CIN from any available source or manual upload
+      → Highest-value single unlock remaining in the database
 
-- [ ] Mining/Minerals sector brief — PROMOTE TO P1 NEXT SESSION
-      → 183 companies, 54.6% INC, lead file ready (session_20260616)
-      → Sector brief not yet written; fast turnaround expected
-      → Output: sector_Mining_Minerals_[YYYYMMDD].md
+- [ ] ICRA Non-fund-based anomaly investigation — PROMOTE TO P1
+      → ICRA NFF INC rate: 44.4% vs CRISIL 9.2% for same instrument
+      → Investigate: is ICRA's "non-fund-based" categorization different?
+      → This could be a categorization artifact or a real structural issue
 
 ---
 
 ## P2 — Next Sessions
 
-- [ ] MCA CIN NIC code enrichment
-      → 8,356 "Other (Unclassified)" companies remain after keyword reclassification
-      → CIN NIC code (positions 5–10 in CIN) encodes industry activity
-      → Estimated unlock: ~3,000–4,000 more companies classified
-      → High-value unlock for state-level targeting AND industry coverage
-      → First step: extract CIN from any available source
+- [ ] Energy sector brief
+      → 36 BRICKWORK INC energy companies identified in master file (session_20260618)
+      → Full energy sector likely larger — expand keywords: solar, wind, biogas, biofuel, EPC
+      → Output: leads_Energy_[YYYYMMDD].csv + sector_Energy_[YYYYMMDD].md
+
+- [ ] Infomerics steel cross-match
+      → ~257 Infomerics-only steel companies not yet cross-matched with D365
+      → Could add to the 917-company steel sector list
+      → Method: fuzzy name matching (difflib or rapidfuzz)
+
+- [ ] ACER July Outreach Dashboard
+      → Compile all 18-sector ULTRA HOT + HOT into one executive CSV
+      → Include: sector, agency, instrument, urgency, pitch angle
+      → Format: ready-to-load into CRM or share with sales head as single file
 
 - [ ] Agency × Instrument targeting CSV (action version of matrix)
-      → Matrix built in session_20260618 — now create actionable call list
-      → Filter: BRICKWORK + BG/LC/Term loans → sorted call list
-      → Output: csv/brickwork_displacement_by_instrument_[YYYYMMDD].csv
-
-- [ ] ICRA Non-fund-based anomaly investigation
-      → ICRA NFF INC rate: 44.4% vs CRISIL 9.2% for same instrument
-      → Investigate: is ICRA's "non-fund-based" categorization different?
-      → This could be a categorization artifact or a real structural issue
-
-- [ ] MCA CIN NIC code enrichment
-      → 8,356 "Other (Unclassified)" companies remain after keyword reclassification
-      → CIN NIC code (positions 5–10 in CIN) encodes industry activity
-      → Estimated unlock: ~3,000–4,000 more companies classified
-      → High-value unlock for state-level targeting AND industry coverage
-      → First step: extract CIN from any available source
+      → Matrix built in session_20260618 — BRICKWORK master file supersedes this
+      → Still useful for ACUITE targeting (LC 52.2%, Fund-based 50%) — second-priority displacement
+      → Output: csv/acuite_displacement_by_instrument_[YYYYMMDD].csv
 
 - [ ] Fetch NSE Emerge listed companies
       → BLOCKED by firewall — needs manual download
@@ -155,3 +152,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Paper/Packaging pitch pack — 64 companies, 76.6% INC (HIGHEST of 18 sectors), LC INC 95%, BRICKWORK 94.7% — 2026-06-18 (Session 14)
 - [x] Agency × Instrument INC matrix — 10 instruments × 6 agencies; BRICKWORK BG 86.5%, LC 87.9%, confirmed systemic — 2026-06-18 (Session 14)
 - [x] Steel/Metals sector refresh — 917 companies (5.7x vs Session 2), 58.8% INC, 48 ULTRA HOT, BRICKWORK 96.8% — 2026-06-18 (Session 14)
+- [x] BRICKWORK Master Displacement File — 1,885 unique companies, 223 ULTRA HOT, 293 HOT, all 18 sectors — 2026-06-18 (Session 15)
+- [x] Mining/Minerals sector brief — 602 companies (3.3x expanded), 44.5% INC, 21 ULTRA HOT, BRICKWORK 94.3% — 2026-06-18 (Session 15)
+- [x] Media/Retail sector brief — 272 D365 + 100 Infomerics, 50.7% INC, 11 ULTRA HOT, non-core sector — 2026-06-18 (Session 15)
