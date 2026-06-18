@@ -1,47 +1,47 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-17
-Status: Session 13 complete. Session 14 starting next run.
+Last Updated: 2026-06-18
+Status: Session 14 complete. Session 15 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [x] July 2026 Mega Blitz List — COMPLETE — 2026-06-17 (Session 13)
-      → 1,602 HIGH urgency companies compiled across 18 sectors
-      → 451 ULTRA HOT (HIGH + INC) | 1,151 HOT | 3-wave call strategy defined
-      → Output: csv/july_blitz_master_20260617.csv + blitz_by_sector_20260617.md
-
-- [x] Logistics sector brief — COMPLETE — 2026-06-17 (Session 13)
-      → 275 companies | 112 INC (40.7%) | 35 HIGH | 12 Ultra Hot
-      → Brickwork 94.1% INC rate — highest single-agency abandonment rate seen
-      → Output: sector_Logistics_20260617.md
-
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (13th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (14th attempt note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
+
+- [ ] BRICKWORK Master Displacement File — PROMOTE TO P1 NEXT SESSION
+      → Aggregate all ~3,600 BRICKWORK working capital INC companies across all sectors
+      → Single actionable master file: BW_displacement_master_[YYYYMMDD].csv
+      → This is ACER's highest-yield single call list: 86-88% INC on BG/LC/Term loans
+      → Matrix confirmed: BG 86.5%, LC 87.9%, Term loans 86.1% (session_20260618)
+
+- [ ] Mining/Minerals sector brief — PROMOTE TO P1 NEXT SESSION
+      → 183 companies, 54.6% INC, lead file ready (session_20260616)
+      → Sector brief not yet written; fast turnaround expected
+      → Output: sector_Mining_Minerals_[YYYYMMDD].md
 
 ---
 
 ## P2 — Next Sessions
 
-- [ ] Trading/Exports sector brief — PROMOTE TO P1 NEXT SESSION
-      → 198 companies, lead file ready (leads_Trading_Exports_20260617.csv)
-      → 64.1% INC, 76.5% of HIGH urgency are ULTRA HOT — highest hit rate in blitz
-      → August export season pitch window opening
-      → Output: sector_Trading_Exports_[YYYYMMDD].md
+- [ ] MCA CIN NIC code enrichment
+      → 8,356 "Other (Unclassified)" companies remain after keyword reclassification
+      → CIN NIC code (positions 5–10 in CIN) encodes industry activity
+      → Estimated unlock: ~3,000–4,000 more companies classified
+      → High-value unlock for state-level targeting AND industry coverage
+      → First step: extract CIN from any available source
 
-- [ ] Paper/Packaging pitch pack — PROMOTE TO P1 NEXT SESSION
-      → 64 companies, 76.6% INC (highest of all sectors), 100% ULTRA HOT among HIGH urgency
-      → Re-engagement angle: companies had ratings before, just lapsed
-      → CRISIL 59% + Brickwork 37.5% = displacement opportunity
-      → Output: sector_Paper_Packaging_[YYYYMMDD].md
+- [ ] Agency × Instrument targeting CSV (action version of matrix)
+      → Matrix built in session_20260618 — now create actionable call list
+      → Filter: BRICKWORK + BG/LC/Term loans → sorted call list
+      → Output: csv/brickwork_displacement_by_instrument_[YYYYMMDD].csv
 
-- [ ] Agency × Instrument Family matrix
-      → Which agency has highest BG/LC INC rate?
-      → BG is cross-sector instrument (IT 33%, Chem 19%, Auto 18%, Infra ~25%)
-      → Brickwork suspected top for BG; CARE suspected for LC
-      → Output: csv/agency_instrument_INC_matrix_[YYYYMMDD].csv
+- [ ] ICRA Non-fund-based anomaly investigation
+      → ICRA NFF INC rate: 44.4% vs CRISIL 9.2% for same instrument
+      → Investigate: is ICRA's "non-fund-based" categorization different?
+      → This could be a categorization artifact or a real structural issue
 
 - [ ] MCA CIN NIC code enrichment
       → 8,356 "Other (Unclassified)" companies remain after keyword reclassification
@@ -75,9 +75,10 @@ Status: Session 13 complete. Session 14 starting next run.
       → If yes: immediate unlock of contractor segment
       → Note for team: confirm with ACER product team before next blitz call
 
-- [ ] Mining/Minerals sector brief
-      → 183 companies, 54.6% INC, lead file already produced (Session 11)
-      → Output: sector_Mining_Minerals_[YYYYMMDD].md
+- [ ] Media/Retail sector brief
+      → ~76 companies identified in Session 11 reclassification
+      → Lead file not yet produced
+      → Output: leads_Media_Retail_[YYYYMMDD].csv + sector_Media_Retail_[YYYYMMDD].md
 
 ---
 
@@ -150,3 +151,7 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Trading/Exports lead file produced — 198 companies, 64.1% INC — 2026-06-17 (Session 12)
 - [x] July 2026 Mega Blitz Master — 1,602 HIGH urgency companies, 451 Ultra Hot, 1,151 Hot, 18 sectors — 2026-06-17 (Session 13)
 - [x] Logistics sector brief — 275 companies, 94.1% Brickwork INC, 12 ultra-hot, Whitespace Score 20/25 — 2026-06-17 (Session 13)
+- [x] Trading/Exports sector brief — 198 companies, 64.1% INC, 13 ULTRA HOT, BRICKWORK 90% INC, August export window — 2026-06-18 (Session 14)
+- [x] Paper/Packaging pitch pack — 64 companies, 76.6% INC (HIGHEST of 18 sectors), LC INC 95%, BRICKWORK 94.7% — 2026-06-18 (Session 14)
+- [x] Agency × Instrument INC matrix — 10 instruments × 6 agencies; BRICKWORK BG 86.5%, LC 87.9%, confirmed systemic — 2026-06-18 (Session 14)
+- [x] Steel/Metals sector refresh — 917 companies (5.7x vs Session 2), 58.8% INC, 48 ULTRA HOT, BRICKWORK 96.8% — 2026-06-18 (Session 14)
