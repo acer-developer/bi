@@ -1,0 +1,62 @@
+Agency,Instrument,Total,INC,INC_rate
+ACUITE,Bank Guarantee,1054,457,43.4
+ACUITE,Debentures / Bonds / notes / bills,61,0,0.0
+ACUITE,Fund based financial facility/instrument,72,36,50.0
+ACUITE,Letter Of credit,690,360,52.2
+ACUITE,Long term Loans,1184,397,33.5
+ACUITE,Non-fund-based financial facility/instrument,3,0,0.0
+ACUITE,Short-term loan,175,67,38.3
+ACUITE,Term loans,1396,609,43.6
+BRICKWORK,Bank Guarantee,1052,910,86.5
+BRICKWORK,Debentures / Bonds / notes / bills,43,5,11.6
+BRICKWORK,Fund based financial facility/instrument,580,417,71.9
+BRICKWORK,Letter Of credit,803,706,87.9
+BRICKWORK,Long term Loans,4,4,100.0
+BRICKWORK,Non-fund based working capital limit,2,1,50.0
+BRICKWORK,Non-fund-based financial facility/instrument,274,210,76.6
+BRICKWORK,Non-government debt,124,84,67.7
+BRICKWORK,Performance guarantee,1,1,100.0
+BRICKWORK,Term loans,1334,1148,86.1
+CARE,Bank Guarantee,1639,680,41.5
+CARE,Debentures / Bonds / notes / bills,613,4,0.7
+CARE,Fund based financial facility/instrument,517,194,37.5
+CARE,Letter Of credit,739,341,46.1
+CARE,Long term Loans,229,9,3.9
+CARE,Non-fund based working capital limit,22,4,18.2
+CARE,Non-fund-based financial facility/instrument,307,63,20.5
+CARE,Non-government debt,3047,549,18.0
+CARE,Short-term loan,78,8,10.3
+CARE,Term loans,3829,1168,30.5
+CRISIL,Bank Guarantee,3394,1512,44.5
+CRISIL,Debentures / Bonds / notes / bills,481,4,0.8
+CRISIL,EPCG Guarantee,1,0,0.0
+CRISIL,Fund based financial facility/instrument,2161,686,31.7
+CRISIL,Letter Of credit,2604,1111,42.7
+CRISIL,Long term Loans,3834,1693,44.2
+CRISIL,Medium-term loan,6,4,66.7
+CRISIL,Non-fund based working capital limit,2,0,0.0
+CRISIL,Non-fund-based financial facility/instrument,966,89,9.2
+CRISIL,Non-government debt,25,2,8.0
+CRISIL,Short-term loan,359,82,22.8
+CRISIL,Term loans,4716,1602,34.0
+ICRA,Bank Guarantee,174,26,14.9
+ICRA,Debentures / Bonds / notes / bills,225,6,2.7
+ICRA,Fund based financial facility/instrument,511,52,10.2
+ICRA,Letter Of credit,164,20,12.2
+ICRA,Long term Loans,132,24,18.2
+ICRA,Non-fund based working capital limit,36,1,2.8
+ICRA,Non-fund-based financial facility/instrument,1222,543,44.4
+ICRA,Non-government debt,1878,343,18.3
+ICRA,Short-term loan,137,45,32.8
+ICRA,Term loans,1880,627,33.4
+ICRA,Unsecured debentures/bonds/notes/bills,1,0,0.0
+IND-RA,Bank Guarantee,80,8,10.0
+IND-RA,Debentures / Bonds / notes / bills,103,0,0.0
+IND-RA,Fund based financial facility/instrument,46,8,17.4
+IND-RA,Letter Of credit,25,5,20.0
+IND-RA,Long term Loans,52,4,7.7
+IND-RA,Non-fund based working capital limit,1025,338,33.0
+IND-RA,Non-fund-based financial facility/instrument,53,9,17.0
+IND-RA,Non-government debt,1260,674,53.5
+IND-RA,Short-term loan,39,0,0.0
+IND-RA,Term loans,2479,660,26.6

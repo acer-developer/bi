@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-18
-Status: Session 15 complete. Session 16 starting next run.
+Last Updated: 2026-06-19
+Status: Session 16 complete. Session 17 starting next run.
 
 ---
 
@@ -18,34 +18,43 @@ Status: Session 15 complete. Session 16 starting next run.
       → First step: extract CIN from any available source or manual upload
       → Highest-value single unlock remaining in the database
 
-- [ ] ICRA Non-fund-based anomaly investigation — PROMOTE TO P1
-      → ICRA NFF INC rate: 44.4% vs CRISIL 9.2% for same instrument
-      → Investigate: is ICRA's "non-fund-based" categorization different?
-      → This could be a categorization artifact or a real structural issue
+- [x] ICRA Non-fund-based anomaly investigation — SOLVED 2026-06-19 (Session 16)
+      → Root cause: Portfolio MIX EFFECT — ICRA rates smaller/riskier SMEs under NF
+      → ICRA NF INC median ₹6.8 Cr vs CRISIL NF ₹38.4 Cr — different segments
+      → 499 ICRA NF INC companies identified (59 ULTRA HOT, 258 HOT)
+      → Output: leads_ICRA_NF_INC_20260619.csv + ICRA_NF_anomaly_20260619.md
 
 ---
 
 ## P2 — Next Sessions
 
-- [ ] Energy sector brief
-      → 36 BRICKWORK INC energy companies identified in master file (session_20260618)
-      → Full energy sector likely larger — expand keywords: solar, wind, biogas, biofuel, EPC
-      → Output: leads_Energy_[YYYYMMDD].csv + sector_Energy_[YYYYMMDD].md
+- [x] Energy sector brief — COMPLETE 2026-06-19 (Session 16)
+      → 1,501 D365 + 247 Infomerics = 1,748 total companies (sector 40x larger than estimated)
+      → BRICKWORK energy INC rate: 73.2% — prime displacement target
+      → 58 ULTRA HOT + 209 HOT across both sources
+      → Output: leads_Energy_FULL_20260619.csv (1,642 rows) + sector_Energy_20260619.md
 
-- [ ] Infomerics steel cross-match
-      → ~257 Infomerics-only steel companies not yet cross-matched with D365
-      → Could add to the 917-company steel sector list
-      → Method: fuzzy name matching (difflib or rapidfuzz)
+- [x] Infomerics steel cross-match — COMPLETE 2026-06-19 (Session 16)
+      → 202 pure Infomerics-only steel companies (not in D365) identified
+      → 27 ULTRA HOT, 15 HOT — exclusive leads vs competitors
+      → 63 fuzzy-matched companies confirmed as same entity (variant naming)
+      → Output: leads_Steel_Infomerics_only_20260619.csv + infomerics_steel_crossmatch_20260619.csv
 
-- [ ] ACER July Outreach Dashboard
-      → Compile all 18-sector ULTRA HOT + HOT into one executive CSV
-      → Include: sector, agency, instrument, urgency, pitch angle
-      → Format: ready-to-load into CRM or share with sales head as single file
+- [x] ACER July Outreach Dashboard — COMPLETE 2026-06-19 (Session 16)
+      → 2,191 unique companies across 20 sectors: 527 ULTRA HOT + 1,664 HOT
+      → Top 5 sectors: Manufacturing (104), Construction (86), AgroFood (52), ChemPharma (40), Energy (58)
+      → Output: july_outreach_dashboard_20260619.csv + july_ULTRA_HOT_only_20260619.csv
+
+- [ ] ACUITE Displacement Playbook — PROMOTE TO P1
+      → ACUITE: LC 52.2% INC, Fund-based 50.0% INC, BG 43.4% INC — second-most vulnerable agency
+      → Build targeted file like BRICKWORK master: ACUITE INC companies across all sectors
+      → Estimated pool: 1,500–2,000 ACUITE INC companies
+      → Output: csv/acuite_displacement_master_[YYYYMMDD].csv + brief
 
 - [ ] Agency × Instrument targeting CSV (action version of matrix)
-      → Matrix built in session_20260618 — BRICKWORK master file supersedes this
-      → Still useful for ACUITE targeting (LC 52.2%, Fund-based 50%) — second-priority displacement
-      → Output: csv/acuite_displacement_by_instrument_[YYYYMMDD].csv
+      → Matrix updated in session_20260619 — FULL 6×14 matrix with all agencies
+      → ACUITE LC/Fund-based/BG are next displacement priorities
+      → Output: already in agency_instrument_matrix_FULL_20260619.csv — use for ACUITE playbook
 
 - [ ] Fetch NSE Emerge listed companies
       → BLOCKED by firewall — needs manual download
@@ -72,10 +81,9 @@ Status: Session 15 complete. Session 16 starting next run.
       → If yes: immediate unlock of contractor segment
       → Note for team: confirm with ACER product team before next blitz call
 
-- [ ] Media/Retail sector brief
-      → ~76 companies identified in Session 11 reclassification
-      → Lead file not yet produced
-      → Output: leads_Media_Retail_[YYYYMMDD].csv + sector_Media_Retail_[YYYYMMDD].md
+- [x] Media/Retail sector brief — COMPLETE 2026-06-18 (Session 15)
+      → 272 D365 + 100 Infomerics = 372 total, 50.7% INC, 11 ULTRA HOT
+      → Output: leads_Media_Retail_20260618.csv + sector_Media_Retail_20260618.md
 
 ---
 
@@ -155,3 +163,7 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] BRICKWORK Master Displacement File — 1,885 unique companies, 223 ULTRA HOT, 293 HOT, all 18 sectors — 2026-06-18 (Session 15)
 - [x] Mining/Minerals sector brief — 602 companies (3.3x expanded), 44.5% INC, 21 ULTRA HOT, BRICKWORK 94.3% — 2026-06-18 (Session 15)
 - [x] Media/Retail sector brief — 272 D365 + 100 Infomerics, 50.7% INC, 11 ULTRA HOT, non-core sector — 2026-06-18 (Session 15)
+- [x] ICRA NF anomaly investigated + solved — mix effect confirmed, 499 leads identified — 2026-06-19 (Session 16)
+- [x] Energy sector brief — 1,642 companies, 58 ULTRA HOT, BRICKWORK 73.2% INC — 2026-06-19 (Session 16)
+- [x] Infomerics steel cross-match — 202 pure Infomerics-only companies, 27 ULTRA HOT — 2026-06-19 (Session 16)
+- [x] ACER July Outreach Dashboard — 2,191 companies across 20 sectors, 527 ULTRA HOT — 2026-06-19 (Session 16)
