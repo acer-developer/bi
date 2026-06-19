@@ -1,12 +1,12 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-19
-Status: Session 16 complete. Session 17 starting next run.
+Status: Session 17 complete. Session 18 starting next run.
 
 ---
 
 ## P1 — Do This Session (Tonight)
 
-- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (15th attempt note)
+- [ ] BSE SME company fetch — MANUAL UPLOAD NEEDED (17th session note)
       → Blocked by firewall (403) — automated fetch not possible
       → Action needed: Team to manually download from BSE website and upload to data/ folder
       → Once uploaded: cross-match script ready to run
@@ -17,6 +17,22 @@ Status: Session 16 complete. Session 17 starting next run.
       → Estimated unlock: ~3,000–4,000 more companies classified
       → First step: extract CIN from any available source or manual upload
       → Highest-value single unlock remaining in the database
+
+- [ ] CRISIL INC Master — PROMOTE TO P1 (Session 18)
+      → 3,429 CRISIL INC companies (36.6% INC) — largest absolute INC pool
+      → 465 ULTRA HOT + 1,916 HOT — callable now
+      → Strategy: target CRISIL INC companies that ALSO have BW/ACUITE INC (multi-rater SMEs)
+      → Output: csv/crisil_displacement_master_[YYYYMMDD].csv + brief
+
+- [ ] July 2026 daily calling calendar — PROMOTE TO P1 (Session 18)
+      → From 527 ULTRA HOT (outreach dashboard), build daily schedule for July
+      → Which companies hit 12-month mark on which date in July
+      → Output: csv/july_daily_calendar_[YYYYMMDD].csv
+
+- [ ] SEBI license gap analysis — NEW P1 (Session 18)
+      → Map ACER product capability vs all INC instrument types
+      → NCD/Bond: 674 IND-RA + 549 CARE + others = ~1,500 leads if SEBI license held
+      → Output: sebi_gap_analysis_[YYYYMMDD].md
 
 - [x] ICRA Non-fund-based anomaly investigation — SOLVED 2026-06-19 (Session 16)
       → Root cause: Portfolio MIX EFFECT — ICRA rates smaller/riskier SMEs under NF
@@ -45,16 +61,18 @@ Status: Session 16 complete. Session 17 starting next run.
       → Top 5 sectors: Manufacturing (104), Construction (86), AgroFood (52), ChemPharma (40), Energy (58)
       → Output: july_outreach_dashboard_20260619.csv + july_ULTRA_HOT_only_20260619.csv
 
-- [ ] ACUITE Displacement Playbook — PROMOTE TO P1
-      → ACUITE: LC 52.2% INC, Fund-based 50.0% INC, BG 43.4% INC — second-most vulnerable agency
-      → Build targeted file like BRICKWORK master: ACUITE INC companies across all sectors
-      → Estimated pool: 1,500–2,000 ACUITE INC companies
-      → Output: csv/acuite_displacement_master_[YYYYMMDD].csv + brief
+- [x] ACUITE Displacement Playbook — COMPLETE 2026-06-19 (Session 17)
+      → 911 unique ACUITE INC companies (41.6% INC rate)
+      → 89 ULTRA HOT + 454 HOT + 368 WARM
+      → LC 52.2% INC, Fund-based 50.0%, Term loans 43.6%, BG 43.4%
+      → Output: acuite_displacement_master_20260619.csv (1,926 rows) + acuite_displacement_brief_20260619.md
 
-- [ ] Agency × Instrument targeting CSV (action version of matrix)
-      → Matrix updated in session_20260619 — FULL 6×14 matrix with all agencies
-      → ACUITE LC/Fund-based/BG are next displacement priorities
-      → Output: already in agency_instrument_matrix_FULL_20260619.csv — use for ACUITE playbook
+- [x] Agency × Instrument targeting CSV (action version of matrix)
+      → Full 6-agency competitor vulnerability matrix built (Session 17)
+      → Attack sequencing: Phase 1 BW+ACUITE, Phase 2 CRISIL+CARE, Phase 3 IND-RA+ICRA
+      → Total pipeline: 10,338 INC companies | 1,429 ULTRA HOT | 5,489 HOT
+      → Output: competitor_vulnerability_summary_20260619.csv + competitor_master_brief_20260619.md
+      → ACUITE playbook complete; CARE and IND-RA masters also built in Session 17
 
 - [ ] Fetch NSE Emerge listed companies
       → BLOCKED by firewall — needs manual download
@@ -167,3 +185,8 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Energy sector brief — 1,642 companies, 58 ULTRA HOT, BRICKWORK 73.2% INC — 2026-06-19 (Session 16)
 - [x] Infomerics steel cross-match — 202 pure Infomerics-only companies, 27 ULTRA HOT — 2026-06-19 (Session 16)
 - [x] ACER July Outreach Dashboard — 2,191 companies across 20 sectors, 527 ULTRA HOT — 2026-06-19 (Session 16)
+- [x] ACUITE Displacement Playbook — 911 INC companies (41.6% INC), 89 ULTRA HOT + 454 HOT — 2026-06-19 (Session 17)
+- [x] CARE Vulnerability Analysis — 1,722 INC companies (27.4% INC), 271 ULTRA HOT + 787 HOT — 2026-06-19 (Session 17)
+- [x] IND-RA Displacement Master — 1,412 INC companies (33.0% INC), NCD 53.5% INC — 2026-06-19 (Session 17)
+- [x] Full 6-Agency Competitor Vulnerability Matrix — 10,338 INC total, attack sequencing Phase 1/2/3 — 2026-06-19 (Session 17)
+- [x] Regional City Cluster Analysis — 79 cities mapped via name inference, Anand (Gujarat) top priority — 2026-06-19 (Session 17)

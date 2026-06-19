@@ -1,0 +1,410 @@
+Company Name,Primary Agency,Urgency,Inferred State,Inferred Region,City Cluster,IsINC
+Ashoka Belgaum Dharwad Tollway Ltd.,ICRA,HOT,Karnataka,South,Belgaum,False
+Ashoka Belgaum Khanapur Road Pvt. Ltd.,ICRA,WARM,Karnataka,South,Belgaum,False
+Ashoka Ranastalam Anandapuram Road Ltd.,ICRA,HOT,Gujarat,West,Anand,False
+Asia (Chennai) Engineering Co. Pvt. Ltd.,IND-RA,HOT,Tamil Nadu,South,Chennai,True
+Athena Jaipur Solar Power Pvt. Ltd.,CARE,HOT,Rajasthan,North,Jaipur,False
+B D Industries (Pune) Ltd.,ACUITE,ULTRA HOT,Maharashtra,West,Pune,True
+B G Aligarh Kanpur Highway Pvt. Ltd.,BRICKWORK,WARM,Uttar Pradesh,North,Kanpur,False
+Bafna Motors (Mumbai) Pvt. Ltd.,ICRA,WARM,Maharashtra,West,Mumbai,True
+Bam D L R Chennai Pvt. Ltd.,IND-RA,HOT,Tamil Nadu,South,Chennai,False
+Bamboo Hotel & Global Centre (Delhi) Pvt. Ltd.,ICRA,HOT,Delhi,North,Delhi,False
+Bangalore Airport Hotel Ltd.,IND-RA,HOT,Karnataka,South,Bangalore,False
+Bangalore Electricity Supply Co. Ltd.,IND-RA,HOT,Karnataka,South,Bangalore,True
+Bangalore International Airport Ltd.,IND-RA,ULTRA HOT,Karnataka,South,Bangalore,False
+Bangalore Metallurgicals Pvt. Ltd.,ICRA,WARM,Karnataka,South,Bangalore,True
+Bangalore Tower Pvt. Ltd.,IND-RA,HOT,Karnataka,South,Bangalore,False
+Bank Of Baroda,IND-RA,ULTRA HOT,Gujarat,West,Baroda,False
+Baroda Agro Chemicals Ltd.,CARE,HOT,Gujarat,West,Baroda,True
+Baroda Hi-Tech Alloys Pvt. Ltd.,CARE,HOT,Gujarat,West,Baroda,True
+Bengaluru Airport Services Ltd.,ICRA,WARM,Karnataka,South,Bengaluru,False
+Bhilai Engineering Corpn. Ltd.,ACUITE,ULTRA HOT,Chhattisgarh,Central,Bhilai,False
+Bhilwara Spinners Ltd.,CARE,HOT,Rajasthan,North,Bhilwara,True
+Bhopal Switch Gears Pvt. Ltd.,BRICKWORK,ULTRA HOT,Madhya Pradesh,Central,Bhopal,True
+Bhopal Tractors Pvt. Ltd.,CARE,HOT,Madhya Pradesh,Central,Bhopal,True
+Bird Worldwide Flight Service Mumbai Pvt. Ltd.,CARE,WARM,Maharashtra,West,Mumbai,False
+Bliss Anand Pvt. Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,True
+Brahampuri Steels Ltd.,ACUITE,WARM,Odisha,East,Puri,True
+Brahmanand Himghar Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Brahmos Aerospace Thiruvananthapuram Ltd.,CARE,HOT,Kerala,South,Thiruvananthapuram,False
+Calcutta Radio Service Pvt. Ltd.,IND-RA,WARM,West Bengal,East,Calcutta,True
+Calcutta Springs Ltd.,CRISIL,HOT,West Bengal,East,Calcutta,True
+Candor Gurgaon One Realty Projects Pvt. Ltd.,CRISIL,WARM,Haryana,North,Gurgaon,False
+Casagrand Premier Builder Ltd.,CRISIL,HOT,Uttar Pradesh,North,Agra,False
+Cauvery Powergeneration Chennai Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,True
+Celebi Delhi Cargo Terminal Mgmt. India Pvt. Ltd.,CARE,ULTRA HOT,Delhi,North,Delhi,True
+Chandigarh Power Distribution Ltd.,IND-RA,HOT,Punjab,North,Chandigarh,False
+Chayagraphics Healthcare Pvt. Ltd.,ICRA,WARM,Uttar Pradesh,North,Agra,True
+Chennai Business Tower Pvt. Ltd.,ICRA,HOT,Tamil Nadu,South,Chennai,False
+Chennai Enviro Solutions Pvt. Ltd.,IND-RA,HOT,Tamil Nadu,South,Chennai,False
+Chennai International Terminals Pvt. Ltd.,ICRA,HOT,Tamil Nadu,South,Chennai,False
+Chennai Petroleum Corpn. Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,False
+Chennai Radha Engineering Works Pvt. Ltd.,CRISIL,ULTRA HOT,Tamil Nadu,South,Chennai,False
+Chennai Rice Inds. India Pvt. Ltd.,BRICKWORK,ULTRA HOT,Tamil Nadu,South,Chennai,True
+Chennai United Metal Inds. Pvt. Ltd.,BRICKWORK,HOT,Tamil Nadu,South,Chennai,False
+Chetan Overseas Delhi Pvt. Ltd.,IND-RA,HOT,Delhi,North,Delhi,True
+Cipy Poly Urethanes Pvt. Ltd. [Merged],BRICKWORK,HOT,Maharashtra,West,Thane,False
+Clean Solar Power (Jodhpur) Pvt. Ltd.,CARE,WARM,Rajasthan,North,Jodhpur,False
+Cochin Bridge Infrastructure Co. Ltd.,ICRA,HOT,Kerala,South,Cochin,True
+Cochin Frozen Food Exports Pvt. Ltd.,CARE,HOT,Kerala,South,Cochin,True
+Cochin Minerals & Rutile Ltd.,CARE,HOT,Kerala,South,Cochin,False
+Cochin Shipyard Ltd.,CARE,HOT,Kerala,South,Cochin,False
+Coimbatore Capital Ltd.,CARE,HOT,Tamil Nadu,South,Coimbatore,False
+Coimbatore Pioneer Fertilizers Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Coimbatore,True
+Coimbatore Polytex Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Coimbatore,False
+Cuttack Resins Pvt. Ltd.,IND-RA,HOT,Odisha,East,Cuttack,True
+D L F Info City Developers (Chandigarh) Ltd.,ICRA,ULTRA HOT,Punjab,North,Chandigarh,False
+D P Jain Bangalore-Chennai Expressways Pvt. Ltd.,CARE,HOT,Tamil Nadu,South,Chennai,True
+D P World Multimodal Logistics Hyderabad Pvt. Ltd.,ICRA,ULTRA HOT,Telangana,South,Hyderabad,False
+D R A Dharmapuri Infra Pvt. Ltd.,CARE,HOT,Odisha,East,Puri,False
+Delhi Airport Parking Services Pvt. Ltd.,ICRA,WARM,Delhi,North,Delhi,False
+Delhi Aviation Fuel Facility Pvt. Ltd.,ICRA,HOT,Delhi,North,Delhi,False
+Delhi Cargo Service Center Pvt. Ltd.,IND-RA,WARM,Delhi,North,Delhi,False
+Delhi Duty Free Services Pvt. Ltd.,CARE,HOT,Delhi,North,Delhi,False
+Delhi Flour Mills Co. Ltd.,CARE,WARM,Delhi,North,Delhi,False
+Delhi International Airport Ltd.,ICRA,ULTRA HOT,Delhi,North,Delhi,False
+Delhi International Cargo Terminal Pvt. Ltd.,CARE,HOT,Delhi,North,Delhi,False
+Delhi M S W Solutions Ltd.,IND-RA,WARM,Delhi,North,Delhi,False
+Delhi Transco Ltd.,IND-RA,HOT,Delhi,North,Delhi,False
+Delhi Waste Mgmt. Ltd.,ICRA,WARM,Delhi,North,Delhi,True
+Dharmanandan Diamonds Pvt. Ltd.,ICRA,HOT,Gujarat,West,Anand,False
+Diamond Engineering (Chennai) Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,True
+Dlf Info City Developers (Kolkata) Ltd. [Merged],ICRA,ULTRA HOT,West Bengal,East,Kolkata,False
+Duet India Hotels (Chennai) Pvt. Ltd.,CARE,ULTRA HOT,Tamil Nadu,South,Chennai,False
+Duet India Hotels (Pune) Pvt. Ltd.,CARE,ULTRA HOT,Maharashtra,West,Pune,False
+Durgapur Iron & Steel Co. Pvt. Ltd.,CRISIL,WARM,West Bengal,East,Durgapur,True
+Durgapur Medical Centre Pvt. Ltd.,CRISIL,HOT,West Bengal,East,Durgapur,True
+Durgapur Projects Ltd.,ACUITE,WARM,West Bengal,East,Durgapur,False
+Dynatech Tools & Devices (Bengaluru) Pvt. Ltd.,ACUITE,HOT,Karnataka,South,Bengaluru,True
+East Hyderabad Expressway Ltd.,ICRA,HOT,Telangana,South,Hyderabad,True
+Eden Mumbai Solar Pvt. Ltd.,IND-RA,WARM,Maharashtra,West,Mumbai,False
+Eden Solar Energy Gurgaon Pvt. Ltd.,IND-RA,WARM,Haryana,North,Gurgaon,False
+Elite Contractors (Chennai) Pvt. Ltd.,BRICKWORK,ULTRA HOT,Tamil Nadu,South,Chennai,True
+Embassy Pune Techzone Pvt. Ltd.,CARE,HOT,Maharashtra,West,Pune,False
+Emri Hyderabad Emergency Response Services Foundation,CARE,WARM,Telangana,South,Hyderabad,False
+Essel Ahmedabad Godhra Toll Roads Ltd.,CARE,HOT,Gujarat,West,Ahmedabad,True
+Express Publications (Madurai) Pvt. Ltd.,ACUITE,WARM,Tamil Nadu,South,Madurai,True
+Fatehpuria Transformers & Switchgears Pvt. Ltd.,CARE,HOT,Odisha,East,Puri,True
+Fatehpuria Vidyut Udyog Pvt. Ltd.,CARE,HOT,Odisha,East,Puri,True
+G M R Ambala Chandigarh Expressways Pvt. Ltd.,ACUITE,WARM,Punjab,North,Chandigarh,False
+G M R Chennai Outer Ring Road Pvt. Ltd.,CARE,HOT,Tamil Nadu,South,Chennai,False
+G M R Hyderabad Aerotropolis Ltd.,CRISIL,WARM,Telangana,South,Hyderabad,False
+G M R Hyderabad Aviation S E Z Ltd.,ICRA,HOT,Telangana,South,Hyderabad,False
+G M R Hyderabad Intl. Airport Ltd.,IND-RA,WARM,Telangana,South,Hyderabad,False
+G R Bandikui Jaipur Expressway Pvt. Ltd.,IND-RA,HOT,Rajasthan,North,Jaipur,False
+G S D Constructions Indore Pvt. Ltd.,ACUITE,HOT,Madhya Pradesh,Central,Indore,True
+G V K Jaipur Expressway Ltd.,ICRA,WARM,Rajasthan,North,Jaipur,True
+G V R Ashoka Chennai O R R Ltd.,IND-RA,WARM,Tamil Nadu,South,Chennai,False
+Gajaananda Jewellery Mart India Pvt. Ltd.,ICRA,HOT,Gujarat,West,Anand,False
+Gajanand Corporation Pvt. Ltd.,ACUITE,HOT,Gujarat,West,Anand,True
+Garg Industries Ltd. (Delhi),ICRA,HOT,Delhi,North,Delhi,True
+Ghaziabad Organics Ltd.,ICRA,HOT,Uttar Pradesh,North,Ghaziabad,True
+Ghaziabad Precision Products Pvt. Ltd.,CRISIL,HOT,Uttar Pradesh,North,Ghaziabad,False
+Ghaziabad Ship Breakers Pvt. Ltd.,CRISIL,ULTRA HOT,Uttar Pradesh,North,Ghaziabad,True
+Ghaziabad Water Solutions Pvt. Ltd.,IND-RA,ULTRA HOT,Uttar Pradesh,North,Ghaziabad,False
+Gmr Visakhapatnam International Airport Ltd.,IND-RA,HOT,Andhra Pradesh,South,Visakhapatnam,False
+Golden Agrarian Pvt. Ltd.,BRICKWORK,ULTRA HOT,Uttar Pradesh,North,Agra,True
+Greater Hyderabad Municipal Corpn.,IND-RA,HOT,Telangana,South,Hyderabad,False
+Greater Visakhapatnam Smart City Corpn. Ltd.,IND-RA,HOT,Andhra Pradesh,South,Visakhapatnam,False
+Gwalior Distilleries Pvt. Ltd.,CARE,HOT,Madhya Pradesh,Central,Gwalior,True
+H G Raipur Visakhapatnam Od-5 Pvt. Ltd.,CRISIL,WARM,Andhra Pradesh,South,Visakhapatnam,False
+H M T C Engineering Co. (Kolkata) Pvt. Ltd.,CRISIL,HOT,West Bengal,East,Kolkata,True
+H N B Engineers (Haridwar) Pvt. Ltd.,CRISIL,HOT,Uttarakhand,North,Haridwar,False
+Haridwar Highways Project Ltd.,CARE,HOT,Uttarakhand,North,Haridwar,True
+Haridwar Solar Projects Pvt. Ltd.,IND-RA,HOT,Uttarakhand,North,Haridwar,False
+Heart Care Institute & Research Centre (Indore) Pvt. Ltd.,CRISIL,ULTRA HOT,Madhya Pradesh,Central,Indore,False
+Hiranandani Financial Services Pvt. Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,False
+Howrah Gases Ltd.,CRISIL,HOT,West Bengal,East,Howrah,True
+Howrah Mills Co. Ltd.,CRISIL,HOT,West Bengal,East,Howrah,True
+Hubli Electricity Supply Co. Ltd.,IND-RA,ULTRA HOT,Karnataka,South,Hubli,True
+Hyderabad Cylinders Pvt. Ltd.,CRISIL,WARM,Telangana,South,Hyderabad,True
+Hyderabad Integrated M S W Ltd.,IND-RA,WARM,Telangana,South,Hyderabad,False
+Hyderabad M S W Energy Solutions Pvt. Ltd.,IND-RA,WARM,Telangana,South,Hyderabad,False
+Hyderabad Power Installations Pvt. Ltd.,CRISIL,WARM,Telangana,South,Hyderabad,True
+Hyderabad Ring Road Project Pvt. Ltd.,CARE,HOT,Telangana,South,Hyderabad,True
+I R B Ahmedabad Vadodara Super Express Tollway Pvt. Ltd.,IND-RA,WARM,Gujarat,West,Ahmedabad,False
+I V R C L Indore Gujarat Tollways Ltd.,IND-RA,HOT,Madhya Pradesh,Central,Indore,True
+Ilabs Hyderabad Technology Centre Pvt. Ltd.,CARE,HOT,Telangana,South,Hyderabad,False
+Imperial Fragrances Pvt. Ltd.,CRISIL,ULTRA HOT,Uttar Pradesh,North,Agra,True
+Indore Clean Energy Pvt. Ltd.,IND-RA,WARM,Madhya Pradesh,Central,Indore,False
+Indore Composite Pvt. Ltd.,ICRA,HOT,Madhya Pradesh,Central,Indore,False
+Indore Dewas Tollways Ltd.,IND-RA,HOT,Madhya Pradesh,Central,Indore,True
+Ircon Gurgaon Rewari Highway Ltd.,CARE,WARM,Haryana,North,Gurgaon,False
+Ircon Ludhiana Rupnagar Highway Ltd.,CARE,WARM,Punjab,North,Ludhiana,False
+Ircon Shivpuri Guna Tollway Ltd.,CARE,WARM,Odisha,East,Puri,False
+Ircon Vadodara Kim Expressway Ltd.,CARE,HOT,Gujarat,West,Vadodara,False
+J P Infra (Mumbai) Pvt. Ltd.,CRISIL,ULTRA HOT,Maharashtra,West,Mumbai,False
+J R Metal Chennai Ltd.,ICRA,HOT,Tamil Nadu,South,Chennai,False
+J S W J F E Electrical Steel Nashik Pvt. Ltd.,CARE,WARM,Maharashtra,West,Nashik,False
+J S W Mangalore Container Terminal Pvt. Ltd.,CARE,HOT,Karnataka,South,Mangalore,False
+Jabalpur Hospital & Research Centre Pvt. Ltd.,CRISIL,ULTRA HOT,Madhya Pradesh,Central,Jabalpur,True
+Jagran Prakashan Ltd.,CRISIL,HOT,Uttar Pradesh,North,Agra,False
+Jaipur Golden Transport Co. Pvt. Ltd.,CRISIL,ULTRA HOT,Rajasthan,North,Jaipur,False
+Jaipur Jewels Global Ltd.,BRICKWORK,HOT,Rajasthan,North,Jaipur,True
+Jaipur Rugs Co. Ltd.,CRISIL,ULTRA HOT,Rajasthan,North,Jaipur,True
+Jaipur Vidyut Vitran Nigam Ltd.,ACUITE,HOT,Rajasthan,North,Jaipur,False
+Jalandhar Amritsar Tollways Ltd.,IND-RA,WARM,Punjab,North,Amritsar,True
+Jamshedpur Continuous Annealing & Processing Co. Pvt. Ltd.,CARE,HOT,Jharkhand,East,Jamshedpur,False
+Jindal Urban Waste Mgmt. (Ahmedabad) Ltd.,CARE,ULTRA HOT,Gujarat,West,Ahmedabad,False
+Jindal Urban Waste Mgmt. (Jaipur) Ltd.,CARE,HOT,Rajasthan,North,Jaipur,False
+Jindal Urban Waste Mgmt. (Visakhapatnam) Ltd.,ACUITE,ULTRA HOT,Andhra Pradesh,South,Visakhapatnam,False
+Jodhpur Vidyut Vitran Nigam Ltd.,BRICKWORK,HOT,Rajasthan,North,Jodhpur,True
+K Raheja It Park (Hyderabad) Ltd.,CARE,WARM,Telangana,South,Hyderabad,False
+Kanpur Edibles Pvt. Ltd.,BRICKWORK,HOT,Uttar Pradesh,North,Kanpur,True
+Kanpur Fertilizers & Chemicals Ltd.,BRICKWORK,WARM,Uttar Pradesh,North,Kanpur,True
+Kanpur Logistics Park Pvt. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Kanpur,False
+Kanpur Packagers Pvt. Ltd.,BRICKWORK,WARM,Uttar Pradesh,North,Kanpur,True
+Kanpur Plastipack Ltd.,CRISIL,HOT,Uttar Pradesh,North,Kanpur,False
+Keshranand Ginning & Prsg. Factory Pvt. Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Kharar Ludhiana Road Ltd.,ICRA,HOT,Punjab,North,Ludhiana,False
+Kims Hospital Bengaluru Pvt. Ltd.,CARE,HOT,Karnataka,South,Bengaluru,False
+Kochi Metro Rail Ltd.,IND-RA,HOT,Kerala,South,Kochi,False
+Kolkata Marine Products Pvt. Ltd.,CRISIL,HOT,West Bengal,East,Kolkata,True
+Kota Electricity Distribution Ltd.,IND-RA,HOT,Rajasthan,North,Kota,False
+Kotak Alternate Asset Managers Ltd.,CRISIL,ULTRA HOT,Rajasthan,North,Kota,False
+Kotak Mahindra Asset Mgmt. Co. Ltd.,ICRA,WARM,Rajasthan,North,Kota,False
+Kotak Mahindra Bank Ltd.,ICRA,ULTRA HOT,Rajasthan,North,Kota,False
+Kotak Mahindra Invsts. Ltd.,CRISIL,ULTRA HOT,Rajasthan,North,Kota,False
+Kotak Mahindra Prime Ltd.,ICRA,HOT,Rajasthan,North,Kota,False
+Kotak Petro-Chem Pvt. Ltd.,BRICKWORK,WARM,Rajasthan,North,Kota,True
+Kotak Securities Ltd.,ICRA,HOT,Rajasthan,North,Kota,False
+Kripa Anand Rishi Cellular Pvt. Ltd.,ACUITE,ULTRA HOT,Gujarat,West,Anand,True
+Krishnapatnam Railway Co. Ltd.,IND-RA,WARM,Bihar,East,Patna,False
+Lakadia-Vadodara Transmission Project Ltd.,ICRA,WARM,Gujarat,West,Vadodara,False
+Lakshmi Ring Travellers (Coimbatore) Pvt. Ltd.,CRISIL,WARM,Tamil Nadu,South,Coimbatore,False
+Lalit Great Eastern Kolkata Hotel Ltd.,CARE,WARM,West Bengal,East,Kolkata,False
+Lucknow Sitapur Expressways Ltd.,ICRA,HOT,Uttar Pradesh,North,Lucknow,True
+Ludhiana Steel Rolling Mills Ltd.,CRISIL,HOT,Punjab,North,Ludhiana,False
+Ludhiana Talwandi Toll Roads Pvt. Ltd.,CARE,HOT,Punjab,North,Ludhiana,True
+M E I L Vijayawada Bypass Roadways Pvt. Ltd.,ACUITE,WARM,Andhra Pradesh,South,Vijayawada,False
+M K C Poanta-Saheb Dehradun Kedarnathji Highways Pvt. Ltd.,IND-RA,HOT,Uttarakhand,North,Dehradun,False
+Madurai Krishna Network Pvt. Ltd.,IND-RA,HOT,Tamil Nadu,South,Madurai,True
+Madurai Trans Carrier Ltd.,ICRA,WARM,Tamil Nadu,South,Madurai,False
+Mahle Anand Filter Systems Pvt. Ltd.,IND-RA,WARM,Gujarat,West,Anand,False
+Mahle Anand Thermal Systems Pvt. Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,False
+Mangalore Chemicals & Fertilisers Ltd. [Merged],CARE,WARM,Karnataka,South,Mangalore,False
+Mangalore Electricity Supply Co. Ltd.,ACUITE,ULTRA HOT,Karnataka,South,Mangalore,True
+Mangalore Energies Pvt. Ltd.,CARE,WARM,Karnataka,South,Mangalore,False
+Mangalore Refinery & Petrochemicals Ltd.,ICRA,ULTRA HOT,Karnataka,South,Mangalore,False
+Mangalore S E Z Ltd.,CARE,HOT,Karnataka,South,Mangalore,False
+Manipal Hospitals (Bengaluru) Pvt. Ltd.,IND-RA,WARM,Karnataka,South,Bengaluru,False
+Meerut Budaun Expressway Ltd.,IND-RA,WARM,Uttar Pradesh,North,Meerut,False
+Meerut Roller Flour Mills Pvt. Ltd.,BRICKWORK,HOT,Uttar Pradesh,North,Meerut,True
+Melcon (Vizag) Pvt. Ltd.,BRICKWORK,ULTRA HOT,Andhra Pradesh,South,Vizag,True
+Menzies Aviation (Bengaluru) Pvt. Ltd.,CRISIL,HOT,Karnataka,South,Bengaluru,False
+Mittal Udyog Indore Pvt. Ltd.,ICRA,WARM,Madhya Pradesh,Central,Indore,True
+Montecarlo Bangalore Chennai Expressway P2P1 Pvt. Ltd.,CARE,WARM,Tamil Nadu,South,Chennai,False
+Montecarlo Bangalore Chennai Expressway P3P1 Pvt. Ltd.,CARE,WARM,Tamil Nadu,South,Chennai,False
+Montecarlo Hubli Haveri Highway Pvt. Ltd.,IND-RA,HOT,Karnataka,South,Hubli,False
+Montecarlo Jabalpur Smart Metering Pvt. Ltd.,IND-RA,ULTRA HOT,Madhya Pradesh,Central,Jabalpur,False
+Montecarlo Vadodara Mumbai Expressway Pvt. Ltd.,IND-RA,HOT,Maharashtra,West,Mumbai,False
+Mukarba Chowk-Panipat Toll Roads Ltd.,CARE,HOT,Haryana,North,Panipat,True
+Mulpuri Foods & Feeds Pvt. Ltd.,CRISIL,WARM,Odisha,East,Puri,True
+Mumbai Aviation Fuel Farm Facility Pvt. Ltd.,ACUITE,WARM,Maharashtra,West,Mumbai,False
+Mumbai Cargo Service Center Airport Pvt. Ltd.,CRISIL,WARM,Maharashtra,West,Mumbai,False
+Mumbai Cargo Service Center Cold Chain Solutions Pvt. Ltd.,CRISIL,WARM,Maharashtra,West,Mumbai,False
+Mumbai International Airport Ltd.,CRISIL,HOT,Maharashtra,West,Mumbai,False
+Mumbai J N P T Port Road Co. Ltd.,CARE,HOT,Maharashtra,West,Mumbai,False
+Mumbai Metro One Pvt. Ltd.,BRICKWORK,ULTRA HOT,Maharashtra,West,Mumbai,True
+Mumbai Metropolitan Region Devp. Authority,ACUITE,HOT,Maharashtra,West,Mumbai,False
+Mumbai Travel Retail Ltd.,IND-RA,ULTRA HOT,Maharashtra,West,Mumbai,False
+Mumbai Urja Marg Ltd.,ICRA,ULTRA HOT,Maharashtra,West,Mumbai,False
+Muzaffarpur Vidyut Vitaran Ltd.,IND-RA,HOT,Bihar,East,Muzaffarpur,True
+My Car (Bhopal) Pvt. Ltd.,CRISIL,WARM,Madhya Pradesh,Central,Bhopal,True
+My Car (Indore) Pvt. Ltd.,CRISIL,WARM,Madhya Pradesh,Central,Indore,True
+Mysore Polymers & Rubber Products Pvt. Ltd.,CRISIL,WARM,Karnataka,South,Mysore,False
+Mysore Projects Pvt. Ltd.,CARE,WARM,Karnataka,South,Mysore,False
+N S L Sez (Hyderabad) Pvt. Ltd.,CARE,HOT,Telangana,South,Hyderabad,False
+Nagpur Mumbai Super Communication Expressway Ltd.,IND-RA,WARM,Maharashtra,West,Mumbai,False
+Nagpur Waste Water Mgmt. Pvt. Ltd.,IND-RA,HOT,Maharashtra,West,Nagpur,False
+Nashik Sinnar Tollways Ltd.,CARE,WARM,Maharashtra,West,Nashik,False
+Navi Mumbai Intl. Airport Pvt. Ltd.,CRISIL,HOT,Maharashtra,West,Mumbai,False
+New Delhi Television Ltd.,CARE,ULTRA HOT,Delhi,North,Delhi,False
+Nisagra Renewable Energy Pvt. Ltd.,ICRA,HOT,Uttar Pradesh,North,Agra,False
+Nobel Hygiene Baroda Pvt. Ltd.,CRISIL,WARM,Gujarat,West,Baroda,False
+Noida Power Co. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Noida,False
+Noida Software Technology Park Ltd.,BRICKWORK,ULTRA HOT,Uttar Pradesh,North,Noida,True
+Noida Towers Pvt. Ltd.,CARE,HOT,Uttar Pradesh,North,Noida,False
+Nzuri Pune Knowledge Park Pvt. Ltd.,IND-RA,HOT,Maharashtra,West,Pune,False
+Omaxe New Chandigarh Developers Pvt. Ltd.,CARE,HOT,Punjab,North,Chandigarh,False
+P D Agrawal Infrastructure Ltd.,CARE,HOT,Uttar Pradesh,North,Agra,False
+P K Construction Shimla Pvt. Ltd.,CRISIL,WARM,Himachal Pradesh,North,Shimla,True
+P N C Bithur Kanpur Highways Pvt. Ltd.,CARE,ULTRA HOT,Uttar Pradesh,North,Kanpur,False
+P N C Meerut Haridwar Highways Pvt. Ltd.,CARE,ULTRA HOT,Uttar Pradesh,North,Meerut,False
+Panipat Jalandhar N H-1 Tollway Pvt. Ltd.,CRISIL,HOT,Punjab,North,Jalandhar,False
+Papcon (Indore) Pvt. Ltd.,ACUITE,WARM,Madhya Pradesh,Central,Indore,True
+Paras Healthcare (Ranchi) Pvt. Ltd.,CARE,HOT,Jharkhand,East,Ranchi,False
+Patel Motors (Indore) Pvt. Ltd.,CRISIL,WARM,Madhya Pradesh,Central,Indore,True
+Patna Bakhtiyarpur Tollway Ltd.,IND-RA,HOT,Bihar,East,Patna,True
+Patna Iron Pvt. Ltd.,CRISIL,WARM,Bihar,East,Patna,True
+Patnaik Steel International Ltd.,CRISIL,WARM,Bihar,East,Patna,False
+Patnaik Steels & Alloys Ltd. [Merged],CRISIL,HOT,Bihar,East,Patna,True
+Peerless Hospital Guwahati Pvt. Ltd.,BRICKWORK,HOT,Assam,East,Guwahati,True
+Ponni Sugars (Erode) Ltd.,CARE,HOT,Tamil Nadu,South,Erode,False
+Praj Hipurity Systems Ltd.,CRISIL,HOT,Odisha,East,Puri,False
+Prayagraj Power Generation Co. Ltd.,CRISIL,WARM,Uttar Pradesh,North,Agra,False
+Prayagraj Water Pvt. Ltd.,CARE,WARM,Uttar Pradesh,North,Agra,False
+Precision Equipments (Chennai) Pvt. Ltd.,ACUITE,HOT,Tamil Nadu,South,Chennai,False
+Pune B P Development Pvt. Ltd.,IND-RA,HOT,Maharashtra,West,Pune,False
+Pune I T City Metro Rail Ltd.,IND-RA,WARM,Maharashtra,West,Pune,False
+Pune Polymers Pvt. Ltd.,CARE,WARM,Maharashtra,West,Pune,True
+Pune Sholapur Road Devp. Co. Ltd.,CARE,WARM,Maharashtra,West,Pune,False
+Pune Solapur Expressways Pvt. Ltd.,CARE,HOT,Maharashtra,West,Pune,False
+Puneet Industries Pvt. Ltd.,CARE,HOT,Maharashtra,West,Pune,False
+Puneet Iron & Steel Pvt. Ltd.,IND-RA,WARM,Maharashtra,West,Pune,True
+Puneet Laboratories Pvt. Ltd.,IND-RA,HOT,Maharashtra,West,Pune,True
+Puri Construction Pvt. Ltd.,ICRA,HOT,Odisha,East,Puri,True
+R K C Infrabuilt (Mehsana-Himatnagar) Roadproject Pvt. Ltd.,IND-RA,HOT,Gujarat,West,Mehsana,False
+Raghunandan Jewellers (Delhi) Pvt. Ltd.,IND-RA,HOT,Delhi,North,Delhi,True
+Rain C I I Carbon (Vizag) Ltd.,IND-RA,HOT,Andhra Pradesh,South,Vizag,False
+Raipur Bottling Pvt. Ltd.,CRISIL,HOT,Chhattisgarh,Central,Raipur,False
+Raipur Construction Pvt. Ltd.,ACUITE,HOT,Chhattisgarh,Central,Raipur,False
+Raipur Power & Steel Ltd.,CARE,HOT,Chhattisgarh,Central,Raipur,False
+Raipur-Visakhapatnam-Cg-2 Highways Ltd.,IND-RA,WARM,Andhra Pradesh,South,Visakhapatnam,False
+Rajkot-Vadinar Tollway Pvt. Ltd.,CARE,WARM,Gujarat,West,Rajkot,False
+Ranchi Expressways Ltd.,ICRA,ULTRA HOT,Jharkhand,East,Ranchi,True
+Rapid Metrorail Gurgaon Ltd.,ICRA,ULTRA HOT,Haryana,North,Gurgaon,True
+Rapid Metrorail Gurgaon South Ltd.,ICRA,ULTRA HOT,Haryana,North,Gurgaon,True
+Ratnaa Shree Anandhaas Hotels Pvt. Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Rawji Fine Fragrances Pvt. Ltd.,CRISIL,WARM,Uttar Pradesh,North,Agra,False
+Rchem Organics (Bangalore) Pvt. Ltd.,BRICKWORK,WARM,Karnataka,South,Bangalore,True
+Reliance Ethane Pipeline Ltd.,CARE,HOT,Maharashtra,West,Thane,False
+Rohtak-Panipat Tollway Pvt. Ltd.,CARE,ULTRA HOT,Haryana,North,Panipat,True
+Rukmarani Cars Indore Pvt. Ltd.,CARE,WARM,Madhya Pradesh,Central,Indore,False
+S A Aanandan Mill Ltd.,BRICKWORK,WARM,Gujarat,West,Anand,True
+Sadbhav Bangalore Highway Pvt. Ltd.,CARE,ULTRA HOT,Karnataka,South,Bangalore,True
+Sadbhav Udaipur Highway Ltd.,CARE,WARM,Rajasthan,North,Udaipur,False
+Sahajanand Medical Technologies Ltd.,CRISIL,HOT,Gujarat,West,Anand,False
+Sai Projects (Mumbai) Pvt. Ltd.,CARE,HOT,Maharashtra,West,Mumbai,True
+Salarpuria Housing Pvt. Ltd.,CRISIL,HOT,Odisha,East,Puri,False
+Salarpuria Properties Pvt. Ltd.,CRISIL,HOT,Odisha,East,Puri,False
+Salarpuria Real Estates Pvt. Ltd.,CRISIL,HOT,Odisha,East,Puri,False
+Salem Erode Investments Ltd.,CRISIL,HOT,Tamil Nadu,South,Salem,False
+Sambalpur-Rourkela Tollway Pvt. Ltd.,CARE,WARM,Odisha,East,Rourkela,False
+Sameera Hotels (Chennai) Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,True
+Samhi Hotels (Ahmedabad) Pvt. Ltd.,ICRA,ULTRA HOT,Gujarat,West,Ahmedabad,False
+Samhi Hotels (Gurgaon) Pvt. Ltd.,ICRA,ULTRA HOT,Haryana,North,Gurgaon,False
+Sanghi Brothers (Indore) Pvt. Ltd.,CARE,HOT,Madhya Pradesh,Central,Indore,True
+Santpuria Alloys Pvt. Ltd.,CRISIL,ULTRA HOT,Odisha,East,Puri,False
+Sarat Chatterjee & Co. (Visakhapatnam) Pvt. Ltd.,CARE,WARM,Andhra Pradesh,South,Visakhapatnam,False
+Sarvagram Fincare Pvt. Ltd.,ICRA,WARM,Uttar Pradesh,North,Agra,False
+Sasi Anand Spg. Mills India Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,True
+Satchidananda Agro Tech Pvt. Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,True
+Schloss Chennai Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,False
+Schloss Udaipur Pvt. Ltd.,CRISIL,HOT,Rajasthan,North,Udaipur,False
+Secunderabad Hotels Pvt. Ltd.,CRISIL,HOT,Telangana,South,Secunderabad,True
+Shakthi Electricals Chennai Pvt. Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,True
+Shetkari Sakhar Karkhana (Chandapuri) Ltd.,CRISIL,WARM,Odisha,East,Puri,True
+Shivalaya Nagpur Highways Pvt. Ltd.,BRICKWORK,HOT,Maharashtra,West,Nagpur,True
+Shree Krishna Rolling Mills (Jaipur) Ltd.,BRICKWORK,HOT,Rajasthan,North,Jaipur,True
+Shri Anand Inds. (Katni) Pvt. Ltd.,BRICKWORK,ULTRA HOT,Gujarat,West,Anand,True
+Shri Coimbatore Jewellers India Pvt. Ltd.,CRISIL,ULTRA HOT,Tamil Nadu,South,Coimbatore,True
+Shripaper Product (Indore) Pvt. Ltd.,BRICKWORK,WARM,Madhya Pradesh,Central,Indore,True
+Sigma Heavy Engg. Inds. Bhopal Pvt. Ltd.,BRICKWORK,ULTRA HOT,Madhya Pradesh,Central,Bhopal,True
+Siliguri Builders Pvt. Ltd.,CRISIL,WARM,West Bengal,East,Siliguri,True
+Simhapuri Energy Ltd. [Merged],ICRA,WARM,Odisha,East,Puri,True
+Solapur Solar Energy Pvt. Ltd.,CARE,HOT,Maharashtra,West,Solapur,True
+Solapur Tollways Pvt. Ltd.,IND-RA,ULTRA HOT,Maharashtra,West,Solapur,True
+Solapur Yedeshi Tollway Ltd.,CRISIL,HOT,Maharashtra,West,Solapur,False
+South Calcutta Diesels Pvt. Ltd.,CRISIL,ULTRA HOT,West Bengal,East,Calcutta,True
+South City Projects (Kolkata) Ltd.,ICRA,ULTRA HOT,West Bengal,East,Kolkata,True
+Southern Cotspinners Coimbatore Pvt. Ltd.,CARE,HOT,Tamil Nadu,South,Coimbatore,False
+Sree Krishna Automotives Hyderabad Pvt. Ltd.,ICRA,ULTRA HOT,Telangana,South,Hyderabad,True
+Sri Textile Erode Pvt. Ltd.,ACUITE,HOT,Tamil Nadu,South,Erode,True
+Stalwart Alloys India Ltd.,BRICKWORK,HOT,Rajasthan,North,Alwar,True
+Stalwart People Services India Ltd.,CRISIL,WARM,Rajasthan,North,Alwar,False
+Starcare Hospital Kozhikode Pvt. Ltd.,CRISIL,WARM,Kerala,South,Kozhikode,True
+Supreem Pharmaceuticals Mysore Pvt. Ltd.,BRICKWORK,WARM,Karnataka,South,Mysore,True
+Supreme Best Value Kolhapur(Shiroli) Sangli Tollways Pvt. Ltd.,IND-RA,HOT,Maharashtra,West,Kolhapur,True
+Surat Goods Transport Pvt. Ltd.,CRISIL,WARM,Gujarat,West,Surat,True
+Surat Hazira N H-6 Tollway Pvt. Ltd.,CRISIL,HOT,Gujarat,West,Surat,False
+T S I Business Parks (Hyderabad) Pvt. Ltd.,IND-RA,ULTRA HOT,Telangana,South,Hyderabad,False
+Talwar Auto Garages Pvt. Ltd.,BRICKWORK,WARM,Rajasthan,North,Alwar,True
+Talwar Mobiles Pvt. Ltd.,BRICKWORK,HOT,Rajasthan,North,Alwar,True
+Tata Power Delhi Distribution Ltd.,ICRA,HOT,Delhi,North,Delhi,False
+Thane Steels Ltd.,IND-RA,HOT,Maharashtra,West,Thane,True
+The Kolhapur Steel Ltd. [Merged],CARE,WARM,Maharashtra,West,Kolhapur,False
+Thermal Systems (Hyderabad) Pvt. Ltd.,CARE,HOT,Telangana,South,Hyderabad,False
+Thermotech Engineering (Pune) Pvt. Ltd.,CARE,ULTRA HOT,Maharashtra,West,Pune,True
+Think Gas Bhopal Pvt. Ltd.,CARE,WARM,Madhya Pradesh,Central,Bhopal,False
+Think Gas Ludhiana Pvt. Ltd.,IND-RA,HOT,Punjab,North,Ludhiana,False
+Tiki Tar Inds. (Baroda) Ltd.,CRISIL,HOT,Gujarat,West,Baroda,True
+Tim Delhi Airport Advertising Pvt. Ltd.,CRISIL,HOT,Delhi,North,Delhi,False
+Torrent Gas Chennai Pvt. Ltd.,CRISIL,ULTRA HOT,Tamil Nadu,South,Chennai,False
+Torrent Gas Jaipur Pvt. Ltd.,CRISIL,ULTRA HOT,Rajasthan,North,Jaipur,False
+Travancore Cochin Chemicals Ltd.,ICRA,HOT,Kerala,South,Cochin,False
+Udaipur Beverages Ltd.,CRISIL,HOT,Rajasthan,North,Udaipur,False
+Udaipur Cement Works Ltd. [Merged],CARE,HOT,Rajasthan,North,Udaipur,False
+Udaipur Tollway Ltd.,IND-RA,WARM,Rajasthan,North,Udaipur,False
+Udayam Medical Centre (Trichy) Pvt. Ltd.,ICRA,HOT,Tamil Nadu,South,Trichy,True
+Udupi Cochin Shipyard Ltd.,CARE,HOT,Kerala,South,Cochin,False
+Ujjwal Pune Ltd.,IND-RA,WARM,Maharashtra,West,Pune,False
+United Telelinks(Bangalore) Ltd.,ACUITE,HOT,Karnataka,South,Bangalore,False
+V K S-Seopur Baroda Corridor Pvt. Ltd.,BRICKWORK,HOT,Gujarat,West,Baroda,True
+V R Surat Pvt. Ltd.,CARE,HOT,Gujarat,West,Surat,False
+Vadodara Gas Ltd.,CARE,WARM,Gujarat,West,Vadodara,False
+Vadodara Kim Expressway Pvt. Ltd.,CARE,WARM,Gujarat,West,Vadodara,False
+Vadodara Mumbai Expressway P K G 10 Pvt. Ltd.,CRISIL,HOT,Maharashtra,West,Mumbai,False
+Varanasi Aurangabad Nh-2 Tollway Pvt. Ltd.,CRISIL,ULTRA HOT,Maharashtra,West,Aurangabad,False
+Varanasi Motors Pvt. Ltd.,CARE,WARM,Uttar Pradesh,North,Varanasi,False
+Varanasi S T P Project Pvt. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Varanasi,True
+Vector Green Prayagraj Solar Pvt. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Agra,False
+Venkateshwara Fibre Glass (Chennai) Pvt.  Ltd.,CRISIL,HOT,Tamil Nadu,South,Chennai,True
+Venkateswara Financiers Hyderabad Pvt. Ltd.,CARE,WARM,Telangana,South,Hyderabad,False
+Vertex Techno Solutions (Bangalore) Pvt. Ltd.,ICRA,ULTRA HOT,Karnataka,South,Bangalore,True
+Viceroy Bangalore Hotels Pvt. Ltd.,CRISIL,HOT,Karnataka,South,Bangalore,True
+Vijayanand Travels Pvt. Ltd.,CARE,WARM,Gujarat,West,Anand,False
+Vijayawada Bypass Project Ltd.,IND-RA,WARM,Andhra Pradesh,South,Vijayawada,False
+Visakhapatnam Port Logistics Park Ltd.,ICRA,HOT,Andhra Pradesh,South,Visakhapatnam,True
+Vivekanand Nursing Home Pvt. Ltd.,CRISIL,HOT,Gujarat,West,Anand,False
+Vizag General Cargo Berth Pvt. Ltd.,CRISIL,ULTRA HOT,Andhra Pradesh,South,Vizag,False
+Vizag Re-Bars Pvt. Ltd.,CARE,WARM,Andhra Pradesh,South,Vizag,True
+Vizag Seaport Pvt. Ltd.,CARE,WARM,Andhra Pradesh,South,Vizag,False
+A C M E Raipur Solar Power Pvt. Ltd.,ACUITE,HOT,Chhattisgarh,Central,Raipur,False
+Aaj Ka Anand Papers Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Aananda Lakshmi Spg. Mills Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Acme Jodhpur Solar Power Pvt. Ltd.,CARE,HOT,Rajasthan,North,Jodhpur,False
+Adani Electricity Mumbai Ltd.,IND-RA,WARM,Maharashtra,West,Mumbai,False
+Adani Solar Energy Jodhpur Five Pvt. Ltd.,CARE,HOT,Rajasthan,North,Jodhpur,False
+Adani Solar Energy Jodhpur Four Ltd.,CRISIL,HOT,Rajasthan,North,Jodhpur,False
+Adani Solar Energy Jodhpur Three Ltd.,CRISIL,HOT,Rajasthan,North,Jodhpur,False
+Agra Oil& General Inds. Ltd.,BRICKWORK,HOT,Uttar Pradesh,North,Agra,True
+Agrasen Iron & Steels Pvt. Ltd.,CARE,HOT,Uttar Pradesh,North,Agra,True
+Agrasen Ispat Pvt. Ltd.,CARE,WARM,Uttar Pradesh,North,Agra,False
+Agrasen Shipbreakers Pvt. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Agra,True
+Agrasen Sponge Pvt. Ltd.,ACUITE,HOT,Uttar Pradesh,North,Agra,False
+Agrasenprime Overseas Pvt. Ltd.,CARE,HOT,Uttar Pradesh,North,Agra,False
+Agratas Energy Storage Solutions Pvt. Ltd.,CARE,HOT,Uttar Pradesh,North,Agra,False
+Agravanshi Pvt. Ltd.,CRISIL,HOT,Uttar Pradesh,North,Agra,False
+Agrawal Channel Mills Pvt. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Agra,True
+Agrawal Global Infratech Pvt. Ltd.,CRISIL,HOT,Uttar Pradesh,North,Agra,True
+Agrawal Metal Works Pvt. Ltd.,CRISIL,ULTRA HOT,Uttar Pradesh,North,Agra,False
+Agrawal Roadlines Pvt. Ltd.,CARE,HOT,Uttar Pradesh,North,Agra,False
+Agrawal Round Rolling Mills Ltd.,CRISIL,HOT,Uttar Pradesh,North,Agra,True
+Agrawal Sponge Pvt. Ltd.,CRISIL,ULTRA HOT,Uttar Pradesh,North,Agra,False
+Agrawal Structure Mills Pvt. Ltd.,IND-RA,HOT,Uttar Pradesh,North,Agra,True
+Ahmedabad Packaging Inds. Ltd.,CRISIL,HOT,Gujarat,West,Ahmedabad,True
+Ahmedabad-Maliya Tollway Pvt. Ltd.,CARE,WARM,Gujarat,West,Ahmedabad,False
+Allahabad Bypass Pathways Pvt. Ltd.,CARE,HOT,Uttar Pradesh,North,Allahabad,False
+Alok Ingots (Mumbai) Pvt. Ltd.,CRISIL,HOT,Maharashtra,West,Mumbai,False
+Anand Buildtech Pvt. Ltd.,CARE,WARM,Gujarat,West,Anand,False
+Anand Carbo Pvt. Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Anand Construwell Pvt. Ltd.,IND-RA,WARM,Gujarat,West,Anand,True
+Anand Jewels (Indore) Pvt. Ltd.,ICRA,HOT,Gujarat,West,Anand,False
+Anand Mine Tools Pvt. Ltd.,CARE,HOT,Gujarat,West,Anand,True
+Anand Motor Agencies Ltd.,IND-RA,HOT,Gujarat,West,Anand,True
+Anand Rathi Financial Services Ltd.,CRISIL,WARM,Gujarat,West,Anand,False
+Anand Rathi Global Finance Ltd.,CRISIL,WARM,Gujarat,West,Anand,False
+Anand Rathi Share & Stock Brokers Ltd.,CARE,HOT,Gujarat,West,Anand,False
+Anand Teknow Aids Engg. India Ltd.,IND-RA,WARM,Gujarat,West,Anand,True
+Anand Transport Pvt. Ltd.,BRICKWORK,ULTRA HOT,Gujarat,West,Anand,True
+Anand Triplex Board Pvt. Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,True
+Ananda Dairy Intl. Ltd.,BRICKWORK,HOT,Gujarat,West,Anand,True
+Ananda Enterprises (India) Pvt. Ltd.,CARE,HOT,Gujarat,West,Anand,False
+Ananda Protein Ltd.,CRISIL,WARM,Gujarat,West,Anand,False
+Ananda-Bag Tea Co. Ltd.,CRISIL,ULTRA HOT,Gujarat,West,Anand,True
+Anandaloke Medical Centre Pvt. Ltd.,CARE,HOT,Gujarat,West,Anand,True
+Anandcine Service Pvt. Ltd.,ACUITE,HOT,Gujarat,West,Anand,True
+Anandeshwar Polypack Pvt. Ltd.,CRISIL,HOT,Gujarat,West,Anand,True
+Ananthapuri Hospitals Pvt. Ltd.,CARE,HOT,Odisha,East,Puri,False
+Yedeshi Aurangabad Tollway Ltd.,CRISIL,HOT,Maharashtra,West,Aurangabad,False
