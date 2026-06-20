@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-20
-Status: Session 18 complete. Session 19 starting next run.
+Status: Session 19 complete. Session 20 starting next run.
 
 ---
 
@@ -53,20 +53,45 @@ Status: Session 18 complete. Session 19 starting next run.
 
 ## P1 — Do This Session (Session 19)
 
-- [ ] "Dead company" audit — PROMOTE TO P1
-      → Cross-check 1,429 ULTRA HOT companies against MCA for dissolved/struck-off entities
-      → Remove defunct companies from calling list before team mobilizes
-      → Avoids wasted calls on non-existent companies
+- [x] "Dead company" audit — COMPLETE 2026-06-20 (Session 19)
+      → 1,647 ULTRA HOT screened (D365 + Infomerics combined)
+      → MCA API still blocked (403); proxy signals used instead
+      → 0 name-flagged defunct companies; 62 medium-risk; 1,463 clean to call
+      → Output: csv/ultra_hot_dead_risk_audit_20260620.csv (1,647 rows)
 
-- [ ] CRISIL × BRICKWORK dual-INC overlap — NEW P1
-      → Find companies with INC at BOTH CRISIL AND BRICKWORK simultaneously
-      → These "super targets" have been abandoned by two agencies — highest probability of switching
-      → Output: csv/crisil_bw_dual_inc_[YYYYMMDD].csv
+- [x] CRISIL × BRICKWORK dual-INC overlap — COMPLETE 2026-06-20 (Session 19)
+      → 281 companies with INC at BOTH CRISIL AND BRICKWORK simultaneously
+      → 6 ULTRA HOT + 57 HOT + 188 WARM; top: Jaidayal Hitex (410 days CRISIL + 365 days BW)
+      → Output: csv/crisil_bw_dual_inc_20260620.csv (281 rows)
 
-- [ ] Recent INC transitions (downgraded TO INC in last 6 months) — NEW P1
-      → Most recently frustrated companies — highest emotional urgency to switch
-      → Filter d365 for companies that moved from standard rating to INC post Jan 2026
-      → Output: csv/recent_inc_transitions_[YYYYMMDD].csv
+- [x] Recent INC transitions (downgraded TO INC in last 6 months) — COMPLETE 2026-06-20 (Session 19)
+      → 95 confirmed transitions (had prior non-INC history); 43 JUST NOW (0-90 days)
+      → CRISIL responsible for 61% of 2026 transitions — aggressive reclassification pattern
+      → Output: csv/recent_inc_transitions_20260620.csv (95 rows) + fresh subset (43 rows)
+
+- [x] Multi-signal super-target scoring — NEW — COMPLETE 2026-06-20 (Session 19)
+      → 5 signals stacked; 81 TIER 1 MAXIMUM PRIORITY (score ≥ 5); 1,288 TIER 2
+      → Top company: Arya Steels Rolling — score 7 (4 signals simultaneously)
+      → Output: csv/super_targets_tier1_2_20260620.csv (1,369 rows) + csv/master_inc_scored_20260620.csv
+
+---
+
+## P1 — Do This Session (Session 20)
+
+- [ ] CARE × CRISIL dual-INC overlap — NEW P1
+      → Same dual-INC analysis for CARE + CRISIL pair (complementary to CRISIL+BW)
+      → CARE is #2 by INC volume; overlap with CRISIL = super-targets for ACER
+      → Output: csv/care_crisil_dual_inc_[YYYYMMDD].csv
+
+- [ ] INC trend analysis (2025 vs 2026) — NEW P1
+      → Is the rate of new INC assignments accelerating in 2026?
+      → Monthly INC count by agency Jan 2025 – Jun 2026
+      → Confirms or refutes CRISIL aggressive reclassification hypothesis
+
+- [ ] Sector breakdown of 81 TIER 1 super-targets — NEW P1
+      → Which sector has the highest density of max-priority targets?
+      → Add sector tags to super_targets file
+      → Output: csv/super_targets_by_sector_[YYYYMMDD].csv
 
 ---
 
@@ -222,3 +247,8 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] July 2026 Daily Calling Calendar — 1,131 companies, peak July 18 (216 companies) — 2026-06-20 (Session 18)
 - [x] SEBI License Gap Analysis — 7,994 bank credit INC + 1,454 SEBI debt INC, ₹72.7 Cr unlock — 2026-06-20 (Session 18)
 - [x] Infomerics-only Whitespace Analysis — 4,170 exclusive companies, 815 INC callable now — 2026-06-20 (Session 18)
+- [x] CRISIL × BRICKWORK Dual-INC Overlap — 281 companies, 6 ULTRA HOT, doubly-abandoned — 2026-06-20 (Session 19)
+- [x] Recent INC Transitions — 95 confirmed transitions; 43 JUST NOW (0-90 days); CRISIL 61% — 2026-06-20 (Session 19)
+- [x] Dead Company Risk Audit — 1,647 ULTRA HOT screened; 1,463 clean to call (88.8%) — 2026-06-20 (Session 19)
+- [x] Multi-Signal Super-Target Scoring — 81 TIER 1 + 1,288 TIER 2; top score 7 — 2026-06-20 (Session 19)
+- [x] Recent Downgrades (90 days) — 523 companies; 456 also INC; CRISIL 194 — 2026-06-20 (Session 19)
