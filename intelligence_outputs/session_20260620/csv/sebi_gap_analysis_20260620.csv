@@ -1,0 +1,141 @@
+Agency,Instrument,SEBI_Category,Urgency,Records,Unique_Companies
+CRISIL,Long term Loans,BANK_CREDIT_ONLY,MEDIUM,950,820
+CRISIL,Term loans,BANK_CREDIT_ONLY,MEDIUM,874,781
+CRISIL,Bank Guarantee,BANK_CREDIT_ONLY,MEDIUM,847,778
+CRISIL,Letter Of credit,BANK_CREDIT_ONLY,MEDIUM,630,579
+CARE,Term loans,BANK_CREDIT_ONLY,MEDIUM,526,478
+CRISIL,Term loans,BANK_CREDIT_ONLY,LOW,514,472
+BRICKWORK,Term loans,BANK_CREDIT_ONLY,MEDIUM,511,494
+CRISIL,Long term Loans,BANK_CREDIT_ONLY,LOW,504,460
+CARE,Term loans,BANK_CREDIT_ONLY,LOW,464,439
+CRISIL,Bank Guarantee,BANK_CREDIT_ONLY,LOW,448,414
+BRICKWORK,Bank Guarantee,BANK_CREDIT_ONLY,MEDIUM,403,389
+BRICKWORK,Term loans,BANK_CREDIT_ONLY,LOW,377,362
+CRISIL,Fund based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,359,308
+IND-RA,Term loans,BANK_CREDIT_ONLY,MEDIUM,350,324
+CRISIL,Letter Of credit,BANK_CREDIT_ONLY,LOW,341,314
+ICRA,Term loans,BANK_CREDIT_ONLY,MEDIUM,318,302
+CARE,Bank Guarantee,BANK_CREDIT_ONLY,MEDIUM,315,308
+ACUITE,Term loans,BANK_CREDIT_ONLY,MEDIUM,311,280
+BRICKWORK,Bank Guarantee,BANK_CREDIT_ONLY,LOW,307,295
+BRICKWORK,Letter Of credit,BANK_CREDIT_ONLY,MEDIUM,296,279
+ICRA,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,268,253
+BRICKWORK,Term loans,BANK_CREDIT_ONLY,HIGH,260,245
+CRISIL,Fund based financial facility/instrument,BANK_CREDIT_ONLY,LOW,254,215
+CARE,Bank Guarantee,BANK_CREDIT_ONLY,LOW,253,244
+ACUITE,Term loans,BANK_CREDIT_ONLY,LOW,245,226
+BRICKWORK,Letter Of credit,BANK_CREDIT_ONLY,LOW,239,221
+CRISIL,Long term Loans,BANK_CREDIT_ONLY,HIGH,239,223
+ACUITE,Bank Guarantee,BANK_CREDIT_ONLY,MEDIUM,218,197
+CRISIL,Bank Guarantee,BANK_CREDIT_ONLY,HIGH,217,208
+ICRA,Term loans,BANK_CREDIT_ONLY,LOW,217,211
+CRISIL,Term loans,BANK_CREDIT_ONLY,HIGH,214,196
+BRICKWORK,Fund based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,213,188
+ACUITE,Long term Loans,BANK_CREDIT_ONLY,MEDIUM,212,206
+BRICKWORK,Bank Guarantee,BANK_CREDIT_ONLY,HIGH,200,192
+ACUITE,Bank Guarantee,BANK_CREDIT_ONLY,LOW,196,176
+ICRA,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,LOW,182,176
+CARE,Term loans,BANK_CREDIT_ONLY,HIGH,178,171
+ACUITE,Letter Of credit,BANK_CREDIT_ONLY,MEDIUM,176,165
+BRICKWORK,Letter Of credit,BANK_CREDIT_ONLY,HIGH,171,154
+IND-RA,Non-fund based working capital limit,BANK_CREDIT_ONLY,MEDIUM,171,159
+IND-RA,Term loans,BANK_CREDIT_ONLY,HIGH,159,152
+ACUITE,Long term Loans,BANK_CREDIT_ONLY,LOW,156,153
+ACUITE,Letter Of credit,BANK_CREDIT_ONLY,LOW,154,143
+CARE,Letter Of credit,BANK_CREDIT_ONLY,MEDIUM,154,150
+IND-RA,Term loans,BANK_CREDIT_ONLY,LOW,151,142
+IND-RA,Non-fund based working capital limit,BANK_CREDIT_ONLY,HIGH,147,145
+CRISIL,Letter Of credit,BANK_CREDIT_ONLY,HIGH,140,134
+CARE,Letter Of credit,BANK_CREDIT_ONLY,LOW,131,129
+BRICKWORK,Fund based financial facility/instrument,BANK_CREDIT_ONLY,LOW,130,112
+CARE,Bank Guarantee,BANK_CREDIT_ONLY,HIGH,112,109
+BRICKWORK,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,104,88
+ICRA,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,93,92
+ICRA,Term loans,BANK_CREDIT_ONLY,HIGH,92,89
+CARE,Fund based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,84,80
+CARE,Fund based financial facility/instrument,BANK_CREDIT_ONLY,LOW,77,73
+BRICKWORK,Fund based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,74,64
+CRISIL,Fund based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,73,69
+BRICKWORK,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,LOW,70,60
+CARE,Letter Of credit,BANK_CREDIT_ONLY,HIGH,56,54
+ACUITE,Term loans,BANK_CREDIT_ONLY,HIGH,53,49
+CRISIL,Short-term loan,BANK_CREDIT_ONLY,MEDIUM,47,47
+CRISIL,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,45,44
+ACUITE,Bank Guarantee,BANK_CREDIT_ONLY,HIGH,43,38
+BRICKWORK,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,36,30
+ACUITE,Short-term loan,BANK_CREDIT_ONLY,MEDIUM,34,33
+CARE,Fund based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,33,29
+ACUITE,Letter Of credit,BANK_CREDIT_ONLY,HIGH,30,29
+ACUITE,Long term Loans,BANK_CREDIT_ONLY,HIGH,29,29
+CARE,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,LOW,28,26
+CRISIL,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,LOW,28,26
+ACUITE,Short-term loan,BANK_CREDIT_ONLY,LOW,26,25
+CARE,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,26,25
+ICRA,Short-term loan,BANK_CREDIT_ONLY,MEDIUM,26,26
+ICRA,Fund based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,25,20
+CRISIL,Short-term loan,BANK_CREDIT_ONLY,LOW,24,24
+ICRA,Fund based financial facility/instrument,BANK_CREDIT_ONLY,LOW,23,23
+IND-RA,Non-fund based working capital limit,BANK_CREDIT_ONLY,LOW,20,17
+ACUITE,Fund based financial facility/instrument,BANK_CREDIT_ONLY,LOW,18,15
+ACUITE,Fund based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,16,13
+CRISIL,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,16,16
+ICRA,Short-term loan,BANK_CREDIT_ONLY,LOW,16,15
+ICRA,Long term Loans,BANK_CREDIT_ONLY,MEDIUM,14,14
+ICRA,Bank Guarantee,BANK_CREDIT_ONLY,MEDIUM,13,11
+ICRA,Letter Of credit,BANK_CREDIT_ONLY,MEDIUM,12,11
+CRISIL,Short-term loan,BANK_CREDIT_ONLY,HIGH,11,11
+CARE,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,9,9
+ICRA,Bank Guarantee,BANK_CREDIT_ONLY,LOW,8,8
+ICRA,Long term Loans,BANK_CREDIT_ONLY,LOW,8,8
+IND-RA,Fund based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,8,7
+ACUITE,Short-term loan,BANK_CREDIT_ONLY,HIGH,7,7
+CARE,Long term Loans,BANK_CREDIT_ONLY,MEDIUM,6,6
+IND-RA,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,MEDIUM,6,5
+CARE,Short-term loan,BANK_CREDIT_ONLY,MEDIUM,5,3
+ICRA,Bank Guarantee,BANK_CREDIT_ONLY,HIGH,5,5
+ICRA,Letter Of credit,BANK_CREDIT_ONLY,LOW,5,4
+CARE,Non-fund based working capital limit,BANK_CREDIT_ONLY,LOW,4,4
+ICRA,Fund based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,4,3
+IND-RA,Long term Loans,BANK_CREDIT_ONLY,MEDIUM,4,4
+BRICKWORK,Long term Loans,BANK_CREDIT_ONLY,HIGH,3,3
+ICRA,Letter Of credit,BANK_CREDIT_ONLY,HIGH,3,3
+ICRA,Short-term loan,BANK_CREDIT_ONLY,HIGH,3,3
+IND-RA,Bank Guarantee,BANK_CREDIT_ONLY,HIGH,3,3
+IND-RA,Bank Guarantee,BANK_CREDIT_ONLY,MEDIUM,3,3
+IND-RA,Letter Of credit,BANK_CREDIT_ONLY,MEDIUM,3,3
+ACUITE,Fund based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,2,2
+CARE,Long term Loans,BANK_CREDIT_ONLY,LOW,2,2
+CARE,Short-term loan,BANK_CREDIT_ONLY,LOW,2,2
+CRISIL,Medium-term loan,BANK_CREDIT_ONLY,LOW,2,2
+CRISIL,Medium-term loan,BANK_CREDIT_ONLY,MEDIUM,2,2
+ICRA,Long term Loans,BANK_CREDIT_ONLY,HIGH,2,2
+IND-RA,Bank Guarantee,BANK_CREDIT_ONLY,LOW,2,2
+IND-RA,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,HIGH,2,2
+BRICKWORK,Long term Loans,BANK_CREDIT_ONLY,LOW,1,1
+BRICKWORK,Non-fund based working capital limit,BANK_CREDIT_ONLY,MEDIUM,1,1
+BRICKWORK,Performance guarantee,BANK_CREDIT_ONLY,MEDIUM,1,1
+CARE,Long term Loans,BANK_CREDIT_ONLY,HIGH,1,1
+CARE,Short-term loan,BANK_CREDIT_ONLY,HIGH,1,1
+ICRA,Non-fund based working capital limit,BANK_CREDIT_ONLY,MEDIUM,1,1
+IND-RA,Letter Of credit,BANK_CREDIT_ONLY,HIGH,1,1
+IND-RA,Letter Of credit,BANK_CREDIT_ONLY,LOW,1,1
+IND-RA,Non-fund-based financial facility/instrument,BANK_CREDIT_ONLY,LOW,1,1
+IND-RA,Non-government debt,SEBI_DEBT_REQUIRED,MEDIUM,371,369
+IND-RA,Non-government debt,SEBI_DEBT_REQUIRED,LOW,299,295
+CARE,Non-government debt,SEBI_DEBT_REQUIRED,MEDIUM,258,225
+CARE,Non-government debt,SEBI_DEBT_REQUIRED,LOW,204,162
+ICRA,Non-government debt,SEBI_DEBT_REQUIRED,MEDIUM,177,141
+ICRA,Non-government debt,SEBI_DEBT_REQUIRED,LOW,116,104
+CARE,Non-government debt,SEBI_DEBT_REQUIRED,HIGH,87,72
+ICRA,Non-government debt,SEBI_DEBT_REQUIRED,HIGH,50,43
+BRICKWORK,Non-government debt,SEBI_DEBT_REQUIRED,LOW,35,30
+BRICKWORK,Non-government debt,SEBI_DEBT_REQUIRED,MEDIUM,33,31
+BRICKWORK,Non-government debt,SEBI_DEBT_REQUIRED,HIGH,16,16
+BRICKWORK,Debentures / Bonds / notes / bills,SEBI_DEBT_REQUIRED,MEDIUM,5,5
+CARE,Debentures / Bonds / notes / bills,SEBI_DEBT_REQUIRED,LOW,4,2
+CRISIL,Debentures / Bonds / notes / bills,SEBI_DEBT_REQUIRED,MEDIUM,4,1
+ICRA,Debentures / Bonds / notes / bills,SEBI_DEBT_REQUIRED,MEDIUM,4,4
+IND-RA,Non-government debt,SEBI_DEBT_REQUIRED,HIGH,4,4
+CRISIL,Non-government debt,SEBI_DEBT_REQUIRED,MEDIUM,2,2
+ICRA,Debentures / Bonds / notes / bills,SEBI_DEBT_REQUIRED,HIGH,1,1
+ICRA,Debentures / Bonds / notes / bills,SEBI_DEBT_REQUIRED,LOW,1,1

@@ -1,0 +1,911 @@
+Company Name,Date,Agency,Instrument,Grade,Rating,Status,Ammount,INC_Flag,Urgency,Months_Since_Rating,Days_Since_Rating,is_INC,Category
+Ashoka Distillers & Chemicals Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B,Downgraded,43.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Ashoka Pulp & Paper Pvt. Ltd.,2025-05-14,CRISIL,Letter Of credit,Default,D,Downgraded,4.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Ashoka Pulp & Paper Pvt. Ltd.,2025-05-14,CRISIL,Long term Loans,Default,D,Downgraded,3.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Ashoka Pulp & Paper Pvt. Ltd.,2025-05-14,CRISIL,Term loans,Default,D,Downgraded,15.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Ashoka Sthapatya Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,24.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Ashoka Sthapatya Ltd.,2025-06-25,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,6.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Asian Multiplexes Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,5.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Astra Lifecare (India) Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,8.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Astra Lifecare (India) Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B,Reaffirmed,17.23,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Astra Lifecare (India) Pvt. Ltd.,2025-06-24,CRISIL,Term loans,High Risk,B,Reaffirmed,10.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+B C Bhuyan Constructions Pvt. Ltd.,2025-06-18,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,12.00,Y,HIGH,12.2,367.0,True,ULTRA HOT
+B C Bhuyan Constructions Pvt. Ltd.,2025-06-18,CRISIL,Term loans,High Risk,B+,Withdrawn,1.00,Y,HIGH,12.2,367.0,True,ULTRA HOT
+B K Sons Infrastructure Pvt. Ltd.,2025-06-20,CRISIL,Bank Guarantee,Default,D,Withdrawn,50.00,Y,HIGH,12.2,365.0,True,ULTRA HOT
+B L J Resources & Chemicals Pvt. Ltd.,2025-06-25,CRISIL,Term loans,High Risk,B,Reaffirmed,3.50,Y,HIGH,12.0,360.0,True,ULTRA HOT
+B M C Ferrocast Pvt. Ltd.,2025-06-25,CRISIL,Long term Loans,High Risk,B,Reaffirmed,13.60,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Baba Malleshwar Agro Products Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.18,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Baba Malleshwar Agro Products Pvt. Ltd.,2025-06-25,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.19,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Baba Malleshwar Agro Products Pvt. Ltd.,2025-06-25,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.38,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Baba Super Minerals Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,B+,Withdrawn,0.38,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Baba Super Minerals Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Withdrawn,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Baba Super Minerals Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B+,Withdrawn,13.86,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Baddi Foils Pvt. Ltd.,2025-05-27,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,0.05,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Baddi Foils Pvt. Ltd.,2025-05-27,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,10.36,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Baddi Foils Pvt. Ltd.,2025-05-27,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,1.09,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Balaji Cellphone Pvt. Ltd.,2025-06-09,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,6.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Balaji Loomtex Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B+,Reaffirmed,16.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Balaji Pressure Vessels Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,13.70,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Balaji Pressure Vessels Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Balaji Pressure Vessels Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.80,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Balasore Marine Exports Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,0.20,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bansal Finefoods Pvt. Ltd.,2025-05-27,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,2.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Basak Bottling Plant Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.20,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Basak Bottling Plant Pvt. Ltd.,2025-06-25,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,3.30,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bhadora Industries Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,7.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bhadora Industries Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.43,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bhadora Industries Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B+,Reaffirmed,0.92,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bhagwan Precision Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B-,Reaffirmed,5.40,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bhandari Steels Ltd.,2025-06-25,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,11.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bhandari Steels Ltd.,2025-06-25,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bhandari Steels Ltd.,2025-06-25,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bharat Caarriers Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,2.06,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bharat Motors Ltd.,2025-06-09,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,16.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Bharat Motors Ltd.,2025-06-09,CRISIL,Term loans,Default,D,Reaffirmed,0.50,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Bharat Motors Ltd.,2025-06-09,CRISIL,Term loans,Default,D,Reaffirmed,1.83,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Bhardwaj Overseas Pvt. Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB-,Reaffirmed,5.50,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Bimla Maru Fashions Pvt. Ltd.,2025-06-25,CRISIL,Letter Of credit,Default,D,Reaffirmed,14.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bimla Maru Fashions Pvt. Ltd.,2025-06-25,CRISIL,Long term Loans,Default,D,Reaffirmed,1.25,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Biotech International Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Biotech International Ltd.,2025-06-12,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,6.50,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Biotech International Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B-,Reaffirmed,4.80,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Bliss Anand Pvt. Ltd.,2025-05-22,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,33.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Bliss Anand Pvt. Ltd.,2025-05-22,CRISIL,Term loans,High Risk,B+,Reaffirmed,2.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Blue Whale Machinery Technologies Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,6.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Blue Whale Machinery Technologies Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,4.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Blue Whale Machinery Technologies Pvt. Ltd.,2025-05-29,CRISIL,Non-fund-based financial facility/instrument,Default,D,Reaffirmed,5.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bonny Babycare Pvt. Ltd.,2025-06-25,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,0.40,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bonny Babycare Pvt. Ltd.,2025-06-25,CRISIL,Term loans,High Risk,B+,Reaffirmed,4.10,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Bonton Technomake Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bonton Technomake Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,11.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Borah Agencies Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,6.45,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Borah Agencies Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,0.05,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Bucon Infratech Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,10.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Buds Tea Inds. Ltd.,2025-06-25,CRISIL,Bank Guarantee,Default,D,Reaffirmed,2.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Buds Tea Inds. Ltd.,2025-06-25,CRISIL,Long term Loans,Default,D,Reaffirmed,8.75,Y,HIGH,12.0,360.0,True,ULTRA HOT
+C E Serviced Offices Pvt. Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B,Reaffirmed,4.45,Y,HIGH,13.6,408.0,True,ULTRA HOT
+C E Serviced Offices Pvt. Ltd.,2025-05-08,CRISIL,Term loans,High Risk,B,Reaffirmed,3.55,Y,HIGH,13.6,408.0,True,ULTRA HOT
+C I C O Technologies Ltd.,2025-06-09,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,4.05,Y,HIGH,12.5,376.0,True,ULTRA HOT
+C I C O Technologies Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,21.95,Y,HIGH,12.5,376.0,True,ULTRA HOT
+C I C O Technologies Ltd.,2025-06-19,CRISIL,Long term Loans,Inadequate Safety,BB,Withdrawn,4.05,Y,HIGH,12.2,366.0,True,ULTRA HOT
+C I C O Technologies Ltd.,2025-06-19,CRISIL,Term loans,Inadequate Safety,BB,Withdrawn,21.95,Y,HIGH,12.2,366.0,True,ULTRA HOT
+C S M Technologies Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4+,Withdrawn,17.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+C S M Technologies Ltd.,2025-05-30,CRISIL,Term loans,Inadequate Safety,BB+,Withdrawn,8.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Carreg Commodities Pvt. Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,5.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Ceedee Metalloys Pvt. Ltd.,2025-05-14,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,2.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Cenosphere India Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.25,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Cenosphere India Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Cenosphere India Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.75,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Centuary Fibre Plates Pvt. Ltd.,2025-05-23,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,0.50,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Centuary Fibre Plates Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,High Risk,B,Withdrawn,4.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Centuary Fibre Plates Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,High Risk,B,Withdrawn,4.55,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Chandan Hospital Ltd.,2025-05-07,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,19.00,Y,HIGH,13.6,409.0,True,ULTRA HOT
+Chandan Hospital Ltd.,2025-05-07,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,96.00,Y,HIGH,13.6,409.0,True,ULTRA HOT
+Chandralekha Constructions Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,6.58,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Chemrow India Pvt. Ltd.,2025-05-27,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,33.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Chhajed Foods Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,Default,D,Reaffirmed,4.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Chhajed Foods Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,5.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Chhajed Foods Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,7.73,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Chhajed Foods Pvt. Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,9.40,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Chhajed Foods Pvt. Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,8.87,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Chinar Steel Segment Centre Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,26.19,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Churiwal Technopack Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Churiwal Technopack Pvt. Ltd.,2025-06-25,CRISIL,Term loans,High Risk,B,Reaffirmed,4.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Circle Infotech Pvt. Ltd.,2025-06-25,CRISIL,Letter Of credit,Default,D,Reaffirmed,9.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+City Promoter & Buildwell Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,5.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+City Promoter & Buildwell Pvt. Ltd.,2025-06-12,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB,Reaffirmed,2.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Corodex Infrastructure Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,Default,D,Reaffirmed,9.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Corodex Infrastructure Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,14.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Corodex Infrastructure Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,10.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Coronet Engineers Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.42,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Coronet Engineers Pvt. Ltd.,2025-06-25,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Coronet Engineers Pvt. Ltd.,2025-06-25,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,4.68,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Creative International Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Creative International Pvt. Ltd.,2025-06-25,CRISIL,Term loans,High Risk,B,Reaffirmed,17.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+D F I Hospitals Pvt. Ltd.,2025-06-25,CRISIL,Term loans,High Risk,B+,Reaffirmed,48.25,Y,HIGH,12.0,360.0,True,ULTRA HOT
+D R S Millennium Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,11.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+D'Lords Footwear & Fashions Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+D-Vois Communications Pvt. Ltd.,2025-05-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,3.60,Y,HIGH,13.1,393.0,True,ULTRA HOT
+D-Vois Communications Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,15.62,Y,HIGH,13.1,393.0,True,ULTRA HOT
+D-Vois Communications Pvt. Ltd.,2025-05-23,CRISIL,Term loans,High Risk,B,Reaffirmed,27.89,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Darshan Extrusions Pvt. Ltd.,2025-05-28,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,3.80,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Darshan Extrusions Pvt. Ltd.,2025-05-28,CRISIL,Term loans,Inadequate Safety,BB-,Reaffirmed,8.80,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Dayal Cotspin Ltd.,2025-05-08,CRISIL,Long term Loans,Default,D,Reaffirmed,2.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Debson Pumps Pvt. Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Debson Pumps Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.11,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Deepika Infratech Pvt. Ltd.,2025-05-23,CRISIL,Bank Guarantee,Default,D,Reaffirmed,130.50,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Deson Marketing Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,High Risk,A 4+,Downgraded,48.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Dev Bhoomi Cars Pvt. Ltd.,2025-06-10,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,10.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Dhanashree Agro Products Pvt. Ltd.,2025-05-19,CRISIL,Bank Guarantee,Default,D,Reaffirmed,1.20,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Dhanashree Agro Products Pvt. Ltd.,2025-05-19,CRISIL,Letter Of credit,Default,D,Reaffirmed,1.50,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Dhanashree Agro Products Pvt. Ltd.,2025-05-19,CRISIL,Long term Loans,Default,D,Reaffirmed,60.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Dhoot Developers Pvt. Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,28.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Dhoot Developers Pvt. Ltd.,2025-06-10,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,72.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Digitals India Security Products Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Diligent S C M Solutions Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,Inadequate Safety,BB,Withdrawn,23.50,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Diligent S C M Solutions Pvt. Ltd.,2025-05-23,CRISIL,Term loans,Inadequate Safety,BB,Withdrawn,1.92,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Diligent S C M Solutions Pvt. Ltd.,2025-05-23,CRISIL,Term loans,Inadequate Safety,BB,Withdrawn,2.02,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Divine Infracon Pvt. Ltd.,2025-06-10,CRISIL,Term loans,Default,D,Reaffirmed,373.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Dolphin Mart Pvt. Ltd.,2025-06-12,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Earthcon Universal Infratech Pvt. Ltd.,2025-05-23,CRISIL,Term loans,Default,D,Reaffirmed,125.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+East End Silks Pvt. Ltd.,2025-05-27,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,2.50,Y,HIGH,13.0,389.0,True,ULTRA HOT
+East End Silks Pvt. Ltd.,2025-05-27,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,1.50,Y,HIGH,13.0,389.0,True,ULTRA HOT
+East End Silks Pvt. Ltd.,2025-05-27,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4+,Downgraded,2.50,Y,HIGH,13.0,389.0,True,ULTRA HOT
+East West Products Ltd.,2025-06-09,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,11.88,Y,HIGH,12.5,376.0,True,ULTRA HOT
+East West Products Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,1.77,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Eastern Foods Pvt. Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.75,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Eastern Foods Pvt. Ltd.,2025-06-10,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,4.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Eastern Power Distribution Co. Of Andhra Pradesh Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,100.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Eastern Power Distribution Co. Of Andhra Pradesh Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Downgraded,27.36,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Eco Cements Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,20.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Econ Cylinders Pvt. Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Econ Cylinders Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B,Reaffirmed,5.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Electrica Engineers (India) Pvt. Ltd.,2025-05-21,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,6.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Ellenbarrie Industrial Gases Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Safety,A 2+,Reaffirmed,25.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Emcer Tiles Pvt. Ltd.,2025-05-13,CRISIL,Bank Guarantee,High Risk,A 4+,Withdrawn,5.75,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Emcer Tiles Pvt. Ltd.,2025-05-13,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Withdrawn,0.13,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Emcer Tiles Pvt. Ltd.,2025-05-13,CRISIL,Term loans,Inadequate Safety,BB+,Withdrawn,30.93,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Emdee Digitronics Pvt. Ltd.,2025-05-09,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,14.00,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Emdee Digitronics Pvt. Ltd.,2025-05-09,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,8.00,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Emdee Digitronics Pvt. Ltd.,2025-05-28,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,14.00,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Emdee Digitronics Pvt. Ltd.,2025-05-28,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,8.00,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Empire Alcobrev Pvt. Ltd.,2025-06-25,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,5.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Endoc Lifecare Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Epic Research Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,7.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Eswari Exports Pvt. Ltd.,2025-05-22,CRISIL,Long term Loans,High Risk,B,Reaffirmed,10.30,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Ethelbari Tea Co. (1932) Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.09,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Ethelbari Tea Co. (1932) Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.67,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Excellent Power Cable Pvt. Ltd.,2025-05-23,CRISIL,Term loans,High Risk,B+,Reaffirmed,5.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Excelsource International Pvt. Ltd.,2025-06-25,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,1.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Excelsource International Pvt. Ltd.,2025-06-25,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,18.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Fairdeal Agencies Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,6.95,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Fastway Transmissions Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B,Reaffirmed,37.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Fastway Transmissions Pvt. Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B,Reaffirmed,120.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Fauji Exim Pvt. Ltd.,2025-05-22,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,21.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Fex Foundry Alloys Pvt. Ltd.,2025-06-09,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,5.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Fex Foundry Alloys Pvt. Ltd.,2025-06-09,CRISIL,Long term Loans,Inadequate Safety,BB+,Reaffirmed,4.60,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Finvent Finance & Invts. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B-,Downgraded,21.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Firozabad Ceramics Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,Default,D,Reaffirmed,4.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Firozabad Ceramics Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,Default,D,Reaffirmed,1.80,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Frontier Springs Ltd.,2025-05-20,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,4.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Frontier Springs Ltd.,2025-05-20,CRISIL,Letter Of credit,High Risk,A 4,Withdrawn,6.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Frontier Springs Ltd.,2025-05-20,CRISIL,Long term Loans,High Risk,B,Withdrawn,1.02,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Frontier Springs Ltd.,2025-05-20,CRISIL,Term loans,High Risk,B,Withdrawn,5.50,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Frontier Springs Ltd.,2025-05-20,CRISIL,Term loans,High Risk,B,Withdrawn,2.23,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Frontier Trucks Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B,Downgraded,16.09,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Frontier Trucks Pvt. Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B,Downgraded,0.91,Y,HIGH,12.5,375.0,True,ULTRA HOT
+G K Plastics Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.16,Y,HIGH,12.4,373.0,True,ULTRA HOT
+G L Metallica Pvt. Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B,Reaffirmed,1.11,Y,HIGH,12.4,373.0,True,ULTRA HOT
+G L S Infratech Pvt. Ltd.,2025-05-22,CRISIL,Bank Guarantee,High Risk,A 4+,Upgraded,24.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+G L S Infratech Pvt. Ltd.,2025-05-22,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,34.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+G M R Spintex Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,Default,D,Reaffirmed,29.25,Y,HIGH,13.1,393.0,True,ULTRA HOT
+G M R Spintex Pvt. Ltd.,2025-05-23,CRISIL,Term loans,Default,D,Reaffirmed,11.50,Y,HIGH,13.1,393.0,True,ULTRA HOT
+G S M Mega Infrastructures Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,Default,D,Reaffirmed,60.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+G T F C Pvt. Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Gagan Wine Trade & Financers Ltd.,2025-06-12,CRISIL,Long term Loans,Default,D,Reaffirmed,8.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Geetha Krishna Spg. Mills Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Gemini Engi-Fab Pvt. Ltd.,2025-05-14,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,1.50,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Gharpure Engineering & Constructions Pvt. Ltd.,2025-05-22,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,51.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Gharpure Engineering & Constructions Pvt. Ltd.,2025-05-22,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,17.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Ghaziabad Ship Breakers Pvt. Ltd.,2025-05-22,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,122.55,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Ghaziabad Ship Breakers Pvt. Ltd.,2025-05-22,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Downgraded,3.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Global Engineers Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,19.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Global Engineers Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,4.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Global Engineers Ltd.,2025-06-10,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Goel Road Carriers Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Goel Road Carriers Pvt. Ltd.,2025-05-30,CRISIL,Term loans,High Risk,B+,Reaffirmed,6.44,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Gokul Mamra Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.20,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Good Morning India Media Pvt. Ltd.,2025-05-09,CRISIL,Term loans,High Risk,B,Reaffirmed,0.15,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Gopimal Kaur Sain Inds. Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,Default,D,Reaffirmed,28.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Green Agro Pack Pvt. Ltd.,2025-05-14,CRISIL,Letter Of credit,Default,D,Reaffirmed,1.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Green Agro Pack Pvt. Ltd.,2025-05-14,CRISIL,Term loans,Default,D,Reaffirmed,6.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Green Shield Enterprises Pvt. Ltd.,2025-06-12,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Green Shield Enterprises Pvt. Ltd.,2025-06-12,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,5.50,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Gujarat Pickers Industries Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,8.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Gujarat Pickers Industries Ltd.,2025-05-29,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4+,Reaffirmed,1.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Gujarat Pickers Industries Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,40.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Gujarat Raffia Inds. Ltd.,2025-05-31,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.8,385.0,True,ULTRA HOT
+Gujarat Raffia Inds. Ltd.,2025-05-31,CRISIL,Long term Loans,High Risk,B,Reaffirmed,4.00,Y,HIGH,12.8,385.0,True,ULTRA HOT
+H F Metalart Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,7.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+H N Construction Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,25.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+H N Construction Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Reaffirmed,5.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+H N Construction Pvt. Ltd.,2025-05-21,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,15.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+H R Rice Mills Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.19,Y,HIGH,13.2,395.0,True,ULTRA HOT
+H R Rice Mills Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.78,Y,HIGH,13.2,395.0,True,ULTRA HOT
+H R Rice Mills Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.21,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Hansraj Agrofresh Pvt. Ltd.,2025-06-16,CRISIL,Long term Loans,Default,D,Reaffirmed,3.46,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Hanumat Wires Udyog Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.66,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Hassia Packaging Pvt. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Hassia Packaging Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Health-Tech Chhattisgarh Pvt. Ltd.,2025-05-21,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,4.80,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Health-Tech Chhattisgarh Pvt. Ltd.,2025-05-21,CRISIL,Term loans,High Risk,B,Reaffirmed,2.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Heligo Charters Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,24.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+High Range Coffee Curring Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.45,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Hild Energy Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,82.67,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Hild Energy Pvt. Ltd.,2025-05-21,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,203.90,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Hild Energy Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Downgraded,13.33,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Hitech Cellphone Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,10.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+I A P Co. Pvt. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.25,Y,HIGH,12.2,366.0,True,ULTRA HOT
+I A P Co. Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,6.92,Y,HIGH,12.2,366.0,True,ULTRA HOT
+I A P Co. Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B+,Reaffirmed,8.83,Y,HIGH,12.2,366.0,True,ULTRA HOT
+I Q F Foods Pvt. Ltd.,2025-05-22,CRISIL,Term loans,High Risk,B,Reaffirmed,1.60,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Imperial Fragrances Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.12,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Imperial Fragrances Pvt. Ltd.,2025-05-21,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,8.63,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Imperial Fragrances Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.25,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Imperial Malts Ltd.,2025-05-28,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,2.00,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Imperial Malts Ltd.,2025-05-28,CRISIL,Term loans,High Risk,A 4+,Reaffirmed,1.50,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Imperial Malts Ltd.,2025-05-28,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,15.25,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Indian Metals & Alloys Mfg. Co. Pvt. Ltd.,2025-05-19,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,1.40,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Indian Metals & Alloys Mfg. Co. Pvt. Ltd.,2025-05-19,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,12.60,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Indica Conveyors Ltd.,2025-06-19,CRISIL,Bank Guarantee,Default,D,Reaffirmed,9.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Indica Conveyors Ltd.,2025-06-19,CRISIL,Letter Of credit,Default,D,Reaffirmed,6.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Indo Brine Inds. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.60,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Indo Brine Inds. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.40,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Indomobil Sales & Services Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.25,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Indus Pharma Pvt. Ltd.,2025-05-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.50,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Indus Pharma Pvt. Ltd.,2025-05-19,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.55,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Indus Pharma Pvt. Ltd.,2025-05-19,CRISIL,Term loans,High Risk,B+,Reaffirmed,7.70,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Induss Food Products & Equipments Ltd.,2025-05-08,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,5.30,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Instinct Infra & Power Ltd.,2025-05-09,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,10.00,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Institute Of Gastro & Kidney Care Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B+,Upgraded,68.01,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Integra Automation Pvt. Ltd.,2025-06-09,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,20.28,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Integra Automation Pvt. Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,34.72,Y,HIGH,12.5,376.0,True,ULTRA HOT
+International Switchgears Pvt. Ltd.,2025-05-19,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,1.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+International Switchgears Pvt. Ltd.,2025-05-19,CRISIL,Long term Loans,High Risk,B,Downgraded,25.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+J C Infra Corporation Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,23.60,Y,HIGH,12.0,361.0,True,ULTRA HOT
+J C Infra Corporation Ltd.,2025-06-24,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4+,Downgraded,10.40,Y,HIGH,12.0,361.0,True,ULTRA HOT
+J C Infra Corporation Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,2.10,Y,HIGH,12.0,361.0,True,ULTRA HOT
+J C O Gas Pipe Ltd.,2025-05-16,CRISIL,Long term Loans,High Risk,B,Reaffirmed,15.00,Y,HIGH,13.3,400.0,True,ULTRA HOT
+J M J Finance Ltd.,2025-05-19,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,10.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+J M K Motors Pvt. Ltd.,2025-06-20,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,7.00,Y,HIGH,12.2,365.0,True,ULTRA HOT
+J M K Motors Pvt. Ltd.,2025-06-20,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.55,Y,HIGH,12.2,365.0,True,ULTRA HOT
+J M K Motors Pvt. Ltd.,2025-06-20,CRISIL,Term loans,High Risk,B+,Reaffirmed,4.20,Y,HIGH,12.2,365.0,True,ULTRA HOT
+Jabalpur Hospital & Research Centre Pvt. Ltd.,2025-05-15,CRISIL,Term loans,High Risk,B-,Reaffirmed,5.50,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Jagdamba Timbers Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,9.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Jai Surgicals Ltd.,2025-05-15,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.60,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Jai Surgicals Ltd.,2025-05-15,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,0.60,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Jaidayal Hitex Pvt. Ltd.,2025-05-06,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,4.85,Y,HIGH,13.7,410.0,True,ULTRA HOT
+Jaidayal Hitex Pvt. Ltd.,2025-05-06,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,39.45,Y,HIGH,13.7,410.0,True,ULTRA HOT
+Jaideep India Pvt. Ltd.,2025-05-22,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.40,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Jaideep India Pvt. Ltd.,2025-05-22,CRISIL,Long term Loans,High Risk,B,Reaffirmed,19.10,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Jaideep India Pvt. Ltd.,2025-05-22,CRISIL,Term loans,High Risk,B,Reaffirmed,10.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Jama Corporation Pvt. Ltd.,2025-06-20,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,0.45,Y,HIGH,12.2,365.0,True,ULTRA HOT
+Jama Corporation Pvt. Ltd.,2025-06-20,CRISIL,Fund based financial facility/instrument,High Risk,B,Withdrawn,8.50,Y,HIGH,12.2,365.0,True,ULTRA HOT
+Jani Sales Pvt. Ltd.,2025-06-16,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,4.11,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Jani Sales Pvt. Ltd.,2025-06-16,CRISIL,Fund based financial facility/instrument,High Risk,B,Downgraded,20.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Jani Sales Pvt. Ltd.,2025-06-16,CRISIL,Long term Loans,High Risk,B,Downgraded,18.25,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Jani Sales Pvt. Ltd.,2025-06-16,CRISIL,Term loans,High Risk,B,Downgraded,25.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Jaymala Spintex Ltd.,2025-05-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.40,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Jaymala Spintex Ltd.,2025-05-19,CRISIL,Term loans,High Risk,B-,Reaffirmed,16.10,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Jewel Consumer Care Pvt. Ltd.,2025-06-06,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB,Withdrawn,1.75,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Jewel Consumer Care Pvt. Ltd.,2025-06-06,CRISIL,Long term Loans,Inadequate Safety,BB,Withdrawn,52.75,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Joarder Rice Mill Pvt. Ltd.,2025-06-16,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.60,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Joarder Rice Mill Pvt. Ltd.,2025-06-16,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.40,Y,HIGH,12.3,369.0,True,ULTRA HOT
+K A I International Pvt. Ltd.,2025-05-16,CRISIL,Fund based financial facility/instrument,High Risk,B,Downgraded,61.00,Y,HIGH,13.3,400.0,True,ULTRA HOT
+K A I International Pvt. Ltd.,2025-05-16,CRISIL,Long term Loans,High Risk,B,Downgraded,4.17,Y,HIGH,13.3,400.0,True,ULTRA HOT
+K Lall Overseas Pvt. Ltd. [Merged],2025-05-15,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,30.00,Y,HIGH,13.4,401.0,True,ULTRA HOT
+K R V Spinning Mills Pvt. Ltd.,2025-05-19,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,9.44,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Kaas Footwear Inds. Pvt. Ltd.,2025-06-16,CRISIL,Term loans,Default,D,Reaffirmed,6.71,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Kailash Prasad Yadav Constructions Pvt. Ltd.,2025-05-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,8.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Kailash Prasad Yadav Constructions Pvt. Ltd.,2025-05-19,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.50,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Kairali Steels & Alloys Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,35.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kakatiya Pipes & Infra Pvt. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kakatiya Pipes & Infra Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.07,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kakatiya Pipes & Infra Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B,Reaffirmed,5.93,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kalapurna Steel & Engg. Pvt. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kalapurna Steel & Engg. Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,17.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kalinga Breeding Farms Pvt. Ltd.,2025-05-16,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,10.00,Y,HIGH,13.3,400.0,True,ULTRA HOT
+Kalinga Breeding Farms Pvt. Ltd.,2025-05-16,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.00,Y,HIGH,13.3,400.0,True,ULTRA HOT
+Kamal Coach Works Pvt. Ltd.,2025-05-15,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,10.00,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Karamjeet Singh & Co. Ltd.,2025-06-18,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,77.00,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Karamjeet Singh & Co. Ltd.,2025-06-18,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,90.91,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Karamjeet Singh & Co. Ltd.,2025-06-18,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,178.09,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Karanja Terminal & Logistics Pvt. Ltd.,2025-06-16,CRISIL,Term loans,Default,D,Reaffirmed,57.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Karanja Terminal & Logistics Pvt. Ltd.,2025-06-16,CRISIL,Term loans,Default,D,Reaffirmed,413.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Karmic Energy Pvt. Ltd.,2025-06-16,CRISIL,Long term Loans,High Risk,B-,Reaffirmed,2.50,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Karmic Energy Pvt. Ltd.,2025-06-16,CRISIL,Term loans,High Risk,B-,Reaffirmed,18.75,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Kay Bee Indl. Alloys Pvt. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.20,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kay Bee Indl. Alloys Pvt. Ltd.,2025-06-19,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,4.80,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kerala Paper Products Ltd.,2025-06-19,CRISIL,Bank Guarantee,Default,D,Reaffirmed,5.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kerala Paper Products Ltd.,2025-06-19,CRISIL,Letter Of credit,Default,D,Reaffirmed,45.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Khator Fibre & Fabrics Ltd.,2025-06-16,CRISIL,Bank Guarantee,Default,D,Reaffirmed,4.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Khator Fibre & Fabrics Ltd.,2025-06-16,CRISIL,Long term Loans,Default,D,Reaffirmed,0.80,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Khator Fibre & Fabrics Ltd.,2025-06-16,CRISIL,Term loans,Default,D,Reaffirmed,20.45,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Khedaria Ispat Ltd.,2025-05-15,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.79,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Khedaria Ispat Ltd.,2025-05-15,CRISIL,Long term Loans,High Risk,B,Reaffirmed,14.00,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Khedut Solvexp Pvt. Ltd.,2025-05-09,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,1.60,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Kings International Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Kings International Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B+,Reaffirmed,5.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Kodai Cars Pvt. Ltd.,2025-05-19,CRISIL,Bank Guarantee,Default,D,Reaffirmed,2.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Koenig Solutions Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,3.56,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Koenig Solutions Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.77,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Koenig Solutions Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Kothari Fermentation & Biochem Ltd.,2025-06-09,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4+,Reaffirmed,5.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Kothari Fermentation & Biochem Ltd.,2025-06-09,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,4.60,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Kothari Fermentation & Biochem Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,3.90,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Kothari Fermentation & Biochem Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,17.50,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Kramski Stamping & Molding India Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B-,Reaffirmed,7.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Krish Cereals Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,Default,D,Reaffirmed,6.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Krish Cereals Pvt. Ltd.,2025-06-19,CRISIL,Term loans,Default,D,Reaffirmed,3.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Kudu Knit Process Pvt. Ltd.,2025-06-16,CRISIL,Long term Loans,High Risk,B,Reaffirmed,3.88,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Kudu Knit Process Pvt. Ltd.,2025-06-16,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.62,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Kun United Motors Pvt. Ltd.,2025-05-15,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,15.35,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Kun United Motors Pvt. Ltd.,2025-05-15,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.25,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Kun United Motors Pvt. Ltd.,2025-05-15,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.40,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Kunnel Engineers & Contractors Pvt. Ltd.,2025-05-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,24.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Kunnel Engineers & Contractors Pvt. Ltd.,2025-05-19,CRISIL,Term loans,High Risk,B,Reaffirmed,4.00,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Kurukshetra Expressway Pvt. Ltd.,2025-06-19,CRISIL,Term loans,Default,D,Reaffirmed,748.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+L R N Finance Ltd.,2025-06-24,CRISIL,Long term Loans,Default,D,Reaffirmed,10.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Laxmi En-Fab Pvt. Ltd.,2025-05-19,CRISIL,Fund based financial facility/instrument,High Risk,B,Downgraded,1.50,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Laxmi En-Fab Pvt. Ltd.,2025-05-19,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Downgraded,4.50,Y,HIGH,13.2,397.0,True,ULTRA HOT
+Lee & Muirhead Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B+,Reaffirmed,8.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Lovely International Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,Default,D,Reaffirmed,28.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Lovely International Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,Default,D,Reaffirmed,2.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+M C K Kutty Engineers Pvt. Ltd.,2025-05-20,CRISIL,Long term Loans,High Risk,B+,Withdrawn,2.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+M G F Devp. Ltd.,2025-06-11,CRISIL,Long term Loans,Moderate Safety,BBB,Reaffirmed,0.15,Y,HIGH,12.5,374.0,True,ULTRA HOT
+M G F Devp. Ltd.,2025-06-11,CRISIL,Term loans,Moderate Safety,BBB,Reaffirmed,39.85,Y,HIGH,12.5,374.0,True,ULTRA HOT
+M G Polyplast Inds. Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,44.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+M G Polyplast Inds. Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,B,Downgraded,4.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+M G Polyplast Inds. Pvt. Ltd.,2025-06-19,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Downgraded,6.90,Y,HIGH,12.2,366.0,True,ULTRA HOT
+M G Polyplast Inds. Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B,Downgraded,10.17,Y,HIGH,12.2,366.0,True,ULTRA HOT
+M G Polyplast Inds. Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B,Downgraded,0.43,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Ma Mahamaya Rice Mill Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,Default,D,Reaffirmed,0.24,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ma Mahamaya Rice Mill Pvt. Ltd.,2025-06-23,CRISIL,Term loans,Default,D,Reaffirmed,1.90,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Macbrout Engineering Pvt. Ltd.,2025-05-15,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.35,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Madhav Govind Food Products Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Madhya Bharat Papers Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.75,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Madhya Bharat Papers Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B-,Reaffirmed,14.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Madhya Bharat Papers Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B-,Reaffirmed,15.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mahak Synthetics Mills Pvt. Ltd.,2025-05-08,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Mahak Synthetics Mills Pvt. Ltd.,2025-05-08,CRISIL,Term loans,High Risk,B,Reaffirmed,19.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Mahakaleshwar Infratech Pvt. Ltd.,2025-05-08,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,47.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Mahakaleshwar Infratech Pvt. Ltd.,2025-05-08,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,12.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Mahalakshmi Profiles Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,34.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Mahalakshmi Profiles Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B,Downgraded,47.55,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Mahalakshmi Spintex Pvt. Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,30.14,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Maharani Innovative Paints Pvt. Ltd.,2025-05-14,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,2.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Maharani Innovative Paints Pvt. Ltd.,2025-05-14,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,11.50,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Mahesh Extrusions Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,High Risk,B,Downgraded,4.60,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Mahesh Extrusions Pvt. Ltd.,2025-05-13,CRISIL,Term loans,High Risk,B,Downgraded,5.40,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Majumder Agro Inds. Pvt. Ltd.,2025-05-30,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,8.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Maktel Control & Systems Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,9.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Maktel Control & Systems Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,6.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Maktel Control & Systems Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.10,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Maktel Control & Systems Pvt. Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B+,Reaffirmed,4.90,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Manbhum Ispat Pvt. Ltd.,2025-05-23,CRISIL,Bank Guarantee,High Risk,A 4+,Withdrawn,5.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Mandovi Casting Pvt. Ltd.,2025-05-12,CRISIL,Letter Of credit,High Risk,A 4,Withdrawn,0.31,Y,HIGH,13.5,404.0,True,ULTRA HOT
+Mangalam Edu Gate,2025-06-19,CRISIL,Term loans,High Risk,B+,Reaffirmed,80.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mangalam Metals & Ores Ltd.,2025-05-08,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,40.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Mani Export Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B,Downgraded,4.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Manku Agrotech Pvt. Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B,Reaffirmed,7.20,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Marc Laboratories Ltd.,2025-05-20,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,12.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Marc Laboratories Ltd.,2025-05-20,CRISIL,Long term Loans,High Risk,B,Withdrawn,0.44,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Marc Laboratories Ltd.,2025-05-20,CRISIL,Short-term loan,High Risk,A 4,Withdrawn,2.34,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Marc Laboratories Ltd.,2025-05-20,CRISIL,Term loans,High Risk,B,Withdrawn,5.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Marks Pryor Marking Technology Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,Default,D,Reaffirmed,2.50,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Marks Pryor Marking Technology Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,Default,D,Reaffirmed,1.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Mavis Satcom Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,20.70,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Medi Carrier Pvt. Ltd.,2025-05-13,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,8.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Medi Carrier Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,High Risk,B,Withdrawn,2.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Medi Carrier Pvt. Ltd.,2025-05-13,CRISIL,Term loans,High Risk,B,Withdrawn,4.50,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Mega Automobiles Pvt. Ltd.,2025-06-19,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.50,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mega Automobiles Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B+,Reaffirmed,1.07,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mega Vitrified Pvt. Ltd.,2025-06-19,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.60,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mega Vitrified Pvt. Ltd.,2025-06-19,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mega Vitrified Pvt. Ltd.,2025-06-19,CRISIL,Term loans,High Risk,B,Reaffirmed,1.40,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mehra Polytex Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Mehra Polytex Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Mittal Infrastructure Pvt. Ltd.,2025-05-22,CRISIL,Bank Guarantee,Default,D,Downgraded,2.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Mittal Infrastructure Pvt. Ltd.,2025-05-22,CRISIL,Bank Guarantee,Default,D,Downgraded,2.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Mittal Infrastructure Pvt. Ltd.,2025-05-22,CRISIL,Long term Loans,Default,D,Downgraded,2.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Modern Solar Pvt. Ltd.,2025-06-19,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,12.00,Y,HIGH,12.2,366.0,True,ULTRA HOT
+Mono Steel (India) Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,111.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Monsoon Bounty Foods Mfg. Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,3.50,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Monsoon Bounty Foods Mfg. Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.50,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Montage Enterprises Pvt. Ltd.,2025-06-23,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,45.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Montage Enterprises Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,100.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Montage Enterprises Pvt. Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B,Reaffirmed,55.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Montage Enterprises Pvt. Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B,Reaffirmed,135.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Motherland Garments Pvt. Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.15,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Mudra Denim Pvt. Ltd.,2025-06-24,CRISIL,Letter Of credit,Default,D,Reaffirmed,3.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Mudra Denim Pvt. Ltd.,2025-06-24,CRISIL,Term loans,Default,D,Reaffirmed,105.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Multicolor Steels (India) Pvt. Ltd.,2025-05-14,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,23.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Multicolor Steels (India) Pvt. Ltd.,2025-05-14,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB,Reaffirmed,0.30,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Multicolor Steels (India) Pvt. Ltd.,2025-05-14,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,4.20,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Mundra Agro Pvt. Ltd.,2025-06-12,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,8.25,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Mundra Agro Pvt. Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B+,Reaffirmed,10.50,Y,HIGH,12.4,373.0,True,ULTRA HOT
+My Car Pvt. Ltd.,2025-05-30,CRISIL,Fund based financial facility/instrument,High Risk,A 4,Reaffirmed,8.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+N K Bhojani Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,Default,D,Reaffirmed,7.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+N K Bhojani Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,0.75,Y,HIGH,12.9,387.0,True,ULTRA HOT
+N K Bhojani Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,4.89,Y,HIGH,12.9,387.0,True,ULTRA HOT
+N K Bhojani Pvt. Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,17.86,Y,HIGH,12.9,387.0,True,ULTRA HOT
+N P Agro (India) Inds. Pvt. Ltd.,2025-06-24,CRISIL,Letter Of credit,Default,D,Withdrawn,0.35,Y,HIGH,12.0,361.0,True,ULTRA HOT
+N P Agro (India) Inds. Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,Default,D,Withdrawn,5.26,Y,HIGH,12.0,361.0,True,ULTRA HOT
+N P Agro (India) Inds. Pvt. Ltd.,2025-06-24,CRISIL,Term loans,Default,D,Withdrawn,1.74,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Nailah Chip Boards Pvt. Ltd.,2025-05-20,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,35.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Namratha Oil Refineries Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,4.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nancy Krafts Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,5.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Nancy Krafts Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,6.04,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Nandi International Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,4.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Narayan Texfab Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,3.70,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Narayan Texfab Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,4.30,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Narmada Spun Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.29,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Narmada Spun Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.42,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Narmada Spun Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B+,Reaffirmed,25.14,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Naturo Food & Fruit Products Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.35,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Naturo Food & Fruit Products Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.95,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Nav Shikha Polypack Inds. Pvt. Ltd.,2025-06-12,CRISIL,Letter Of credit,Default,D,Reaffirmed,2.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Nava Nirman Fabrication Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,Default,D,Reaffirmed,5.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nava Nirman Fabrication Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,Default,D,Reaffirmed,5.30,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Naxalbari Flour & Rice Mill Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.60,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Naxalbari Flour & Rice Mill Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B+,Reaffirmed,9.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nayak Aviation Services Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Neelkamal Polytex Inds. Pvt. Ltd.,2025-05-06,CRISIL,Fund based financial facility/instrument,High Risk,A 4+,Downgraded,8.00,Y,HIGH,13.7,410.0,True,ULTRA HOT
+Nepzpack Industries Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,4.35,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nepzpack Industries Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,0.40,Y,HIGH,12.4,372.0,True,ULTRA HOT
+New Mount Trdg. & Invst. Co. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B+,Reaffirmed,9.40,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Nikisu Fab Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B,Reaffirmed,5.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Nirav Metals Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nirav Metals Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nirav Metals Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nirman Estate Developers Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,3.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Northern India Leather Cloth Mfg. Co. Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,4.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Northern India Leather Cloth Mfg. Co. Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B-,Reaffirmed,5.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Northern India Leather Cloth Mfg. Co. Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B-,Reaffirmed,17.68,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nowotek Textiles Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.40,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Nowotek Textiles Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,8.10,Y,HIGH,12.4,372.0,True,ULTRA HOT
+O S T Electronics Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,3.35,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Om Shree Rupesh Steel Pvt. Ltd.,2025-06-18,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,10.19,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Om Shree Rupesh Steel Pvt. Ltd.,2025-06-18,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,39.68,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Omkar Speciality Chemicals Ltd.,2025-05-30,CRISIL,Letter Of credit,Default,D,Reaffirmed,60.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Omkar Speciality Chemicals Ltd.,2025-05-30,CRISIL,Term loans,Default,D,Reaffirmed,50.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Omni Impex Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.67,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Omni Impex Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Omni Impex Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.30,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Omni Impex Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,1.03,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Optech Engineering Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,4.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Optech Engineering Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.95,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Optech Engineering Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B+,Reaffirmed,0.75,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Organic Coatings Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.75,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Organic Coatings Ltd.,2025-05-30,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Orient Craft Ltd.,2025-05-30,CRISIL,Long term Loans,Default,D,Reaffirmed,112.96,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Orient Craft Ltd.,2025-05-30,CRISIL,Non-fund-based financial facility/instrument,Default,D,Reaffirmed,60.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Orient Craft Ltd.,2025-05-30,CRISIL,Term loans,Default,D,Reaffirmed,57.09,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Orient Craft Ltd.,2025-05-30,CRISIL,Term loans,Default,D,Reaffirmed,311.54,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Osia Gems Pvt. Ltd.,2025-06-18,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB,Reaffirmed,38.44,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Osia Gems Pvt. Ltd.,2025-06-18,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB,Reaffirmed,17.56,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Oswal Lumbers Pvt. Ltd.,2025-05-12,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,35.00,Y,HIGH,13.5,404.0,True,ULTRA HOT
+Oswal Lumbers Pvt. Ltd.,2025-05-12,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB-,Downgraded,1.00,Y,HIGH,13.5,404.0,True,ULTRA HOT
+P P Telecell Mktg. Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,17.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+P P Telecell Mktg. Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,15.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+P R G Buildcon India Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,Default,D,Reaffirmed,12.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+P R G Buildcon India Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,Default,D,Reaffirmed,25.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+P R G Buildcon India Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,Default,D,Reaffirmed,19.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+P R L Projects & Infrastructure Ltd.,2025-05-21,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,42.60,Y,HIGH,13.2,395.0,True,ULTRA HOT
+P R L Projects & Infrastructure Ltd.,2025-05-21,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,2.56,Y,HIGH,13.2,395.0,True,ULTRA HOT
+P V R Spinning & Wvg. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+P V R Spinning & Wvg. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.72,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Pakiza Retail Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,0.20,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Pandit Automobiles Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Pandit Automobiles Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.65,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Pandit Automobiles Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Paramashiva Motors Pvt. Ltd.,2025-06-13,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,10.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Paramashiva Motors Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Paramashiva Motors Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Partap Wires (India) Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.20,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Partap Wires (India) Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,0.30,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Peaton Electrical Co. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Peaton Electrical Co. Ltd.,2025-05-30,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Peaton Electrical Co. Ltd.,2025-05-30,CRISIL,Term loans,High Risk,B+,Reaffirmed,0.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Pee Cee Cosma Sope Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Peethambra Granites Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,20.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Periwal Polymers Pvt. Ltd.,2025-05-30,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Periwal Polymers Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Permeshwar Fashion Impex Pvt. Ltd.,2025-05-14,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,0.25,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Permeshwar Fashion Impex Pvt. Ltd.,2025-05-14,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,1.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Phadnis Clinic Pvt. Ltd.,2025-05-15,CRISIL,Term loans,High Risk,B+,Withdrawn,39.50,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Podder & Podder (Equipment & Project) Pvt. Ltd.,2025-05-30,CRISIL,Fund based financial facility/instrument,High Risk,A 4,Reaffirmed,10.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Positive Metering Pumps (India) Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Positive Metering Pumps (India) Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.75,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Positive Metering Pumps (India) Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,4.05,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Prasad Cotton Inds. Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Prem Jain Ispat Udyog Pvt. Ltd.,2025-05-14,CRISIL,Long term Loans,Inadequate Safety,BB+,Reaffirmed,1.42,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Prem Jain Ispat Udyog Pvt. Ltd.,2025-05-14,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,3.58,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Pride East Entertainments Pvt. Ltd.,2025-06-16,CRISIL,Term loans,High Risk,B,Reaffirmed,13.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Prime Hitech Engg. Ltd.,2025-05-29,CRISIL,Bank Guarantee,Default,D,Reaffirmed,9.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Prime Hitech Engg. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,14.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Prime Hitech Engg. Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,73.30,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Pro-Interactive Services (India) Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,2.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Proarch I T Solutions Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,15.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Protac Foods International Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,Default,D,Reaffirmed,2.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Protac Foods International Pvt. Ltd.,2025-05-30,CRISIL,Term loans,Default,D,Reaffirmed,18.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Proventus Life Sciences Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+R D Forge Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+R D Forge Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,3.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+R K Electric Automation Ltd.,2025-06-16,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,10.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+R K Electric Automation Ltd.,2025-06-16,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+R K Electric Automation Ltd.,2025-06-16,CRISIL,Long term Loans,High Risk,B,Reaffirmed,17.80,Y,HIGH,12.3,369.0,True,ULTRA HOT
+R L Agro Foods Pvt. Ltd.,2025-06-16,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,5.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+R N K Agro & Chemicals Pvt. Ltd.,2025-05-30,CRISIL,Term loans,High Risk,B+,Reaffirmed,2.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+R Q S Engineering Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,13.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+R Q S Engineering Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,9.95,Y,HIGH,12.9,387.0,True,ULTRA HOT
+R Q S Engineering Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,19.05,Y,HIGH,12.9,387.0,True,ULTRA HOT
+R S Development & Constructions India Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,70.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+R S Development & Constructions India Pvt. Ltd.,2025-06-25,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,3.50,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Race Eco Chain Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Race Eco Chain Ltd.,2025-05-30,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Radium Creation Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,15.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Rai Metal Works Pvt. Ltd.,2025-05-30,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,72.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Rajeev Tradecomm Pvt. Ltd.,2025-05-30,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,7.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Rajiv Automobiles Pvt. Ltd.,2025-06-16,CRISIL,Letter Of credit,High Risk,B,Reaffirmed,1.50,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Rajiv Automobiles Pvt. Ltd.,2025-06-16,CRISIL,Term loans,High Risk,B,Reaffirmed,1.05,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Ram Fashion Exports Pvt. Ltd.,2025-05-14,CRISIL,Term loans,Default,D,Downgraded,4.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Rama Ferro Alloys & Finance Pvt. Ltd.,2025-06-16,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.3,369.0,True,ULTRA HOT
+Ramabhadra Industries Pvt. Ltd.,2025-06-06,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,20.37,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Rambaran Singh Apex Pvt. Ltd.,2025-06-06,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,34.05,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Rambaran Singh Apex Pvt. Ltd.,2025-06-06,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,5.65,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Ramelex Pvt. Ltd.,2025-05-30,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,9.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Ramelex Pvt. Ltd.,2025-05-30,CRISIL,Term loans,High Risk,B,Reaffirmed,10.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Ramelex Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Withdrawn,9.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ramelex Pvt. Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B,Withdrawn,10.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Rayalaseema Steel Re-Rolling Mills Pvt. Ltd. (Part- Ix),2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Rayalaseema Steel Re-Rolling Mills Pvt. Ltd. (Part- Ix),2025-05-26,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.30,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Reach Logistics Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Relcom Technology Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Relcom Technology Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Remi Edelstahl Tubulars Ltd.,2025-06-06,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,20.00,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Remi Edelstahl Tubulars Ltd.,2025-06-06,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,10.75,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Remi Edelstahl Tubulars Ltd.,2025-06-06,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,2.50,Y,HIGH,12.6,379.0,True,ULTRA HOT
+Resonance Paper Mill Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Resonance Paper Mill Pvt. Ltd.,2025-06-13,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Resonance Paper Mill Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Resonance Specialties Ltd.,2025-05-21,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,6.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Rine Engineering Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Rubber King Tyre Pvt. Ltd.,2025-05-06,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,1.60,Y,HIGH,13.7,410.0,True,ULTRA HOT
+Rubber King Tyre Pvt. Ltd.,2025-05-06,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,6.00,Y,HIGH,13.7,410.0,True,ULTRA HOT
+Rubber King Tyre Pvt. Ltd.,2025-05-06,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,27.79,Y,HIGH,13.7,410.0,True,ULTRA HOT
+Rudra Global Infra Products Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Withdrawn,6.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Rudra Global Infra Products Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B,Withdrawn,24.10,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Rudra Global Infra Products Ltd.,2025-06-24,CRISIL,Term loans,High Risk,B,Withdrawn,2.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Rupal Plastics Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Rupal Plastics Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,8.75,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Rupal Plastics Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.75,Y,HIGH,12.9,387.0,True,ULTRA HOT
+S A Iron & Alloys Pvt. Ltd.,2025-06-06,CRISIL,Term loans,High Risk,B,Withdrawn,1.00,Y,HIGH,12.6,379.0,True,ULTRA HOT
+S A Iron & Alloys Pvt. Ltd.,2025-06-06,CRISIL,Term loans,High Risk,B,Withdrawn,20.00,Y,HIGH,12.6,379.0,True,ULTRA HOT
+S C L Healthcare Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,90.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+S D Auto Engg. Works Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,2.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+S K P Project Pvt. Ltd.,2025-05-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,15.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+S M P Exim Pvt. Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.50,Y,HIGH,13.6,408.0,True,ULTRA HOT
+S M P L Life Sciences Pvt. Ltd.,2025-05-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+S M Sun Power Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+S M Sun Power Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+S N Enviro-Tech Pvt. Ltd.,2025-05-13,CRISIL,Bank Guarantee,Default,D,Reaffirmed,65.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+S N Enviro-Tech Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,Default,D,Reaffirmed,15.50,Y,HIGH,13.4,403.0,True,ULTRA HOT
+S P Jaiswal Estates Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,14.28,Y,HIGH,13.0,390.0,True,ULTRA HOT
+S P P Polymer Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+S P P Polymer Ltd.,2025-06-10,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+S P P Polymer Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B+,Reaffirmed,4.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+S T Constructions Pvt. Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,26.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+S V M Cars Pvt. Ltd.,2025-05-27,CRISIL,Fund based financial facility/instrument,High Risk,A 4+,Reaffirmed,21.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+S V M Cars Pvt. Ltd.,2025-05-27,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,26.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+S V S V S Projects Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,Default,D,Reaffirmed,48.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+S V S V S Projects Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,Default,D,Reaffirmed,6.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Safex Fire Services Ltd.,2025-05-13,CRISIL,Short-term loan,High Risk,A 4+,Downgraded,5.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Safex Fire Services Ltd.,2025-05-13,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,5.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Sahuwala Cylinders Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Sahuwala Cylinders Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,5.30,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Samarth Dairy & Agro Products Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,1.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Samarth Dairy & Agro Products Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B+,Reaffirmed,3.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Sami Spices & Herbs Pvt. Ltd.,2025-06-10,CRISIL,Short-term loan,High Risk,A 4,Downgraded,0.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Samrat Forgings Ltd.,2025-06-18,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,2.00,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Samrat Forgings Ltd.,2025-06-18,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,5.00,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Samrat Forgings Ltd.,2025-06-18,CRISIL,Term loans,Inadequate Safety,BB,Downgraded,12.75,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Samriddhi Automations Pvt. Ltd.,2025-05-23,CRISIL,Letter Of credit,High Risk,A 4+,Withdrawn,10.00,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Samriddhi Automations Pvt. Ltd.,2025-05-23,CRISIL,Term loans,Inadequate Safety,BB+,Withdrawn,0.50,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Sandhya Organic Chemicals Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Sandhya Organic Chemicals Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Santhosh Buildwel Infra Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Saraogi Super Sales Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Downgraded,4.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Sarla Medical Centre Pvt. Ltd.,2025-05-27,CRISIL,Long term Loans,Default,D,Reaffirmed,10.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Satchidananda Agro Tech Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.82,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Satchidananda Agro Tech Pvt. Ltd.,2025-06-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.34,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Satchidananda Agro Tech Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,2.34,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Seven Hills Minerals Pvt. Ltd.,2025-05-28,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,10.00,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Seven Hills Minerals Pvt. Ltd.,2025-05-28,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,10.00,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Seven Hills Minerals Pvt. Ltd.,2025-05-28,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,10.50,Y,HIGH,12.9,388.0,True,ULTRA HOT
+Sharma Orthopedic (India) Ltd.,2025-05-27,CRISIL,Term loans,High Risk,B,Reaffirmed,3.75,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Sharplex Filters (India) Pvt. Ltd.,2025-05-14,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,6.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Sharplex Filters (India) Pvt. Ltd.,2025-05-14,CRISIL,Long term Loans,Inadequate Safety,BB+,Downgraded,6.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+Shivdhara Spinners & Spinners Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B-,Reaffirmed,35.50,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Shiven Yarn Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Shiven Yarn Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.35,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Shiven Yarn Pvt. Ltd.,2025-06-24,CRISIL,Term loans,High Risk,B,Reaffirmed,19.45,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Shree Bharat Motors Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,27.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shree Bharat Motors Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,0.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shree Bharat Motors Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,22.91,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shree Gopal Proteins India Pvt. Ltd.,2025-06-23,CRISIL,Fund based financial facility/instrument,High Risk,B,Withdrawn,2.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Shree Satguru Agro & Oil Products Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shree Sidhbali Steels Pvt. Ltd.,2025-06-11,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Shree Sidhbali Steels Pvt. Ltd.,2025-06-11,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Shree Sidhbali Steels Pvt. Ltd.,2025-06-11,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,4.75,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Shree Sidhbali Steels Pvt. Ltd.,2025-06-11,CRISIL,Term loans,High Risk,B+,Reaffirmed,0.75,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Shree Sita Agro Foods Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Shree Sita Agro Foods Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.45,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Shree Sita Edibles Ltd.,2025-06-12,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,15.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Shree Sita Edibles Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B,Reaffirmed,2.89,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Shree Sita Pulses Pvt. Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B,Reaffirmed,12.70,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Shree Sita Refiners Pvt. Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B,Reaffirmed,2.31,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Shreeji Cotfab Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,4.50,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Shreyans Creation Global Pvt. Ltd.,2025-06-11,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Shreyans Oils Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B,Reaffirmed,6.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Shri Banke Bihari Polyfab Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Banke Bihari Polyfab Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,4.80,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Banke Bihari Polyfab Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.20,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Coimbatore Jewellers India Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Coimbatore Jewellers India Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Coimbatore Jewellers India Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B+,Reaffirmed,15.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Ganga Four Wheels Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,4.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shri Khatu Shyam Alloys Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,9.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Shri Mangalam Auto Pvt. Ltd.,2025-05-27,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB,Reaffirmed,15.26,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Shri Mangalam Auto Pvt. Ltd.,2025-05-27,CRISIL,Term loans,Inadequate Safety,BB,Reaffirmed,4.74,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Shri Rewa Rice Mills Pvt. Ltd.,2025-05-15,CRISIL,Term loans,High Risk,B+,Reaffirmed,7.45,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Shrinathji Agro Food Inds. Pvt. Ltd.,2025-06-13,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,10.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Shrinathji Agro Food Inds. Pvt. Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Shubham Cotton Mills Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,0.50,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Shweta Infrastructure & Housing (India) Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,54.12,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Shweta Infrastructure & Housing (India) Pvt. Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,10.26,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Shweta Infrastructure & Housing (India) Pvt. Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B+,Reaffirmed,65.62,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Siby Mining & Infrastructure Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,4.08,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Siddharth Carbochem Products Ltd.,2025-06-11,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,41.00,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Siddhartha Super Spg. Mills Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B,Reaffirmed,20.00,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Siddheshwari Paper Udyog Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,0.25,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Siddheshwari Paper Udyog Pvt. Ltd.,2025-06-12,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,4.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Siddheshwari Paper Udyog Pvt. Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B,Downgraded,16.13,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Siddhi Ganesh Metal Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,High Risk,B,Downgraded,25.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Siddhi Vinayak Roller Flour Mills Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Siddhi Vinayak Roller Flour Mills Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Sidhaant Life Sciences Pvt. Ltd.,2025-05-31,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.8,385.0,True,ULTRA HOT
+Sidhaant Life Sciences Pvt. Ltd.,2025-05-31,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.00,Y,HIGH,12.8,385.0,True,ULTRA HOT
+Sidhaant Life Sciences Pvt. Ltd.,2025-05-31,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.8,385.0,True,ULTRA HOT
+Singh Cycle & Motor Co. Pvt. Ltd.,2025-06-12,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,10.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Singhania Resources Pvt. Ltd.,2025-06-18,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,8.00,Y,HIGH,12.2,367.0,True,ULTRA HOT
+Sintech Precision Products Ltd.,2025-05-13,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,4.50,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Sintech Precision Products Ltd.,2025-05-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Sintech Precision Products Ltd.,2025-05-13,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.50,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Sipul Enterprises Ltd.,2025-05-22,CRISIL,Long term Loans,Default,D,Downgraded,7.67,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Sipul Enterprises Ltd.,2025-05-22,CRISIL,Long term Loans,Default,D,Downgraded,2.33,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Sitson India Ltd.,2025-05-31,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,18.00,Y,HIGH,12.8,385.0,True,ULTRA HOT
+Siva Foods Impex Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,3.75,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Skate Trades & Agencies Pvt. Ltd.,2025-05-26,CRISIL,Term loans,Default,D,Reaffirmed,13.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Skytouch Ceramic Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.90,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Skytouch Ceramic Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,5.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Skytouch Ceramic Pvt. Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B,Reaffirmed,9.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Sohrab Spinning Mills Ltd.,2025-06-12,CRISIL,Letter Of credit,Default,D,Reaffirmed,2.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Sohrab Spinning Mills Ltd.,2025-06-12,CRISIL,Long term Loans,Default,D,Reaffirmed,2.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Sohrab Spinning Mills Ltd.,2025-06-12,CRISIL,Term loans,Default,D,Reaffirmed,12.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Solcen Infra Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.35,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Solcen Infra Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.65,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Solcen Infra Pvt. Ltd.,2025-05-26,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,8.60,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Sonalac Paints & Coatings Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B+,Reaffirmed,0.35,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Sonkamal Enterprises Pvt. Ltd.,2025-06-09,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,307.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+South Calcutta Diesels Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,3.50,Y,HIGH,12.4,373.0,True,ULTRA HOT
+South India Spg. Mills Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,11.30,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Southern Gold Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,Default,D,Reaffirmed,30.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Southern Gold Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,Default,D,Reaffirmed,7.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Speedofer Components Pvt. Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,B-,Reaffirmed,3.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Speedofer Components Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B-,Reaffirmed,1.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Spell Organics Ltd.,2025-05-15,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,3.35,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Spell Organics Ltd.,2025-05-15,CRISIL,Term loans,High Risk,B+,Reaffirmed,0.65,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Spicejet Ltd.,2025-06-24,CRISIL,Letter Of credit,Default,D,Reaffirmed,220.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Spinora Tiles Pvt. Ltd.,2025-05-08,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.17,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Spinora Tiles Pvt. Ltd.,2025-05-08,CRISIL,Term loans,High Risk,B,Reaffirmed,11.33,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Sree Ayyanar Spg. & Wvg. Mills Pvt. Ltd.,2025-06-10,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,17.59,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Sree Ayyanar Spg. & Wvg. Mills Pvt. Ltd.,2025-06-10,CRISIL,Term loans,High Risk,B+,Reaffirmed,17.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Sri Bhavani Castings Ltd.,2025-06-13,CRISIL,Term loans,High Risk,B,Reaffirmed,13.42,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Sri Srinivasa Constructions India Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,53.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Sri Srinivasa Constructions India Pvt. Ltd.,2025-06-12,CRISIL,Bank Guarantee,High Risk,B+,Reaffirmed,32.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Sri Sudharsanam Hospital Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,6.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Srinivasa Cotton & Oil Mills Pvt. Ltd.,2025-05-21,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,30.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Stanley Retail Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,6.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Star Iris Exports Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Reaffirmed,6.75,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Star Pipe Foundry (India) Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,2.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Star Pipe Foundry (India) Pvt. Ltd.,2025-05-30,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,40.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Star Pipe Foundry (India) Pvt. Ltd.,2025-05-30,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,53.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Stellar Autohaus Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,99.35,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Stellar Autohaus Pvt. Ltd.,2025-05-29,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,1.07,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Stellar Autohaus Pvt. Ltd.,2025-05-29,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,1.83,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Sun Hospital Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,3.49,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Sundaram Multi Pap Ltd.,2025-05-26,CRISIL,Term loans,Inadequate Safety,BB-,Reaffirmed,23.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Sunex Stones Pvt. Ltd.,2025-05-23,CRISIL,Bank Guarantee,High Risk,A 4+,Withdrawn,0.50,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Sunex Stones Pvt. Ltd.,2025-05-23,CRISIL,Long term Loans,Inadequate Safety,BB+,Withdrawn,3.15,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Sunex Stones Pvt. Ltd.,2025-05-23,CRISIL,Term loans,Inadequate Safety,BB+,Withdrawn,7.82,Y,HIGH,13.1,393.0,True,ULTRA HOT
+Sunita Finlease Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,3.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Suolificio Linea Italia (India) Pvt. Ltd.,2025-05-13,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,3.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Suolificio Linea Italia (India) Pvt. Ltd.,2025-05-13,CRISIL,Letter Of credit,High Risk,A 4,Downgraded,1.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Suolificio Linea Italia (India) Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,High Risk,B,Downgraded,3.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+Super Plastic Coats Pvt. Ltd.,2025-06-09,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,2.50,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Supermint Exports Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,0.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Supermint Exports Pvt. Ltd.,2025-05-30,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,4.77,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Supreme Music (India) Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Supreme Music (India) Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,4.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Suresh Enterprises Pvt. Ltd.,2025-05-26,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,5.27,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Suresh Enterprises Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,100.48,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Surya Contractors Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,30.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Surya Contractors Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,2.50,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Sutapa International Exports Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B+,Reaffirmed,8.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Swan Environmental Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,15.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Swan Environmental Pvt. Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Swiss Parenterals Ltd.,2025-06-10,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Swiss Parenterals Ltd.,2025-06-10,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,4.25,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Swiss Parenterals Ltd.,2025-06-10,CRISIL,Long term Loans,High Risk,B,Reaffirmed,11.15,Y,HIGH,12.5,375.0,True,ULTRA HOT
+Tamilnadu Paddy & Rice Processing Federation,2025-06-23,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,27.50,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Tech-Force Composites Pvt. Ltd.,2025-06-11,CRISIL,Letter Of credit,High Risk,B,Reaffirmed,0.50,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Tech-Force Composites Pvt. Ltd.,2025-06-11,CRISIL,Term loans,High Risk,B,Reaffirmed,1.86,Y,HIGH,12.5,374.0,True,ULTRA HOT
+Techno Global Services Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,6.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Technovaa Plastic Inds. Pvt. Ltd.,2025-06-24,CRISIL,Term loans,Default,D,Reaffirmed,47.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Thiese Precision Pvt. Ltd.,2025-06-09,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,55.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Thiese Precision Pvt. Ltd.,2025-06-09,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,24.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Thiese Precision Pvt. Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,7.77,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Thiese Precision Pvt. Ltd.,2025-06-09,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,7.23,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Tokyo Plast Intl. Ltd.,2025-06-12,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,3.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Tokyo Plast Intl. Ltd.,2025-06-12,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,5.00,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Trans Valves (India) Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Trans Valves (India) Pvt. Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,3.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Trans Valves (India) Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.27,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Trans Valves (India) Pvt. Ltd.,2025-05-26,CRISIL,Term loans,High Risk,B,Reaffirmed,0.48,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Trans-Fab Power India Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,9.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Trans-Fab Power India Pvt. Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,7.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Trans-Fab Power India Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.05,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Transoceanic Agro Comm Pvt. Ltd.,2025-06-13,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,121.10,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Tripurari Agro Pvt. Ltd.,2025-06-23,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,3.50,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Tripurari Agro Pvt. Ltd.,2025-06-23,CRISIL,Term loans,Default,D,Reaffirmed,3.50,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Tulasi Seeds Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,18.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Twentyone Sugars Ltd.,2025-06-25,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,405.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+U C N Construction Co. Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,15.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+U P L Environmental Engineers Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,11.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+U P L Environmental Engineers Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,0.75,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Unik Bazar Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,8.60,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Unik Bazar Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B,Reaffirmed,4.60,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Unitech Cotspin Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Unitech Cotspin Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,2.37,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Unitech Cotspin Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B,Reaffirmed,6.63,Y,HIGH,12.0,361.0,True,ULTRA HOT
+V R G Industries Pvt. Ltd.,2025-06-24,CRISIL,Term loans,High Risk,B+,Reaffirmed,6.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vag Buildtech Ltd.,2025-06-24,CRISIL,Bank Guarantee,Default,D,Reaffirmed,10.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vag Buildtech Ltd.,2025-06-24,CRISIL,Long term Loans,Default,D,Reaffirmed,15.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vaishnavi Ferro Tech Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,High Risk,B,Reaffirmed,1.38,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Vaishnavi Ferro Tech Pvt. Ltd.,2025-05-29,CRISIL,Term loans,High Risk,B,Reaffirmed,3.02,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Vamshi Motors Pvt. Ltd.,2025-05-27,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vashisth Builders & Engineers Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,22.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Vasudeva Dall Products Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vasudeva Dall Products Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B,Reaffirmed,0.90,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vasundhara Power & Infrastructure Pvt. Ltd.,2025-05-27,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,1.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Velox Motors Pvt. Ltd.,2025-05-30,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,6.50,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Velox Motors Pvt. Ltd.,2025-05-30,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,10.00,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Venus Garments (India) Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,14.91,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Venus Garments (India) Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,3.17,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Venus Garments (India) Ltd.,2025-05-29,CRISIL,Term loans,Default,D,Reaffirmed,73.83,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Vibrant Content Pvt. Ltd.,2025-05-27,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,10.15,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vibrant Content Pvt. Ltd.,2025-05-27,CRISIL,Term loans,High Risk,B+,Reaffirmed,21.85,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vidya Prakashan Mandir Pvt. Ltd.,2025-06-13,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,0.05,Y,HIGH,12.4,372.0,True,ULTRA HOT
+Vijas Digital (India) Pvt. Ltd.,2025-05-27,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.60,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vijas Digital (India) Pvt. Ltd.,2025-05-27,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.65,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vijas Digital (India) Pvt. Ltd.,2025-05-27,CRISIL,Term loans,High Risk,B+,Reaffirmed,2.55,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vijay Nirman Co. Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,Default,D,Reaffirmed,486.70,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vijay Nirman Co. Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,Default,D,Reaffirmed,74.05,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vikrma Impex Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vikrma Impex Pvt. Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,High Risk,B+,Reaffirmed,1.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vikrma Impex Pvt. Ltd.,2025-06-24,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vinayak Ultraflex Pvt. Ltd.,2025-05-27,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vinayak Ultraflex Pvt. Ltd.,2025-05-27,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,0.75,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vinayak Ultraflex Pvt. Ltd.,2025-05-27,CRISIL,Term loans,High Risk,B,Reaffirmed,0.11,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vinayak Ultraflex Pvt. Ltd.,2025-05-27,CRISIL,Term loans,High Risk,B,Reaffirmed,0.14,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vipul Motors Pvt. Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,45.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Vishwanath Spinnerz India Ltd.,2025-05-27,CRISIL,Long term Loans,Default,D,Reaffirmed,49.79,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vishwanath Spinnerz India Ltd.,2025-05-27,CRISIL,Term loans,Default,D,Reaffirmed,6.21,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vital Healthcare Pvt. Ltd.,2025-05-27,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,7.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vital Healthcare Pvt. Ltd.,2025-05-27,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,5.72,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vital Healthcare Pvt. Ltd.,2025-05-27,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,34.78,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Vital Healthcare Pvt. Ltd.,2025-05-27,CRISIL,Term loans,High Risk,B+,Reaffirmed,2.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+A & T Infracon Pvt. Ltd.,2025-05-13,CRISIL,Bank Guarantee,High Risk,A 4+,Withdrawn,25.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+A & T Infracon Pvt. Ltd.,2025-05-13,CRISIL,Long term Loans,Inadequate Safety,BB,Withdrawn,1.00,Y,HIGH,13.4,403.0,True,ULTRA HOT
+A Auto Movers Pvt. Ltd.,2025-05-22,CRISIL,Fund based financial facility/instrument,High Risk,B,Reaffirmed,5.00,Y,HIGH,13.1,394.0,True,ULTRA HOT
+A G Conveying Systems Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,Default,D,Reaffirmed,1.50,Y,HIGH,13.2,395.0,True,ULTRA HOT
+A G Conveying Systems Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,Default,D,Reaffirmed,0.85,Y,HIGH,13.2,395.0,True,ULTRA HOT
+A G Conveying Systems Pvt. Ltd.,2025-05-21,CRISIL,Term loans,Default,D,Reaffirmed,0.80,Y,HIGH,13.2,395.0,True,ULTRA HOT
+A G Fats Pvt. Ltd.,2025-06-12,CRISIL,Long term Loans,High Risk,B,Downgraded,0.11,Y,HIGH,12.4,373.0,True,ULTRA HOT
+A G Fats Pvt. Ltd.,2025-06-12,CRISIL,Term loans,High Risk,B,Downgraded,4.89,Y,HIGH,12.4,373.0,True,ULTRA HOT
+A N S Constructions Pvt. Ltd.,2025-05-14,CRISIL,Bank Guarantee,Default,D,Downgraded,41.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+A N S Constructions Pvt. Ltd.,2025-05-14,CRISIL,Long term Loans,Default,D,Downgraded,3.00,Y,HIGH,13.4,402.0,True,ULTRA HOT
+A S C Infratech Pvt. Ltd.,2025-06-04,CRISIL,Bank Guarantee,High Risk,A 4+,Withdrawn,77.00,Y,HIGH,12.7,381.0,True,ULTRA HOT
+A V Rambabu Infra Pvt. Ltd.,2025-06-09,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,17.00,Y,HIGH,12.5,376.0,True,ULTRA HOT
+A Y G Realty Pvt. Ltd.,2025-06-25,CRISIL,Bank Guarantee,Default,D,Reaffirmed,14.00,Y,HIGH,12.0,360.0,True,ULTRA HOT
+A-I Enterprises Pvt. Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,High Risk,A 4,Reaffirmed,15.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+A-I Enterprises Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,9.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Aadhi Cars Pvt. Ltd.,2025-05-09,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,75.00,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Aadhi Cars Pvt. Ltd.,2025-05-09,CRISIL,Long term Loans,Inadequate Safety,BB+,Reaffirmed,7.04,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Aadhi Cars Pvt. Ltd.,2025-05-09,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,5.19,Y,HIGH,13.6,407.0,True,ULTRA HOT
+Accrete Pharmaceuticals Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Accrete Pharmaceuticals Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,3.60,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Acetech Machinery Components India Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,8.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Achiever Apparels Pvt. Ltd.,2025-05-21,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,4.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Acumen Overseas Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,52.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Adsun Electronics Pvt. Ltd.,2025-06-23,CRISIL,Fund based financial facility/instrument,High Risk,B,Downgraded,25.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Advait Steel Rolling Mills Pvt. Ltd.,2025-05-21,CRISIL,Term loans,Default,D,Reaffirmed,3.04,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Adwaith Lakshmi Inds. Ltd.,2025-05-20,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,6.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Adwaith Lakshmi Inds. Ltd.,2025-05-20,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,3.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Adwaith Lakshmi Inds. Ltd.,2025-05-20,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,18.00,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Aeroflex Neu Ltd.,2025-06-25,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,7.20,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Aeroflex Neu Ltd.,2025-06-25,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,2.62,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Aeroflex Neu Ltd.,2025-06-25,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,8.91,Y,HIGH,12.0,360.0,True,ULTRA HOT
+Agri Search (India) Pvt. Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B,Reaffirmed,6.70,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Aikya Chemicals Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Downgraded,7.50,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Al-Nasir Exports Pvt. Ltd.,2025-05-15,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,4.00,Y,HIGH,13.4,401.0,True,ULTRA HOT
+Alakh Advertising & Publicity Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Alakh Advertising & Publicity Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,2.01,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Alaska Fabtech Pvt. Ltd.,2025-05-21,CRISIL,Term loans,Default,D,Reaffirmed,13.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Albino Lifesciences Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B,Reaffirmed,5.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Alfara'A Infraprojects Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,Default,D,Reaffirmed,395.09,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Alfara'A Infraprojects Pvt. Ltd.,2025-05-29,CRISIL,Letter Of credit,Default,D,Reaffirmed,140.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Alfara'A Infraprojects Pvt. Ltd.,2025-05-29,CRISIL,Long term Loans,Default,D,Reaffirmed,35.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Aliens Developers Pvt. Ltd.,2025-05-30,CRISIL,Bank Guarantee,Default,D,Reaffirmed,0.80,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Aliens Developers Pvt. Ltd.,2025-05-30,CRISIL,Long term Loans,Default,D,Reaffirmed,0.90,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Alpro Extrusion Pvt. Ltd.,2025-06-24,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Alpro Extrusion Pvt. Ltd.,2025-06-24,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Alpro Extrusion Pvt. Ltd.,2025-06-24,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,10.00,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Alstone Industries Pvt. Ltd.,2025-05-22,CRISIL,Term loans,High Risk,B,Reaffirmed,5.03,Y,HIGH,13.1,394.0,True,ULTRA HOT
+Amazing Rubber Products Pvt. Ltd.,2025-05-27,CRISIL,Long term Loans,Inadequate Safety,BB,Reaffirmed,5.00,Y,HIGH,13.0,389.0,True,ULTRA HOT
+Ambuj Hotel & Real Estate Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,7.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Ambuj Hotel & Real Estate Pvt. Ltd.,2025-05-21,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,7.16,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Ambuj Hotel & Real Estate Pvt. Ltd.,2025-05-21,CRISIL,Term loans,Inadequate Safety,BB+,Downgraded,2.84,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Amkap Marketing Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Amoda Iron & Steel Ltd.,2025-06-12,CRISIL,Bank Guarantee,Default,D,Reaffirmed,0.34,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Amoda Iron & Steel Ltd.,2025-06-12,CRISIL,Letter Of credit,Default,D,Reaffirmed,3.63,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Amoda Iron & Steel Ltd.,2025-06-12,CRISIL,Long term Loans,Default,D,Reaffirmed,2.79,Y,HIGH,12.4,373.0,True,ULTRA HOT
+Amrutva Exports Pvt. Ltd.,2025-05-29,CRISIL,Short-term loan,High Risk,A 4,Reaffirmed,0.20,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Anand Triplex Board Pvt. Ltd.,2025-05-20,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,2.50,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Anand Triplex Board Pvt. Ltd.,2025-05-20,CRISIL,Letter Of credit,High Risk,A 4+,Reaffirmed,4.50,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Anand Triplex Board Pvt. Ltd.,2025-05-20,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Reaffirmed,0.50,Y,HIGH,13.2,396.0,True,ULTRA HOT
+Ananda-Bag Tea Co. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Anish Pharma Equip Pvt. Ltd.,2025-05-29,CRISIL,Bank Guarantee,High Risk,A 4+,Reaffirmed,5.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Anish Pharma Equip Pvt. Ltd.,2025-05-29,CRISIL,Term loans,Inadequate Safety,BB+,Reaffirmed,8.00,Y,HIGH,12.9,387.0,True,ULTRA HOT
+Annanya Interface & Controls Pvt. Ltd.,2025-05-26,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Annanya Interface & Controls Pvt. Ltd.,2025-05-26,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.50,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Annanya Interface & Controls Pvt. Ltd.,2025-05-26,CRISIL,Long term Loans,Substantial Risk,C,Reaffirmed,1.06,Y,HIGH,13.0,390.0,True,ULTRA HOT
+Anshul Specialty Molecules Pvt. Ltd.,2025-06-04,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,0.08,Y,HIGH,12.7,381.0,True,ULTRA HOT
+Anshul Specialty Molecules Pvt. Ltd.,2025-06-04,CRISIL,Letter Of credit,High Risk,A 4+,Downgraded,5.00,Y,HIGH,12.7,381.0,True,ULTRA HOT
+Anupam Industries Ltd.,2025-05-21,CRISIL,Bank Guarantee,Default,D,Reaffirmed,160.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Anupam Industries Ltd.,2025-05-21,CRISIL,Letter Of credit,Default,D,Reaffirmed,30.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Anupam Industries Ltd.,2025-05-21,CRISIL,Long term Loans,Default,D,Reaffirmed,11.58,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Anupam Industries Ltd.,2025-05-21,CRISIL,Term loans,Default,D,Reaffirmed,40.42,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Apco Automobiles Pvt. Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,Default,D,Reaffirmed,3.50,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Ardent Maschinfabrik Pvt. Ltd.,2025-06-20,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.2,365.0,True,ULTRA HOT
+Ardent Maschinfabrik Pvt. Ltd.,2025-06-20,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.2,365.0,True,ULTRA HOT
+Armstrong Machine Builders Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,5.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Armstrong Machine Builders Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Arora Aromatics Pvt. Ltd.,2025-06-23,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4+,Downgraded,5.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Arora Aromatics Pvt. Ltd.,2025-06-23,CRISIL,Fund based financial facility/instrument,Inadequate Safety,BB+,Downgraded,4.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Aryavrata Steel Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4,Downgraded,4.50,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Aryavrata Steel Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Downgraded,13.50,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Aryavrata Steel Pvt. Ltd.,2025-05-21,CRISIL,Non-fund-based financial facility/instrument,High Risk,A 4,Downgraded,0.40,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Asbesco (India) Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,59.75,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Asbesco (India) Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,15.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Asbesco (India) Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,1.25,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ascent Air Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,27.50,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ascent Yarns Pvt. Ltd.,2025-06-23,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,0.65,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ascent Yarns Pvt. Ltd.,2025-06-23,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.00,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ascent Yarns Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B,Reaffirmed,4.35,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Ascent Yarns Pvt. Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B,Reaffirmed,3.70,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Aseptic Fruit Products India Pvt. Ltd.,2025-06-24,CRISIL,Fund based financial facility/instrument,High Risk,B,Downgraded,6.27,Y,HIGH,12.0,361.0,True,ULTRA HOT
+Ashish Life Science Pvt. Ltd.,2025-05-21,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,1.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Ashish Life Science Pvt. Ltd.,2025-05-21,CRISIL,Long term Loans,High Risk,B,Reaffirmed,8.00,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Wevin Pvt. Ltd.,2025-05-21,CRISIL,Bank Guarantee,High Risk,A 4+,Downgraded,28.50,Y,HIGH,13.2,395.0,True,ULTRA HOT
+Window Magic India Pvt. Ltd.,2025-06-09,CRISIL,Letter Of credit,High Risk,A 4+,Withdrawn,6.50,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Window Magic India Pvt. Ltd.,2025-06-09,CRISIL,Long term Loans,Inadequate Safety,BB,Withdrawn,8.01,Y,HIGH,12.5,376.0,True,ULTRA HOT
+Yadav Solvex Pvt. Ltd.,2025-05-30,CRISIL,Term loans,High Risk,B,Reaffirmed,7.15,Y,HIGH,12.9,386.0,True,ULTRA HOT
+Yamuna Industries Ltd.,2025-06-23,CRISIL,Long term Loans,High Risk,B+,Reaffirmed,0.20,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Yamuna Industries Ltd.,2025-06-23,CRISIL,Term loans,High Risk,B+,Reaffirmed,3.30,Y,HIGH,12.1,362.0,True,ULTRA HOT
+Yogiji Digi Ltd.,2025-05-08,CRISIL,Bank Guarantee,High Risk,A 4,Reaffirmed,2.30,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Yogiji Digi Ltd.,2025-05-08,CRISIL,Letter Of credit,High Risk,A 4,Reaffirmed,2.50,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Yogiji Digi Ltd.,2025-05-08,CRISIL,Long term Loans,High Risk,B,Reaffirmed,2.95,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Yogiji Digi Ltd.,2025-05-08,CRISIL,Term loans,High Risk,B,Reaffirmed,2.75,Y,HIGH,13.6,408.0,True,ULTRA HOT
+Zenova Bio Nutrition Pvt. Ltd.,2025-06-23,CRISIL,Long term Loans,Default,D,Reaffirmed,6.00,Y,HIGH,12.1,362.0,True,ULTRA HOT

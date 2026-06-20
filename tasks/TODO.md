@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-19
-Status: Session 17 complete. Session 18 starting next run.
+Last Updated: 2026-06-20
+Status: Session 18 complete. Session 19 starting next run.
 
 ---
 
@@ -18,27 +18,55 @@ Status: Session 17 complete. Session 18 starting next run.
       → First step: extract CIN from any available source or manual upload
       → Highest-value single unlock remaining in the database
 
-- [ ] CRISIL INC Master — PROMOTE TO P1 (Session 18)
-      → 3,429 CRISIL INC companies (36.6% INC) — largest absolute INC pool
-      → 465 ULTRA HOT + 1,916 HOT — callable now
-      → Strategy: target CRISIL INC companies that ALSO have BW/ACUITE INC (multi-rater SMEs)
-      → Output: csv/crisil_displacement_master_[YYYYMMDD].csv + brief
+- [x] CRISIL INC Master — COMPLETE 2026-06-20 (Session 18)
+      → 3,429 CRISIL INC companies (46.7% INC) — largest absolute INC pool
+      → 488 ULTRA HOT + 1,931 HOT + 1,114 WARM; 412 doubly-abandoned (CRISIL+BW or ACUITE INC)
+      → Most overdue: Jaidayal Hitex Pvt. Ltd. (410 days)
+      → Output: csv/crisil_displacement_master_20260620.csv (6,785 rows) + brief
 
-- [ ] July 2026 daily calling calendar — PROMOTE TO P1 (Session 18)
-      → From 527 ULTRA HOT (outreach dashboard), build daily schedule for July
-      → Which companies hit 12-month mark on which date in July
-      → Output: csv/july_daily_calendar_[YYYYMMDD].csv
+- [x] July 2026 daily calling calendar — COMPLETE 2026-06-20 (Session 18)
+      → 1,131 companies hitting 12-month mark in July 2026 (2,018 records)
+      → Peak day: July 18 = 216 companies; by agency: CRISIL 444, BW 204, IND-RA 185
+      → Output: csv/july_daily_calendar_20260620.csv
 
-- [ ] SEBI license gap analysis — NEW P1 (Session 18)
-      → Map ACER product capability vs all INC instrument types
-      → NCD/Bond: 674 IND-RA + 549 CARE + others = ~1,500 leads if SEBI license held
-      → Output: sebi_gap_analysis_[YYYYMMDD].md
+- [x] SEBI license gap analysis — COMPLETE 2026-06-20 (Session 18)
+      → Bank credit (no license): 7,994 INC companies | 1,563 ULTRA HOT
+      → SEBI debt license unlock: 1,454 additional companies | IND-RA 663, CARE 454, ICRA 282
+      → 136 ULTRA HOT in SEBI debt instruments — call on license day
+      → Estimated revenue unlock: ₹72.7 Cr at ₹5L avg fee
+      → Output: csv/sebi_gap_analysis_20260620.csv + leads_SEBI_debt_INC_20260620.csv + brief
 
 - [x] ICRA Non-fund-based anomaly investigation — SOLVED 2026-06-19 (Session 16)
       → Root cause: Portfolio MIX EFFECT — ICRA rates smaller/riskier SMEs under NF
       → ICRA NF INC median ₹6.8 Cr vs CRISIL NF ₹38.4 Cr — different segments
       → 499 ICRA NF INC companies identified (59 ULTRA HOT, 258 HOT)
       → Output: leads_ICRA_NF_INC_20260619.csv + ICRA_NF_anomaly_20260619.md
+
+---
+
+- [x] Infomerics-only whitespace analysis — COMPLETE 2026-06-20 (Session 18) [was H2]
+      → 4,170 of 4,175 Infomerics companies not in D365 — zero competitor overlap
+      → 998 INC: 375 ULTRA HOT + 440 HOT + 183 WARM = 815 callable now
+      → Output: csv/infomerics_only_whitespace_20260620.csv + brief
+
+---
+
+## P1 — Do This Session (Session 19)
+
+- [ ] "Dead company" audit — PROMOTE TO P1
+      → Cross-check 1,429 ULTRA HOT companies against MCA for dissolved/struck-off entities
+      → Remove defunct companies from calling list before team mobilizes
+      → Avoids wasted calls on non-existent companies
+
+- [ ] CRISIL × BRICKWORK dual-INC overlap — NEW P1
+      → Find companies with INC at BOTH CRISIL AND BRICKWORK simultaneously
+      → These "super targets" have been abandoned by two agencies — highest probability of switching
+      → Output: csv/crisil_bw_dual_inc_[YYYYMMDD].csv
+
+- [ ] Recent INC transitions (downgraded TO INC in last 6 months) — NEW P1
+      → Most recently frustrated companies — highest emotional urgency to switch
+      → Filter d365 for companies that moved from standard rating to INC post Jan 2026
+      → Output: csv/recent_inc_transitions_[YYYYMMDD].csv
 
 ---
 
@@ -190,3 +218,7 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] IND-RA Displacement Master — 1,412 INC companies (33.0% INC), NCD 53.5% INC — 2026-06-19 (Session 17)
 - [x] Full 6-Agency Competitor Vulnerability Matrix — 10,338 INC total, attack sequencing Phase 1/2/3 — 2026-06-19 (Session 17)
 - [x] Regional City Cluster Analysis — 79 cities mapped via name inference, Anand (Gujarat) top priority — 2026-06-19 (Session 17)
+- [x] CRISIL Displacement Master — 3,429 INC companies, 488 ULTRA HOT, 412 doubly-abandoned — 2026-06-20 (Session 18)
+- [x] July 2026 Daily Calling Calendar — 1,131 companies, peak July 18 (216 companies) — 2026-06-20 (Session 18)
+- [x] SEBI License Gap Analysis — 7,994 bank credit INC + 1,454 SEBI debt INC, ₹72.7 Cr unlock — 2026-06-20 (Session 18)
+- [x] Infomerics-only Whitespace Analysis — 4,170 exclusive companies, 815 INC callable now — 2026-06-20 (Session 18)
