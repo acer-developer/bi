@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-20
-Status: Session 19 complete. Session 20 starting next run.
+Last Updated: 2026-06-21
+Status: Session 20 complete. Session 21 starting next run.
 
 ---
 
@@ -78,20 +78,41 @@ Status: Session 19 complete. Session 20 starting next run.
 
 ## P1 — Do This Session (Session 20)
 
-- [ ] CARE × CRISIL dual-INC overlap — NEW P1
-      → Same dual-INC analysis for CARE + CRISIL pair (complementary to CRISIL+BW)
-      → CARE is #2 by INC volume; overlap with CRISIL = super-targets for ACER
-      → Output: csv/care_crisil_dual_inc_[YYYYMMDD].csv
+- [x] CARE × CRISIL dual-INC overlap — COMPLETE 2026-06-21 (Session 20)
+      → 270 companies INC at BOTH CARE and CRISIL simultaneously
+      → 7 ULTRA HOT + 228 HOT + 35 WARM; top: Shree Sita Pulses (411+376 days)
+      → Output: csv/care_crisil_dual_inc_20260621.csv (270 rows)
 
-- [ ] INC trend analysis (2025 vs 2026) — NEW P1
-      → Is the rate of new INC assignments accelerating in 2026?
-      → Monthly INC count by agency Jan 2025 – Jun 2026
-      → Confirms or refutes CRISIL aggressive reclassification hypothesis
+- [x] INC trend analysis (2025 vs 2026) — COMPLETE 2026-06-21 (Session 20)
+      → INC is STRUCTURAL (not cyclical): avg 1,500/month for 12 months
+      → CRISIL dominates 35-45% every month; BRICKWORK declining; CARE+ACUITE accelerating
+      → July 2026 expected peak (aligns with March fiscal year + 4-month rating cycle)
+      → Output: csv/inc_trend_monthly_by_agency_20260621.csv + inc_trend_new_companies_monthly_20260621.csv
 
-- [ ] Sector breakdown of 81 TIER 1 super-targets — NEW P1
-      → Which sector has the highest density of max-priority targets?
-      → Add sector tags to super_targets file
-      → Output: csv/super_targets_by_sector_[YYYYMMDD].csv
+- [x] Sector breakdown of 81 TIER 1 super-targets — COMPLETE 2026-06-21 (Session 20)
+      → Steel & Metals leads: 19 TIER 1 companies (23.5%); Agro Food 11; Construction 10
+      → IT & Technology has highest avg score (6.0)
+      → Enhanced sector engine: 99% classification rate (18 sector categories)
+      → Output: csv/super_targets_by_sector_20260621.csv + tier1_sector_summary_20260621.csv
+
+---
+
+## P1 — Do This Session (Session 21)
+
+- [ ] Three-way INC overlap (CRISIL + CARE + BRICKWORK simultaneously) — NEW P1
+      → How many companies are INC at ALL THREE of the top agencies simultaneously?
+      → These are ACER's single highest-value acquisition targets
+      → Output: csv/three_way_dual_inc_[YYYYMMDD].csv
+
+- [ ] IND-RA × CRISIL dual-INC for NCD instrument — NEW P1
+      → IND-RA NCD INC rate is 53.5% (Session 17); overlap with CRISIL = SEBI-listed companies
+      → High revenue per deal (NCDs are large instruments)
+      → Output: csv/indra_crisil_dual_inc_ncd_[YYYYMMDD].csv
+
+- [ ] CARE 2026 acceleration — geographic breakdown — NEW P1
+      → CARE hit 383 INC records in April 2026 (dataset high); where are these companies?
+      → Infer state/city from company name + industry cluster patterns
+      → Output: csv/care_2026_acceleration_geo_[YYYYMMDD].csv
 
 ---
 
@@ -252,3 +273,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Dead Company Risk Audit — 1,647 ULTRA HOT screened; 1,463 clean to call (88.8%) — 2026-06-20 (Session 19)
 - [x] Multi-Signal Super-Target Scoring — 81 TIER 1 + 1,288 TIER 2; top score 7 — 2026-06-20 (Session 19)
 - [x] Recent Downgrades (90 days) — 523 companies; 456 also INC; CRISIL 194 — 2026-06-20 (Session 19)
+- [x] CARE × CRISIL Dual-INC Overlap — 270 companies, 7 ULTRA HOT — 2026-06-21 (Session 20)
+- [x] INC Trend Analysis — structural 1,500/month; CARE accelerating; BRICKWORK declining — 2026-06-21 (Session 20)
+- [x] Sector Breakdown of 81 TIER 1 — Steel 19, Agro 11, Construction 10; IT highest score (6.0) — 2026-06-21 (Session 20)
