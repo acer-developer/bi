@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-21
-Status: Session 20 complete. Session 21 starting next run.
+Status: Session 21 complete. Session 22 starting next run.
 
 ---
 
@@ -99,20 +99,44 @@ Status: Session 20 complete. Session 21 starting next run.
 
 ## P1 — Do This Session (Session 21)
 
-- [ ] Three-way INC overlap (CRISIL + CARE + BRICKWORK simultaneously) — NEW P1
-      → How many companies are INC at ALL THREE of the top agencies simultaneously?
-      → These are ACER's single highest-value acquisition targets
-      → Output: csv/three_way_dual_inc_[YYYYMMDD].csv
+- [x] Three-way INC overlap (CRISIL + CARE + BRICKWORK simultaneously) — COMPLETE 2026-06-21 (Session 21)
+      → 32 companies INC at ALL THREE agencies simultaneously
+      → 11 ULTRA HOT + 21 HOT — all callable; Steel sector dominates (5 of 11 ULTRA HOT)
+      → Top: Alamelu Balaji Spg. Mills (408 days CARE, 299 CRISIL, 81 BW)
+      → Output: csv/three_way_inc_crisil_care_bw_20260621.csv (32) + csv/three_way_inc_ultra_hot_20260621.csv (11)
 
-- [ ] IND-RA × CRISIL dual-INC for NCD instrument — NEW P1
-      → IND-RA NCD INC rate is 53.5% (Session 17); overlap with CRISIL = SEBI-listed companies
-      → High revenue per deal (NCDs are large instruments)
-      → Output: csv/indra_crisil_dual_inc_ncd_[YYYYMMDD].csv
+- [x] IND-RA × CRISIL dual-INC for NCD instrument — COMPLETE 2026-06-21 (Session 21)
+      → IND-RA NCD INC rate: 49.4% (674/1,363 records); 663 unique companies
+      → 109 dual-INC (IND-RA NCD + CRISIL any): 13 ULTRA HOT + 84 HOT; 85/109 HIGH revenue
+      → 554 exclusive IND-RA NCD INC (no CRISIL) — 303 HOT
+      → Output: csv/indra_crisil_dual_inc_ncd_20260621.csv (109) + csv/indra_ncd_inc_exclusive_20260621.csv (554)
 
-- [ ] CARE 2026 acceleration — geographic breakdown — NEW P1
-      → CARE hit 383 INC records in April 2026 (dataset high); where are these companies?
-      → Infer state/city from company name + industry cluster patterns
-      → Output: csv/care_2026_acceleration_geo_[YYYYMMDD].csv
+- [x] CARE 2026 acceleration — geographic breakdown — COMPLETE 2026-06-21 (Session 21)
+      → 641 unique companies INC'd by CARE in 2026; April peak: 233 companies (73% above baseline)
+      → Geo classification 7.8% (name-only): Gujarat 17, UP 10, Tamil Nadu 7 — MCA CIN needed for full geo
+      → April 2026 instrument mix: Term Loans 40%, BG 25%, NCD 16%
+      → Output: csv/care_2026_acceleration_geo_20260621.csv (641) + csv/care_april2026_peak_companies_20260621.csv (233)
+
+---
+
+## P1 — Do This Session (Session 22)
+
+- [ ] Instrument INC trend over time — which instrument is growing fastest? — NEW P1
+      → Term loans vs Bank Guarantee vs NCD vs LC — monthly trend by instrument type
+      → Confirm: is NCD growing faster than bank credit in INC rate?
+      → Output: csv/instrument_inc_trend_[YYYYMMDD].csv
+
+- [ ] Infomerics INC acceleration check — NEW P1
+      → Is Infomerics following the CARE/ACUITE acceleration pattern?
+      → Monthly trend of Infomerics INC (from infomerics.json.xlsx)
+      → Cross-reference with D365 Infomerics records for consistency
+      → Output: csv/infomerics_inc_trend_[YYYYMMDD].csv
+
+- [ ] Three-way INC companies with NCD instruments — NEW P1
+      → Which of the 32 three-way INC companies ALSO have NCD/non-gov debt instruments?
+      → Maximum urgency + maximum revenue potential = ACER's absolute top targets
+      → Cross-reference: three_way_inc_crisil_care_bw_20260621.csv × NCD INC records
+      → Output: csv/three_way_plus_ncd_[YYYYMMDD].csv
 
 ---
 
@@ -276,3 +300,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] CARE × CRISIL Dual-INC Overlap — 270 companies, 7 ULTRA HOT — 2026-06-21 (Session 20)
 - [x] INC Trend Analysis — structural 1,500/month; CARE accelerating; BRICKWORK declining — 2026-06-21 (Session 20)
 - [x] Sector Breakdown of 81 TIER 1 — Steel 19, Agro 11, Construction 10; IT highest score (6.0) — 2026-06-21 (Session 20)
+- [x] Three-Way INC Overlap (CRISIL+CARE+BW) — 32 companies, 11 ULTRA HOT; Steel dominates — 2026-06-21 (Session 21)
+- [x] IND-RA × CRISIL NCD Dual-INC — 109 dual + 554 exclusive; 49.4% NCD INC rate — 2026-06-21 (Session 21)
+- [x] CARE 2026 Geo Breakdown — 641 companies, April peak 233; Gujarat/UP/Tamil Nadu clusters — 2026-06-21 (Session 21)

@@ -1,0 +1,234 @@
+Company Name,Date,Agency,Instrument,Grade,Rating,Status,Ammount,Company/Issuer not cooperating,is_INC,Days_Overdue,Urgency,Year,Month,Month_Str,Month_Str2,Inferred_State,Geo_Signal
+A I Champdany Inds. Ltd.,2026-04-29,CARE,Bank Guarantee,Default,D,Reaffirmed,7.77,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Aarti Suitings Pvt. Ltd.,2026-04-24,CARE,Term loans,Default,D,Reaffirmed,4.12,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Abhishek Propbuild Pvt. Ltd.,2026-04-23,CARE,Term loans,Default,D,Reaffirmed,129.3,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Adig Jemtex Pvt. Ltd.,2026-04-24,CARE,Term loans,Default,D,Reaffirmed,15.43,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Aditya Auto Engineering Pvt. Ltd.,2026-04-16,CARE,Letter Of credit,Default,D,Reaffirmed,1.0,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Agri-Best India Ltd.,2026-04-29,CARE,Fund based financial facility/instrument,Default,D,Reaffirmed,7.0,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Al-Nasir Exports Pvt. Ltd.,2026-04-21,CARE,Term loans,Default,D,Reaffirmed,5.0,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Alchemist Hospitals Ltd.,2026-04-08,CARE,Term loans,High Risk,B,Downgraded,31.6,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Alfa Flexitubes Pvt. Ltd.,2026-04-08,CARE,Term loans,High Risk,B-,Reaffirmed,1.0,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Anand Carbo Pvt. Ltd.,2026-04-15,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,52.0,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Gujarat,Anand
+Anand Motor Agencies Ltd.,2026-04-10,CARE,Term loans,High Risk,B+,Downgraded,1.59,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Gujarat,Anand
+Antonova Tiles (India) Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,2.05,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:tiles
+Antony Road Transport Solutions Pvt. Ltd.,2026-04-15,CARE,Term loans,High Risk,B-,Downgraded,41.43,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Anup Malleables Ltd.,2026-04-16,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,3.2,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Apollo Polyvinyl Pvt. Ltd.,2026-04-13,CARE,Letter Of credit,Default,D,Reaffirmed,13.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Apurvakriti Infrastructure Pvt. Ltd.,2026-04-09,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,5.0,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Aries Corporate Services Pvt. Ltd.,2026-04-09,CARE,Non-government debt,High Risk,B-/A4,Reaffirmed,13.0,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Arunachala Spinning Mills India Pvt. Ltd.,2026-04-21,CARE,Term loans,High Risk,B,Downgraded,15.07,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Tamil Nadu,cluster:spinning mills
+Arya Steels Rolling (India) Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,Inadequate Safety,BB-,Downgraded,3.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Azam Rubber Products Pvt. Ltd.,2026-04-15,CARE,Term loans,Default,D,Reaffirmed,29.48,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+B K Sons Infrastructure Pvt. Ltd.,2026-04-21,CARE,Bank Guarantee,Default,D,Reaffirmed,50.0,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+B S Shakti Steel Pvt. Ltd.,2026-04-13,CARE,Term loans,High Risk,B-,Downgraded,3.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+B S T Textile Mills Pvt. Ltd.,2026-04-02,CARE,Bank Guarantee,Default,D,Downgraded,1.0,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:textile
+Baba Malleshwar Rice Mill Pvt. Ltd.,2026-04-15,CARE,Term loans,High Risk,B-,Downgraded,4.42,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Punjab/Haryana,cluster:rice mill
+Baba Structural Pvt. Ltd.,2026-04-13,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,2.7,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bagpoly International Pvt. Ltd.,2026-04-13,CARE,Bank Guarantee,High Risk,B-,Reaffirmed,8.4,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bahl Builders Pvt. Ltd.,2026-04-30,CARE,Non-government debt,Inadequate Safety,BB-/A4,Downgraded,30.0,Y,True,52.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Balarka Fabricon Pvt. Ltd.,2026-04-28,CARE,Term loans,High Risk,B-,Reaffirmed,1.01,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bardhaman Edible Pvt. Ltd.,2026-04-14,CARE,Term loans,High Risk,B-,Reaffirmed,1.03,Y,True,68.0,LOW,2026,4,2026-04,2026-04,West Bengal,Bardhaman
+Belgachi Tea Co. Ltd.,2026-04-15,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.58,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bell Finvest (India) Ltd.,2026-04-01,CARE,Term loans,Default,D,Reaffirmed,150.0,Y,True,81.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bell-O-Seal Valves Pvt. Ltd.,2026-04-06,CARE,Term loans,Inadequate Safety,BB+,Upgraded,3.22,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bhagwati Vintrade Pvt. Ltd.,2026-04-20,CARE,Term loans,High Risk,B-,Reaffirmed,8.27,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bhargavi Automobiles Pvt. Ltd.,2026-04-07,CARE,Term loans,Inadequate Safety,BB,Downgraded,5.0,Y,True,75.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bihani Binayake Cotex Pvt. Ltd.,2026-04-23,CARE,Term loans,High Risk,B-,Reaffirmed,0.69,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bravo Agencies Pvt. Ltd.,2026-04-06,CARE,Letter Of credit,Default,D,Reaffirmed,7.5,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Buildmate Projects Pvt. Ltd.,2026-04-15,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,3.0,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Bulland Buildtech Pvt. Ltd.,2026-04-28,CARE,Fund based financial facility/instrument,Default,D,Reaffirmed,45.0,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+C M Auto Sales Pvt. Ltd.,2026-04-23,CARE,Fund based financial facility/instrument,High Risk,B+,Downgraded,16.1,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+C S H Power Himoinsa Pvt. Ltd.,2026-04-10,CARE,Non-government debt,High Risk,A 4,Reaffirmed,5.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Chakrapani Vyapar Pvt. Ltd.,2026-04-23,CARE,Term loans,Inadequate Safety,BB-,Downgraded,18.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Chandra Fabrics Pvt. Ltd.,2026-04-10,CARE,Term loans,High Risk,B,Downgraded,0.11,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Clrk Industries Pvt. Ltd.,2026-04-22,CARE,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,3.5,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Corodex Infrastructure Pvt. Ltd.,2026-04-24,CARE,Non-government debt,Default,D,Reaffirmed,14.0,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Crescent Tanners Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,High Risk,B-,Reaffirmed,0.5,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+D J S Printers Pvt. Ltd.,2026-04-21,CARE,Term loans,High Risk,B+,Downgraded,8.5,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+D P Jain Dariapur-Jasondhi (Annuity) Road Projects Pvt. Ltd.,2026-04-15,CARE,Term loans,Inadequate Safety,BB+,Downgraded,32.52,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Design & Manufacturing Vista Electronics Pvt. Ltd.,2026-04-06,CARE,Non-government debt,Moderate Safety,BBB/A3,Downgraded,20.0,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Diamond Beverages Pvt. Ltd.,2026-04-15,CARE,Term loans,High Risk,B+,Downgraded,92.15,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:diamond
+Durga Automotives Pvt. Ltd.,2026-04-08,CARE,Term loans,Default,D,Reaffirmed,3.4,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Chhattisgarh,Durg
+Eco Polyfibres Pvt. Ltd.,2026-04-28,CARE,Letter Of credit,Default,D,Reaffirmed,7.5,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Ecomotel Hotel Ltd.,2026-04-06,CARE,Term loans,Default,D,Reaffirmed,11.65,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Empire Alcobrev Pvt. Ltd.,2026-04-23,CARE,Non-government debt,High Risk,B+/A4,Downgraded,5.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Encore Projects Pvt. Ltd.,2026-04-08,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,1.4,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Energy Development Co. Ltd.,2026-04-17,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,7.0,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Envirad Projects Pvt. Ltd.,2026-04-23,CARE,Non-government debt,High Risk,B+/A4,Downgraded,4.9,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Essem Auto Electricals Pvt. Ltd.,2026-04-08,CARE,Term loans,Inadequate Safety,BB+,Withdrawn,,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Etco Denim Pvt. Ltd.,2026-04-09,CARE,Term loans,Default,D,Reaffirmed,246.45,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Everest Sea Foods Exports Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.15,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Evergreen International Ltd.,2026-04-16,CARE,Term loans,High Risk,B-,Reaffirmed,1.3,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Flexituff Ventures Intl. Ltd.,2026-04-17,CARE,Non-fund based working capital limit,Default,D,Reaffirmed,199.02,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Future Enterprises Ltd.,2026-04-23,CARE,Bank Guarantee,Default,D,Reaffirmed,602.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+G M R Rajahmundry Energy Ltd.,2026-04-08,CARE,Term loans,Default,D,Reaffirmed,2352.39,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Andhra/Telangana,Rajahmundry
+Goel Scientific Glass Works Ltd.,2026-04-13,CARE,Term loans,High Risk,B-,Reaffirmed,0.99,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Golden Mandhir Retail Pvt. Ltd.,2026-04-28,CARE,Fund based financial facility/instrument,High Risk,B-,Reaffirmed,1.4,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Gowthami Solvent Oils Pvt. Ltd.,2026-04-09,CARE,Term loans,Inadequate Safety,BB,Reaffirmed,37.56,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Greenland Paper Mills Ltd.,2026-04-22,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,0.9,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Guru Laxmi Cottex Pvt. Ltd.,2026-04-29,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.5,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Habra Shree Lakshmi Narayan Rollar Flour & Dall Mill Pvt. Ltd.,2026-04-21,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,3.0,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Hajra Medical Agency Pvt. Ltd.,2026-04-20,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.75,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Harbir Automobile Pvt. Ltd.,2026-04-20,CARE,Term loans,High Risk,B+,Downgraded,3.58,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Hari Om Retail Pvt. Ltd.,2026-04-28,CARE,Fund based financial facility/instrument,High Risk,B-,Reaffirmed,4.0,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Heavy Metals & Tubes Ltd.,2026-04-10,CARE,Non-fund based working capital limit,Default,D,Reaffirmed,11.5,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Helios Photo Voltaic Ltd.,2026-04-22,CARE,Term loans,Default,D,Reaffirmed,824.71,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Hemodiaz Life Sciences Pvt. Ltd.,2026-04-17,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,3.4,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Him Cylinders Ltd.,2026-04-29,CARE,Bank Guarantee,Default,D,Reaffirmed,1.0,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Himalayan Flour Mill Pvt. Ltd.,2026-04-21,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,8.0,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Hindustan Spirits Ltd.,2026-04-14,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,2.0,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Hotline Capital Services Pvt. Ltd.,2026-04-01,CARE,Non-government debt,Substantial Risk,C/A4,Reaffirmed,100.0,Y,True,81.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+I C E D Desserts & Food Parlours (India) Pvt. Ltd.,2026-04-23,CARE,Term loans,Substantial Risk,C,Reaffirmed,15.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+I F P Petro Products Pvt. Ltd.,2026-04-17,CARE,Fund based financial facility/instrument,High Risk,B-,Downgraded,5.5,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+I L & F S Energy Development Co. Ltd.,2026-04-14,CARE,Term loans,Default,D,Reaffirmed,1037.85,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+I L & F S Engg. & Construction Co. Ltd.,2026-04-16,CARE,Term loans,Default,D,Reaffirmed,352.81,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Idcol Ferro Chrome & Alloys Ltd. [Merged],2026-04-17,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,1.5,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Idea Sales Agencies Pvt. Ltd.,2026-04-16,CARE,Term loans,High Risk,B-,Reaffirmed,3.93,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Integrated Thermoplastics Ltd.,2026-04-10,CARE,Term loans,Default,D,Reaffirmed,7.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Ishwar Ispat Inds. Pvt. Ltd.,2026-04-17,CARE,Term loans,High Risk,B,Downgraded,25.0,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+J C T Ltd.,2026-04-09,CARE,Term loans,Default,D,Reaffirmed,24.68,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+J J Glastronics Pvt. Ltd.,2026-04-09,CARE,Term loans,Inadequate Safety,BB+,Upgraded,40.73,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+J M Ferro Alloys Pvt. Ltd.,2026-04-10,CARE,Letter Of credit,Default,D,Reaffirmed,12.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+J P L Industries Ltd.,2026-04-14,CARE,Non-fund-based financial facility/instrument,High Risk,A 4,Reaffirmed,0.2,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Jalan Transolutions (India) Ltd.,2026-04-15,CARE,Term loans,Default,D,Reaffirmed,13.5,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Joyguru Cold Storage Pvt. Ltd.,2026-04-15,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.07,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+K B K Biotech Pvt. Ltd.,2026-04-02,CARE,Term loans,Inadequate Safety,BB,Reaffirmed,138.22,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+K B S C Auto Pvt. Ltd.,2026-04-28,CARE,Non-government debt,High Risk,B+/A4,Downgraded,0.5,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+K G N Motors Pvt. Ltd.,2026-04-08,CARE,Term loans,Default,D,Reaffirmed,4.89,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+K N Singh Infratech Pvt. Ltd.,2026-04-16,CARE,Term loans,High Risk,B-,Reaffirmed,0.19,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+K P Solvex Pvt. Ltd.,2026-04-20,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,1.0,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kaadambary Ricetech Pvt. Ltd.,2026-04-23,CARE,Term loans,Default,D,Reaffirmed,5.5,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kaila Devi Health Care Services Pvt. Ltd.,2026-04-15,CARE,Fund based financial facility/instrument,High Risk,B-,Reaffirmed,4.08,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kamal Cotspin Pvt. Ltd.,2026-04-29,CARE,Fund based financial facility/instrument,Inadequate Safety,BB-,Downgraded,3.95,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Keya Foods Intl. Pvt. Ltd.,2026-04-13,CARE,Non-government debt,Inadequate Safety,BB-/A4,Downgraded,10.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Khandwa Industries Pvt. Ltd.,2026-04-10,CARE,Term loans,Default,D,Reaffirmed,0.5,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kims Super Speciality Hospital Pvt. Ltd.,2026-04-09,CARE,Term loans,High Risk,B-,Reaffirmed,18.86,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kniss Laboratories Pvt. Ltd.,2026-04-15,CARE,Term loans,Default,D,Reaffirmed,1.5,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Krupalu Rice Inds. Pvt. Ltd.,2026-04-28,CARE,Term loans,High Risk,B-,Reaffirmed,0.72,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kundana Techno Tex Pvt. Ltd.,2026-04-07,CARE,Non-government debt,Moderate Safety,BBB-/A3,Reaffirmed,2.0,Y,True,75.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Kurseong Computer Sales Pvt. Ltd.,2026-04-09,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,1.0,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Lakshmi Precision Screws Ltd.,2026-04-09,CARE,Bank Guarantee,Default,D,Reaffirmed,77.0,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Lemon Electronics Ltd.,2026-04-20,CARE,Letter Of credit,Default,D,Reaffirmed,65.0,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Luxra Enterprises Pvt. Ltd.,2026-04-23,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,6.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+M G Autosales Pvt. Ltd.,2026-04-17,CARE,Fund based financial facility/instrument,High Risk,B-,Reaffirmed,14.75,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+M G M Infra Devp. Solutions Pvt. Ltd.,2026-04-22,CARE,Term loans,Default,D,Reaffirmed,4.94,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+M S Support Services Ltd.,2026-04-24,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,1.5,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Machine Tools (India) Ltd.,2026-04-08,CARE,Non-government debt,High Risk,B-/A4,Reaffirmed,8.5,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mahakaleshwar Tollways Pvt. Ltd.,2026-04-16,CARE,Term loans,Default,D,Reaffirmed,164.84,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Maneesh Pipes Pvt. Ltd.,2026-04-13,CARE,Bank Guarantee,High Risk,B-,Downgraded,3.5,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mani Square Ltd.,2026-04-15,CARE,Term loans,Default,D,Reaffirmed,170.0,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mantri Developers Pvt. Ltd.,2026-04-02,CARE,Fund based financial facility/instrument,Default,D,Reaffirmed,230.0,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Med Freshe Pvt. Ltd.,2026-04-21,CARE,Term loans,High Risk,B+,Downgraded,1.0,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mevada Oil Mill Pvt. Ltd.,2026-04-13,CARE,Term loans,Default,D,Reaffirmed,0.6,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mighty Auto Wheels Pvt. Ltd.,2026-04-27,CARE,Term loans,High Risk,B-,Reaffirmed,3.0,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mittal Filaments Pvt. Ltd.,2026-04-16,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.25,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mittapally Agro Products Pvt. Ltd.,2026-04-14,CARE,Non-government debt,Default,D,Reaffirmed,32.5,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mohib Shoes Pvt. Ltd.,2026-04-30,CARE,Letter Of credit,Default,D,Downgraded,1.5,Y,True,52.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mohini Health & Hygiene Ltd.,2026-04-27,CARE,Term loans,High Risk,B,Downgraded,20.0,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Mutha Engineering Pvt. Ltd.,2026-04-16,CARE,Term loans,Inadequate Safety,BB-,Downgraded,41.59,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+N K Agro Exports (India) Pvt. Ltd.,2026-04-02,CARE,Term loans,Inadequate Safety,BB-,Downgraded,42.83,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+N V Kharote Constructions Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,Default,D,Reaffirmed,7.83,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Nalanda Engicon Pvt. Ltd.,2026-04-16,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,7.0,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Nasim Ahsan Construction Pvt. Ltd.,2026-04-13,CARE,Bank Guarantee,High Risk,B-,Reaffirmed,25.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Natraj Electro Casting Pvt. Ltd.,2026-04-14,CARE,Term loans,High Risk,B-,Downgraded,13.5,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Nevco Engineers Pvt. Ltd.,2026-04-17,CARE,Fund based financial facility/instrument,High Risk,B-,Downgraded,2.5,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+New Modern Technomech Pvt. Ltd.,2026-04-21,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,5.0,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Nimbus Motors Pvt. Ltd.,2026-04-23,CARE,Fund based financial facility/instrument,Substantial Risk,C,Reaffirmed,27.5,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+North East Ferro Alloys Co. Pvt. Ltd.,2026-04-20,CARE,Term loans,High Risk,B-,Reaffirmed,0.95,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Omnitech Engineering Ltd.,2026-04-07,CARE,Term loans,Moderate Safety,BBB-,Withdrawn,,Y,True,75.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Oracle Polymer Inds. Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.1,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Oswal Lumbers Pvt. Ltd.,2026-04-10,CARE,Non-government debt,High Risk,B/A4,Downgraded,27.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+P S V Precast Pvt. Ltd.,2026-04-23,CARE,Term loans,High Risk,B-,Reaffirmed,6.65,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Paramount Blankets Pvt. Ltd.,2026-04-29,CARE,Non-government debt,Default,D,Reaffirmed,1.0,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Parshvanath Printex Pvt. Ltd.,2026-04-22,CARE,Term loans,High Risk,B-,Downgraded,9.9,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Patiala Distillers & Mfrs. Ltd.,2026-04-09,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.35,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Punjab/Haryana,Patiala
+Pellet-Energy Systems Pvt. Ltd.,2026-04-24,CARE,Term loans,Default,D,Reaffirmed,22.5,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Phenil Sugars Ltd.,2026-04-23,CARE,Bank Guarantee,Default,D,Reaffirmed,2.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Uttar Pradesh,cluster:sugar
+Pink City Expressway Pvt. Ltd.,2026-04-08,CARE,Term loans,Default,D,Reaffirmed,1760.55,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Pravara Renewable Energy Ltd.,2026-04-15,CARE,Term loans,Default,D,Reaffirmed,186.08,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Prayan Ispat & Steel Pvt. Ltd.,2026-04-22,CARE,Term loans,Default,D,Reaffirmed,0.09,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Primatel Fibcom Ltd.,2026-04-10,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,17.5,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+R A C Papers Ltd.,2026-04-22,CARE,Term loans,Substantial Risk,C,Reaffirmed,2.3,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+R A Shaikh Paper Mills Pvt. Ltd.,2026-04-08,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.8,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+R G Spinning Mills Pvt. Ltd.,2026-04-02,CARE,Term loans,Inadequate Safety,BB-,Reaffirmed,14.15,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Tamil Nadu,cluster:spinning mills
+R R & Company Pvt. Ltd.,2026-04-09,CARE,Term loans,High Risk,B-,Reaffirmed,0.85,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+R S R Infra Works (India) Pvt. Ltd.,2026-04-02,CARE,Bank Guarantee,High Risk,A 4,Downgraded,75.0,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+R S V Constructions Pvt. Ltd.,2026-04-06,CARE,Bank Guarantee,High Risk,A 4,Downgraded,54.5,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Rajasthan Powergen Transformer Pvt. Ltd.,2026-04-14,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,3.0,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Rajasthan,Rajasthan
+Rathi Bars Ltd.,2026-04-14,CARE,Term loans,High Risk,B-,Downgraded,7.51,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Ravindra Heraeus Pvt. Ltd.,2026-04-08,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,150.0,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Rawalwasia Textile Inds. Pvt. Ltd.,2026-04-08,CARE,Non-government debt,High Risk,B-/A4,Downgraded,13.0,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:textile
+Rawmet Resources Pvt. Ltd.,2026-04-27,CARE,Non-government debt,Inadequate Safety,BB-/A4,Downgraded,7.0,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Raymix Concrete India Pvt. Ltd.,2026-04-09,CARE,Term loans,Default,D,Reaffirmed,4.98,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Relemac Technologies Pvt. Ltd.,2026-04-10,CARE,Non-government debt,High Risk,A 4,Reaffirmed,8.5,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Rockdrill Projects Pvt. Ltd.,2026-04-22,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,32.0,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Rolex Processors Pvt. Ltd.,2026-04-15,CARE,Term loans,High Risk,B-,Reaffirmed,25.17,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Ronch Polymers Pvt. Ltd.,2026-04-10,CARE,Term loans,Moderate Safety,BBB+,Withdrawn,21.5,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Rudra Ecovation Ltd.,2026-04-17,CARE,Letter Of credit,Default,D,Reaffirmed,5.0,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+S B W Udyog Ltd.,2026-04-09,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,5.0,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+S M Interior Pvt. Ltd.,2026-04-28,CARE,Term loans,Default,D,Reaffirmed,2.0,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+S P G V Petrochem (India) Pvt. Ltd.,2026-04-13,CARE,Non-government debt,Default,D,Reaffirmed,4.8,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+S Pal Enterprises Pvt. Ltd.,2026-04-23,CARE,Term loans,High Risk,B-,Reaffirmed,2.69,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+S S Agri Business Pvt. Ltd.,2026-04-13,CARE,Term loans,High Risk,B-,Reaffirmed,5.93,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+S V E Drilling Tools Pvt. Ltd.,2026-04-28,CARE,Term loans,High Risk,B-,Reaffirmed,10.0,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sadbhav Vidarbha Highway Ltd.,2026-04-17,CARE,Term loans,Default,D,Reaffirmed,514.0,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Safe & Secure Logistic Pvt. Ltd.,2026-04-14,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.5,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Saka Embroidery Pvt. Ltd.,2026-04-21,CARE,Term loans,Default,D,Reaffirmed,5.58,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sathy Silks Pvt. Ltd.,2026-04-15,CARE,Term loans,Inadequate Safety,BB+,Reaffirmed,114.85,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Savair Energy Ltd.,2026-04-09,CARE,Non-government debt,Default,D,Reaffirmed,47.0,Y,True,73.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Senbo Engineering Ltd.,2026-04-10,CARE,Bank Guarantee,Default,D,Reaffirmed,24.68,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Seven Seas Distillery Pvt. Ltd.,2026-04-17,CARE,Bank Guarantee,High Risk,B,Downgraded,0.13,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Uttar Pradesh,cluster:distillery
+Shiv Edibles Ltd.,2026-04-10,CARE,Fund based financial facility/instrument,High Risk,B-,Downgraded,40.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shiva Industrial Security Agency (Gujarat) Ltd.,2026-04-27,CARE,Bank Guarantee,Default,D,Reaffirmed,2.5,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shiva Speciality Yarns Ltd.,2026-04-06,CARE,Bank Guarantee,Default,D,Reaffirmed,1.0,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shivmahal Textiles Pvt. Ltd.,2026-04-20,CARE,Term loans,High Risk,B-,Reaffirmed,3.77,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:textile
+Shivmani Exports Pvt. Ltd.,2026-04-06,CARE,Bank Guarantee,High Risk,B,Downgraded,0.4,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shoe Technik Intl. Corpn. Ltd.,2026-04-21,CARE,Bank Guarantee,High Risk,B-,Reaffirmed,0.25,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shree Bharat Motors Ltd.,2026-04-29,CARE,Term loans,Default,D,Reaffirmed,10.56,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shree Hari Infraprojects Pvt. Ltd.,2026-04-16,CARE,Letter Of credit,High Risk,A 4,Downgraded,17.0,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shree Hari Spintex Ltd.,2026-04-13,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.5,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shree Maheshwar Hydel Power Corpn. Ltd.,2026-04-15,CARE,Term loans,Default,D,Reaffirmed,451.0,Y,True,67.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shri Mahavir Iron & Steel Pvt. Ltd.,2026-04-27,CARE,Term loans,Inadequate Safety,BB-,Downgraded,28.0,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shri Ram Autotech Pvt. Ltd.,2026-04-14,CARE,Fund based financial facility/instrument,Default,D,Reaffirmed,2.0,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Shruti Fashions Pvt. Ltd.,2026-04-10,CARE,Term loans,High Risk,B-,Reaffirmed,1.01,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Singlacherra Tea Co. Pvt. Ltd.,2026-04-27,CARE,Term loans,Substantial Risk,C,Reaffirmed,11.56,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Singrauli Finlease Pvt. Ltd.,2026-04-06,CARE,Bank Guarantee,Default,D,Reaffirmed,5.0,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sivana Steel & Power Pvt. Ltd.,2026-04-27,CARE,Term loans,High Risk,B-,Downgraded,0.69,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Smart Stainless Tubes Pvt. Ltd.,2026-04-10,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,0.25,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Span Pumps Pvt. Ltd.,2026-04-14,CARE,Letter Of credit,High Risk,A 4,Withdrawn,,Y,True,68.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Spansules Formulations India Pvt. Ltd.,2026-04-27,CARE,Term loans,Inadequate Safety,BB-,Downgraded,4.72,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Spansules Pharmatech Pvt. Ltd.,2026-04-27,CARE,Non-government debt,Inadequate Safety,BB-/A4,Downgraded,34.63,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Spinora Tiles Pvt. Ltd.,2026-04-29,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,1.75,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:tiles
+Sree Astalaxmi Spinning Mills Pvt. Ltd.,2026-04-08,CARE,Term loans,High Risk,B-,Reaffirmed,1.84,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Tamil Nadu,cluster:spinning mills
+Sree Mangayarkarasi Mills Pvt. Ltd.,2026-04-13,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,4.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Bihar/Jharkhand,Gaya
+Sri Anagha Refineries Pvt. Ltd.,2026-04-20,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,85.6,Y,True,62.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sri Karpagam Mills India Pvt. Ltd.,2026-04-13,CARE,Term loans,Default,D,Reaffirmed,19.6,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sri Venkata Srinivasa Oils Pvt. Ltd.,2026-04-08,CARE,Term loans,High Risk,B+,Downgraded,9.5,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Star Engineers (India) Pvt. Ltd.,2026-04-10,CARE,Letter Of credit,High Risk,A 4,Downgraded,3.0,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sujata Udit Builders Pvt. Ltd.,2026-04-17,CARE,Bank Guarantee,High Risk,A 4,Reaffirmed,4.31,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sundaram Steels Pvt. Ltd.,2026-04-24,CARE,Term loans,High Risk,B,Reaffirmed,12.07,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Supermint Exports Pvt. Ltd.,2026-04-08,CARE,Non-government debt,High Risk,B/A4,Downgraded,4.11,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Surana Telecom & Power Ltd.,2026-04-07,CARE,Term loans,Inadequate Safety,BB-,Downgraded,32.21,Y,True,75.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Suyash Chemical & Fertilizer Pvt. Ltd.,2026-04-16,CARE,Term loans,High Risk,B,Downgraded,2.61,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Swastik Oil Refinery Pvt. Ltd.,2026-04-30,CARE,Letter Of credit,Default,D,Withdrawn,,Y,True,52.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Sweety Infrastructure Pvt. Ltd.,2026-04-24,CARE,Bank Guarantee,Default,D,Reaffirmed,80.0,Y,True,58.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+T C Motors Pvt. Ltd.,2026-04-08,CARE,Term loans,High Risk,B-,Reaffirmed,3.21,Y,True,74.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Trisquare Switchgears Pvt. Ltd.,2026-04-28,CARE,Term loans,Inadequate Safety,BB-,Downgraded,4.5,Y,True,54.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Trucap Finance Ltd.,2026-04-02,CARE,Fund based financial facility/instrument,Default,D,Reaffirmed,750.0,Y,True,80.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Ultimate Chem (India) Pvt. Ltd.,2026-04-13,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,4.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Umashakti Steels Pvt. Ltd.,2026-04-16,CARE,Term loans,High Risk,B-,Reaffirmed,4.7,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Universal Seaport Pvt. Ltd.,2026-04-10,CARE,Term loans,High Risk,B,Downgraded,6.4,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Uniworld Sugars Pvt. Ltd. [Merged],2026-04-06,CARE,Term loans,Default,D,Reaffirmed,60.0,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Uttar Pradesh,cluster:sugar
+V T R Marketing Pvt. Ltd.,2026-04-10,CARE,Term loans,Substantial Risk,C,Reaffirmed,2.17,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vantage Spinners Pvt. Ltd.,2026-04-10,CARE,Term loans,Default,D,Reaffirmed,42.25,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vardhman Textile Components Ltd.,2026-04-06,CARE,Term loans,High Risk,B+,Downgraded,2.29,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Gujarat,cluster:textile
+Vatika Seven Elements Pvt. Ltd.,2026-04-23,CARE,Term loans,Default,D,Reaffirmed,225.0,Y,True,59.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vazron Industries Pvt. Ltd.,2026-04-13,CARE,Term loans,High Risk,B+,Downgraded,85.0,Y,True,69.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Ved Parkash & Sons Lumbers Pvt. Ltd.,2026-04-17,CARE,Letter Of credit,High Risk,A 4,Reaffirmed,12.5,Y,True,65.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Versant Online Solutions Pvt. Ltd.,2026-04-21,CARE,Term loans,High Risk,B-,Reaffirmed,2.95,Y,True,61.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vijai Electricals Ltd.,2026-04-10,CARE,Term loans,Inadequate Safety,BB-,Withdrawn,149.28,Y,True,72.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vikram Roller Flour Mills Ltd.,2026-04-29,CARE,Non-government debt,High Risk,B-/A4,Reaffirmed,47.5,Y,True,53.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vimal Coal Pvt. Ltd.,2026-04-16,CARE,Non-government debt,Inadequate Safety,BB-/A4,Downgraded,39.96,Y,True,66.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vipul Motors Pvt. Ltd.,2026-04-22,CARE,Non-government debt,High Risk,B/A4,Downgraded,45.0,Y,True,60.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vishwakarma Automotive Pvt. Ltd.,2026-04-27,CARE,Term loans,High Risk,B-,Reaffirmed,18.63,Y,True,55.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
+Vista Information Systems Pvt. Ltd.,2026-04-06,CARE,Non-government debt,Moderate Safety,BBB/A3,Downgraded,17.9,Y,True,76.0,LOW,2026,4,2026-04,2026-04,Unknown,Unknown
