@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-21
-Status: Session 21 complete. Session 22 starting next run.
+Last Updated: 2026-06-22
+Status: Session 22 complete. Session 23 starting next run.
 
 ---
 
@@ -121,22 +121,45 @@ Status: Session 21 complete. Session 22 starting next run.
 
 ## P1 — Do This Session (Session 22)
 
-- [ ] Instrument INC trend over time — which instrument is growing fastest? — NEW P1
-      → Term loans vs Bank Guarantee vs NCD vs LC — monthly trend by instrument type
-      → Confirm: is NCD growing faster than bank credit in INC rate?
-      → Output: csv/instrument_inc_trend_[YYYYMMDD].csv
+- [x] Instrument INC trend over time — COMPLETE 2026-06-22 (Session 22)
+      → NCD is MOST RESILIENT: -1.1% decline vs Term Loans -22.9%, BG -18.3%
+      → LC highest absolute INC rate (50.6%), BG (48.6%), NCD lowest (21.3%) but stable
+      → NCD is proportionally growing share of INC pool — highest revenue per deal
+      → Output: csv/instrument_inc_trend_20260622.csv (90 rows) + csv/instrument_inc_overall_20260622.csv (7 rows)
 
-- [ ] Infomerics INC acceleration check — NEW P1
-      → Is Infomerics following the CARE/ACUITE acceleration pattern?
-      → Monthly trend of Infomerics INC (from infomerics.json.xlsx)
-      → Cross-reference with D365 Infomerics records for consistency
-      → Output: csv/infomerics_inc_trend_[YYYYMMDD].csv
+- [x] Infomerics INC acceleration check — COMPLETE 2026-06-22 (Session 22)
+      → YES — Infomerics IS accelerating: 17.4% (Jan 2025) → 32.8% (Feb 2026) — doubled in 14 months
+      → 749 ULTRA HOT + 426 HOT = 1,175 Infomerics companies callable now
+      → D365 has ZERO Infomerics records — infomerics.json.xlsx is sole source
+      → Output: csv/infomerics_inc_trend_20260622.csv (89 rows) + csv/infomerics_inc_leads_20260622.csv (1,928 rows)
 
-- [ ] Three-way INC companies with NCD instruments — NEW P1
-      → Which of the 32 three-way INC companies ALSO have NCD/non-gov debt instruments?
-      → Maximum urgency + maximum revenue potential = ACER's absolute top targets
-      → Cross-reference: three_way_inc_crisil_care_bw_20260621.csv × NCD INC records
-      → Output: csv/three_way_plus_ncd_[YYYYMMDD].csv
+- [x] Three-way INC companies with NCD instruments — COMPLETE 2026-06-22 (Session 22)
+      → 7 of 32 three-way INC companies also have NCD instruments (all from CARE)
+      → Top target: New Modern Technomech Pvt. Ltd. — ₹45 Cr NCD + triple INC
+      → 2 ULTRA HOT + 5 HOT; total NCD instrument value ~₹102 Cr
+      → Output: csv/three_way_plus_ncd_20260622.csv (7 rows)
+
+---
+
+## P1 — Do This Session (Session 23)
+
+- [ ] ACUITE 2026 acceleration geographic breakdown — NEW P1
+      → ACUITE also accelerating per prior data; April peak expected?
+      → Monthly trend of ACUITE INC in 2025-2026 with geographic breakdown
+      → Compare pattern to CARE April 2026 spike (233 companies)
+      → Output: csv/acuite_2026_acceleration_geo_[YYYYMMDD].csv
+
+- [ ] Feb 2026 CARE cohort targeting — NEW P1
+      → 317 CARE INC records from Feb 2026 (highest single month)
+      → These companies are now 120+ days in HOT urgency window
+      → Produce targeted call list with instrument breakdown
+      → Output: csv/care_feb2026_cohort_[YYYYMMDD].csv
+
+- [ ] Infomerics ULTRA HOT × D365 multi-agency cross-match — NEW P1
+      → 749 Infomerics ULTRA HOT companies — are any also in D365?
+      → Multi-agency Infomerics companies = extremely high priority
+      → Cross-reference: infomerics_inc_leads_20260622.csv × d365 company names
+      → Output: csv/infomerics_ultrahot_multiagency_[YYYYMMDD].csv
 
 ---
 
@@ -303,3 +326,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Three-Way INC Overlap (CRISIL+CARE+BW) — 32 companies, 11 ULTRA HOT; Steel dominates — 2026-06-21 (Session 21)
 - [x] IND-RA × CRISIL NCD Dual-INC — 109 dual + 554 exclusive; 49.4% NCD INC rate — 2026-06-21 (Session 21)
 - [x] CARE 2026 Geo Breakdown — 641 companies, April peak 233; Gujarat/UP/Tamil Nadu clusters — 2026-06-21 (Session 21)
+- [x] Instrument INC Trend — NCD most resilient (-1.1%), LC highest rate (50.6%), BG -18.3%, TL -22.9% — 2026-06-22 (Session 22)
+- [x] Infomerics INC Acceleration — confirmed: 17.4% → 32.8% in 14 months; 749 ULTRA HOT + 426 HOT — 2026-06-22 (Session 22)
+- [x] Three-Way INC + NCD Cross-Reference — 7 companies; New Modern Technomech top target (₹45 Cr NCD) — 2026-06-22 (Session 22)
