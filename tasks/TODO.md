@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-22
-Status: Session 22 complete. Session 23 starting next run.
+Status: Session 23 complete. Session 24 starting next run.
 
 ---
 
@@ -143,23 +143,45 @@ Status: Session 22 complete. Session 23 starting next run.
 
 ## P1 — Do This Session (Session 23)
 
-- [ ] ACUITE 2026 acceleration geographic breakdown — NEW P1
-      → ACUITE also accelerating per prior data; April peak expected?
-      → Monthly trend of ACUITE INC in 2025-2026 with geographic breakdown
-      → Compare pattern to CARE April 2026 spike (233 companies)
-      → Output: csv/acuite_2026_acceleration_geo_[YYYYMMDD].csv
+- [x] ACUITE 2026 acceleration geographic breakdown — COMPLETE 2026-06-22 (Session 23)
+      → April 2026 peak: 128 companies (57.4% INC rate) — mirrors CARE April spike
+      → INC rate rose from 37.2% (May 2025) to 57.4% (Apr 2026) — structural acceleration
+      → 348 callable now (83 ULTRA HOT + 265 HOT); geo 97% unknown (MCA CIN needed)
+      → Output: csv/acuite_2026_acceleration_geo_20260622.csv (1,926 rows) + acuite_monthly_inc_trend_20260622.csv
 
-- [ ] Feb 2026 CARE cohort targeting — NEW P1
-      → 317 CARE INC records from Feb 2026 (highest single month)
-      → These companies are now 120+ days in HOT urgency window
-      → Produce targeted call list with instrument breakdown
-      → Output: csv/care_feb2026_cohort_[YYYYMMDD].csv
+- [x] Feb 2026 CARE cohort targeting — COMPLETE 2026-06-22 (Session 23)
+      → 183 unique companies, 317 records; all LOW urgency (115–140 days) but MAXIMUM RECEPTIVITY
+      → 85% in High Risk or Default grade; top: Term Loans (122), BG (68), NCD (39)
+      → Note: "HOT window" assumption incorrect — these are 4–5 months post-INC, not 6+ months
+      → Output: csv/care_feb2026_cohort_20260622.csv (317 rows)
 
-- [ ] Infomerics ULTRA HOT × D365 multi-agency cross-match — NEW P1
-      → 749 Infomerics ULTRA HOT companies — are any also in D365?
-      → Multi-agency Infomerics companies = extremely high priority
-      → Cross-reference: infomerics_inc_leads_20260622.csv × d365 company names
-      → Output: csv/infomerics_ultrahot_multiagency_[YYYYMMDD].csv
+- [x] Infomerics ULTRA HOT × D365 multi-agency cross-match — COMPLETE 2026-06-22 (Session 23)
+      → 102 of 367 Infomerics ULTRA HOT in D365 (27.8%): 77 exact + 25 fuzzy matches
+      → 72 companies ALSO INC at D365 agencies — completely non-functional ratings everywhere
+      → D365 overlap: CRISIL 110, CARE 75, ACUITE 51, BRICKWORK 49 records
+      → Output: csv/infomerics_ultrahot_multiagency_20260622.csv (757) + csv/infomerics_ultrahot_d365_matched_20260622.csv (232)
+
+---
+
+## P1 — Do This Session (Session 24)
+
+- [ ] IND-RA 2026 acceleration check — NEW P1
+      → CARE and ACUITE both spiked in April 2026 — did IND-RA follow the same pattern?
+      → Monthly INC trend for IND-RA 2025–2026 with NCD instrument focus
+      → Compare to CARE/ACUITE April 2026 spikes; identify IND-RA callable pipeline
+      → Output: csv/indra_2026_acceleration_20260622.csv
+
+- [ ] April 2026 cross-agency simultaneous INC spike analysis — NEW P1
+      → CARE April 2026: 233 companies + ACUITE April 2026: 128 companies
+      → How many companies went INC at MULTIPLE agencies in April 2026 simultaneously?
+      → This subset = maximum fiscal year-end pressure = highest priority July calls
+      → Output: csv/april2026_cross_agency_inc_20260622.csv
+
+- [ ] Steel sector master consolidation — NEW P1
+      → Consolidate all steel leads from Sessions 2, 14, 16, 23 into one master file
+      → Cross-reference Infomerics steel + D365 steel + multi-agency matches
+      → Final sorted by urgency with all contact signals
+      → Output: csv/steel_sector_master_20260622.csv
 
 ---
 
@@ -329,3 +351,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] Instrument INC Trend — NCD most resilient (-1.1%), LC highest rate (50.6%), BG -18.3%, TL -22.9% — 2026-06-22 (Session 22)
 - [x] Infomerics INC Acceleration — confirmed: 17.4% → 32.8% in 14 months; 749 ULTRA HOT + 426 HOT — 2026-06-22 (Session 22)
 - [x] Three-Way INC + NCD Cross-Reference — 7 companies; New Modern Technomech top target (₹45 Cr NCD) — 2026-06-22 (Session 22)
+- [x] ACUITE 2026 Acceleration + Geo Breakdown — April 2026 peak 128 companies (57.4%), mirrors CARE; 348 callable — 2026-06-22 (Session 23)
+- [x] Feb 2026 CARE Cohort — 183 companies, 85% High Risk/Default, peak receptivity window — 2026-06-22 (Session 23)
+- [x] Infomerics ULTRA HOT × D365 Cross-Match — 102/367 in D365 (27.8%); 72 also INC at D365 — 2026-06-22 (Session 23)
