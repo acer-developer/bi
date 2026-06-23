@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-22
-Status: Session 23 complete. Session 24 starting next run.
+Last Updated: 2026-06-23
+Status: Session 24 complete. Session 25 starting next run.
 
 ---
 
@@ -165,23 +165,43 @@ Status: Session 23 complete. Session 24 starting next run.
 
 ## P1 — Do This Session (Session 24)
 
-- [ ] IND-RA 2026 acceleration check — NEW P1
-      → CARE and ACUITE both spiked in April 2026 — did IND-RA follow the same pattern?
-      → Monthly INC trend for IND-RA 2025–2026 with NCD instrument focus
-      → Compare to CARE/ACUITE April 2026 spikes; identify IND-RA callable pipeline
-      → Output: csv/indra_2026_acceleration_20260622.csv
+- [x] IND-RA 2026 acceleration check — COMPLETE 2026-06-23 (Session 24)
+      → IND-RA shows DUAL-WAVE pattern: Jan 2026 (47.6% INC) + April 2026 (38.8% INC)
+      → NCD INC rate extreme: 75.2% Aug 2025, 71.7% Jan 2026, 64.6% Apr 2026
+      → Callable: 41 ULTRA HOT + 951 HOT + 248 MEDIUM = 1,412 unique INC companies
+      → Output: csv/indra_2026_acceleration_20260623.csv + 3 trend CSVs
 
-- [ ] April 2026 cross-agency simultaneous INC spike analysis — NEW P1
-      → CARE April 2026: 233 companies + ACUITE April 2026: 128 companies
-      → How many companies went INC at MULTIPLE agencies in April 2026 simultaneously?
-      → This subset = maximum fiscal year-end pressure = highest priority July calls
-      → Output: csv/april2026_cross_agency_inc_20260622.csv
+- [x] April 2026 cross-agency simultaneous INC spike analysis — COMPLETE 2026-06-23 (Session 24)
+      → 984 unique companies INC in April 2026 — largest single-month event in dataset
+      → 18 companies INC at 2 agencies simultaneously; no 3-way found
+      → All 18 in LOW urgency (60–83 days) but maximum receptivity — July call deadline
+      → Output: csv/april2026_all_inc_20260623.csv (984) + csv/april2026_cross_agency_inc_20260623.csv (18)
 
-- [ ] Steel sector master consolidation — NEW P1
-      → Consolidate all steel leads from Sessions 2, 14, 16, 23 into one master file
-      → Cross-reference Infomerics steel + D365 steel + multi-agency matches
-      → Final sorted by urgency with all contact signals
-      → Output: csv/steel_sector_master_20260622.csv
+- [x] Steel sector master consolidation — COMPLETE 2026-06-23 (Session 24)
+      → 1,040 companies (802 D365 + 238 Infomerics-only); 527 INC; 280 ULTRA HOT + 510 HOT
+      → CRISIL 204 INC + BRICKWORK 120 + CARE 119; 36 multi-agency; 7 dual-INC
+      → Output: csv/steel_sector_master_20260623.csv (1,040) + INC/ULTRA HOT/crossmatch subsets
+
+---
+
+## P1 — Do This Session (Session 25)
+
+- [ ] ICRA 2026 trend check — NEW P1
+      → Did ICRA also spike in April 2026 along with CARE/ACUITE/IND-RA?
+      → Monthly INC trend for ICRA 2025–2026; identify callable pipeline
+      → Compare to other agencies to complete the full 6-agency April 2026 picture
+      → Output: csv/icra_2026_acceleration_20260623.csv
+
+- [ ] April 2026 dual-INC companies — deep sector profiles — NEW P1
+      → 18 companies INC at 2 agencies in April 2026 — what sectors? what instruments?
+      → These are maximum-priority July calls — build full contact profile for each
+      → Output: csv/april2026_dual_inc_profiles_20260623.csv
+
+- [ ] Final July 2026 calling master — NEW P1
+      → Integrate ULTRA HOT + HOT from ALL sessions into one consolidated master
+      → Deduplicate across all prior session outputs
+      → Sort by urgency, sector, agency — final sales action file
+      → Output: csv/july2026_calling_master_20260623.csv
 
 ---
 
@@ -354,3 +374,6 @@ All MDs go to: intelligence_outputs/session_[YYYYMMDD]/
 - [x] ACUITE 2026 Acceleration + Geo Breakdown — April 2026 peak 128 companies (57.4%), mirrors CARE; 348 callable — 2026-06-22 (Session 23)
 - [x] Feb 2026 CARE Cohort — 183 companies, 85% High Risk/Default, peak receptivity window — 2026-06-22 (Session 23)
 - [x] Infomerics ULTRA HOT × D365 Cross-Match — 102/367 in D365 (27.8%); 72 also INC at D365 — 2026-06-22 (Session 23)
+- [x] IND-RA 2026 Acceleration — dual-wave Jan+Apr; NCD 75% INC peak; 41 UH + 951 HOT callable — 2026-06-23 (Session 24)
+- [x] April 2026 Cross-Agency INC Spike — 984 companies, 18 dual-agency; July 2026 deadline — 2026-06-23 (Session 24)
+- [x] Steel Sector Master — 1,040 companies, 527 INC, 280 ULTRA HOT + 510 HOT — 2026-06-23 (Session 24)
