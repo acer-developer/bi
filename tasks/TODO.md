@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-23
-Status: Session 24 complete. Session 25 starting next run.
+Status: Session 25 complete. Session 26 starting next run.
 
 ---
 
@@ -186,22 +186,41 @@ Status: Session 24 complete. Session 25 starting next run.
 
 ## P1 — Do This Session (Session 25)
 
-- [ ] ICRA 2026 trend check — NEW P1
-      → Did ICRA also spike in April 2026 along with CARE/ACUITE/IND-RA?
-      → Monthly INC trend for ICRA 2025–2026; identify callable pipeline
-      → Compare to other agencies to complete the full 6-agency April 2026 picture
-      → Output: csv/icra_2026_acceleration_20260623.csv
+- [x] ICRA 2026 trend check — COMPLETE 2026-06-23 (Session 25)
+      → ICRA did NOT spike in April 2026 — only agency without acceleration
+      → Stable 24-34% INC rate throughout 2025-2026; 139 ULTRA HOT + 484 HOT callable
+      → Output: csv/icra_2026_acceleration_20260623.csv (914 rows) + trend + comparison CSVs + brief
 
-- [ ] April 2026 dual-INC companies — deep sector profiles — NEW P1
-      → 18 companies INC at 2 agencies in April 2026 — what sectors? what instruments?
-      → These are maximum-priority July calls — build full contact profile for each
-      → Output: csv/april2026_dual_inc_profiles_20260623.csv
+- [x] April 2026 dual-INC companies — deep sector profiles — COMPLETE 2026-06-23 (Session 25)
+      → 18 companies profiled: Agro/Food 4, Chemicals 3, Infra 2, Steel 2, Energy 2
+      → CARE in 13/18 cases; KBK Biotech (₹277 Cr) + Veda Biofuel (₹154 Cr) largest
+      → Output: csv/april2026_dual_inc_profiles_20260623.csv (18 rows)
 
-- [ ] Final July 2026 calling master — NEW P1
-      → Integrate ULTRA HOT + HOT from ALL sessions into one consolidated master
-      → Deduplicate across all prior session outputs
-      → Sort by urgency, sector, agency — final sales action file
-      → Output: csv/july2026_calling_master_20260623.csv
+- [x] Final July 2026 calling master — COMPLETE 2026-06-23 (Session 25)
+      → 6,866 unique companies: 1,612 ULTRA HOT + 5,242 HOT + 12 July-priority
+      → 78 TIER 1 | 32 three-way INC | 18 April dual-INC | 1,363 multi-agency INC
+      → Output: csv/july2026_calling_master_20260623.csv (6,866 rows — FINAL ACTION FILE)
+
+---
+
+## P1 — Do This Session (Session 26)
+
+- [ ] NCD-focused calling list — NEW P1
+      → Filter master for companies with NCD instruments only
+      → NCD = highest revenue per deal (SEBI debt rated)
+      → Cross-check SEBI license requirement
+      → Output: csv/ncd_priority_calling_list_20260623.csv
+
+- [ ] Brickwork 2026 trend check — NEW P1
+      → Monthly INC trend for BRICKWORK 2025–2026
+      → Session 20 noted declining INC rate — is this continuing?
+      → Find if BW is stabilizing or truly declining (affects Phase 1 attack timing)
+      → Output: csv/brickwork_2026_trend_20260623.csv
+
+- [ ] 78 TIER 1 super-targets — senior RM assignment brief — NEW P1
+      → These 78 companies have 5+ signals — maximum priority for senior outreach
+      → Build individual one-page profile for each: sector, amount, agencies, overdue days, pitch script
+      → Output: csv/tier1_senior_rm_assignments_20260623.csv
 
 ---
 
