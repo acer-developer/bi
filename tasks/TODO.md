@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-24
-Status: Session 26 complete. Session 27 starting next run.
+Status: Session 27 complete. Session 28 starting next run.
 
 ---
 
@@ -227,21 +227,45 @@ Status: Session 26 complete. Session 27 starting next run.
 
 ## P1 — Do This Session (Session 27)
 
-- [ ] CARE NCD INC deep-dive — NEW P1
-      → CARE has 441 NCD INC companies (2nd highest after IND-RA)
-      → CARE is accelerating in 2026 — how much of this is NCD segment?
-      → Sector + state breakdown; largest deals by amount
-      → Output: csv/care_ncd_inc_deepdive_20260624.csv
+- [x] CARE NCD INC deep-dive — COMPLETE 2026-06-24 (Session 27)
+      → 454 unique companies (15.1% INC rate) — LOWER than IND-RA 44%; more selective
+      → 71 ULTRA HOT + 115 HOT = 186 callable now; ₹56,923 Cr total identified amount
+      → Energy sector: 14/32 companies ULTRA HOT — highest concentration; Lanco Babandh ₹750 Cr
+      → April 2026 spike: 49 companies → October 2026 second calling window
+      → Output: csv/care_ncd_inc_deepdive_20260624.csv (553) + hot_only (219) + sector summary (17)
 
-- [ ] BW stabilization root cause — NEW P1
-      → Is BW issuing fewer NEW ratings (volume decline) or just not clearing old INC?
-      → Check: total BW records per month vs INC count — is volume declining?
-      → Output: csv/brickwork_volume_vs_inc_20260624.csv
+- [x] BW stabilization root cause — COMPLETE 2026-06-24 (Session 27)
+      → ROOT CAUSE: STRUCTURAL INC BACKLOG — active volume GROWING (+305% H1 2025→H1 2026)
+      → BW issuing ~70 new active ratings/month AND ~276 new INC/month simultaneously
+      → INC pool self-replenishes at ~2,000+ new INC companies/year — ACER pipeline permanent
+      → Phase 1 displacement window CONFIRMED PERMANENT — BW not clearing INC
+      → Output: csv/brickwork_volume_vs_inc_20260624.csv (12 monthly rows)
 
-- [ ] 4-way INC investigation — NEW P1
-      → Only 2 companies INC at 4 agencies simultaneously (New Modern Technomech + 1 other)
-      → Why won't any agency clear them? Deep profile both companies.
-      → Output: csv/four_way_inc_profiles_20260624.csv
+- [x] 4-way INC investigation — COMPLETE 2026-06-24 (Session 27)
+      → CORRECTION: 8 companies (not 2) INC at 4 agencies simultaneously
+      → Pattern: multi-lender structure → cascade INC across all agencies (not sequential failures)
+      → Best target: Siddapur Distilleries (₹108 Cr) — was ACTIVE at CARE Jan 2026, most solvable
+      → Ashok Bricks rated "D" at all 4 — likely actual default; skip for now
+      → Output: csv/four_way_inc_profiles_20260624.csv (58 rows)
+
+---
+
+## P1 — Do This Session (Session 28)
+
+- [ ] October 2026 Calling Calendar — NEW P1
+      → April 2026 cohort (CARE 49, ACUITE 128, IND-RA 42, CRISIL 234) hits HOT+ by Oct–Nov 2026
+      → Build the October blitz list: companies entering HOT urgency window in Oct–Nov 2026
+      → Output: csv/october2026_calling_calendar_20260624.csv
+
+- [ ] Energy NCD consolidated calling list — NEW P1
+      → CARE: 32 NCD INC energy companies; cross with IND-RA, ICRA, ACUITE, BW for energy NCD
+      → Single comprehensive energy NCD INC list across all agencies
+      → Output: csv/energy_ncd_inc_all_agencies_20260624.csv
+
+- [ ] ICRA NCD vs CARE NCD comparison — NEW P1
+      → ICRA: 278 NCD INC companies vs CARE: 454; which has higher revenue per mandate?
+      → Profile top 20 from each agency by amount — compare segment sizes
+      → Output: csv/icra_vs_care_ncd_comparison_20260624.csv
 
 ---
 
