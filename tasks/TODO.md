@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-23
-Status: Session 25 complete. Session 26 starting next run.
+Last Updated: 2026-06-24
+Status: Session 26 complete. Session 27 starting next run.
 
 ---
 
@@ -205,22 +205,43 @@ Status: Session 25 complete. Session 26 starting next run.
 
 ## P1 — Do This Session (Session 26)
 
-- [ ] NCD-focused calling list — NEW P1
-      → Filter master for companies with NCD instruments only
-      → NCD = highest revenue per deal (SEBI debt rated)
-      → Cross-check SEBI license requirement
-      → Output: csv/ncd_priority_calling_list_20260623.csv
+- [x] NCD-focused calling list — COMPLETE 2026-06-24 (Session 26)
+      → 1,470 NCD INC companies (1,454 D365 + 16 Infomerics); "Non-government debt" = NCD in D365
+      → IND-RA 652 (44%), CARE 441, ICRA 278, BW 80 — IND-RA is primary NCD displacement target
+      → ULTRA HOT: 134 | HOT: 789 | 923 callable now — SEBI CRA license required before pitching
+      → Output: csv/ncd_priority_calling_list_20260624.csv (1,470) + ncd_hot_only_20260624.csv (923)
 
-- [ ] Brickwork 2026 trend check — NEW P1
-      → Monthly INC trend for BRICKWORK 2025–2026
-      → Session 20 noted declining INC rate — is this continuing?
-      → Find if BW is stabilizing or truly declining (affects Phase 1 attack timing)
-      → Output: csv/brickwork_2026_trend_20260623.csv
+- [x] Brickwork 2026 trend check — COMPLETE 2026-06-24 (Session 26)
+      → H1 2025: 95.8% → H2 2025: 79.3% → H1 2026: 79.6% — DECLINED then STABILIZED
+      → BW is NOT recovering INC companies — Phase 1 window CONFIRMED OPTIMAL NOW
+      → 1,950 BW INC companies: 418 ULTRA HOT + 916 HOT = 1,334 callable immediately
+      → Output: csv/brickwork_2026_trend_20260624.csv + brickwork_inc_leads_20260624.csv (1,950)
 
-- [ ] 78 TIER 1 super-targets — senior RM assignment brief — NEW P1
-      → These 78 companies have 5+ signals — maximum priority for senior outreach
-      → Build individual one-page profile for each: sector, amount, agencies, overdue days, pitch script
-      → Output: csv/tier1_senior_rm_assignments_20260623.csv
+- [x] 78 TIER 1 super-targets — senior RM assignment brief — COMPLETE 2026-06-24 (Session 26)
+      → 77 ULTRA HOT + 1 HOT; 24 three-way INC + 52 dual-INC + 2 four-way INC
+      → Top: Arya Steels (390 days, 3-way) | J B Rolling Mills ₹463.7 Cr (385 days, 3-way) | New Modern Technomech ₹271.8 Cr (4-way)
+      → Pitch scripts + call cadence embedded (Week of Jun 30: first call; Jul 7: follow-up)
+      → Output: csv/tier1_senior_rm_assignments_20260624.csv (78 rows)
+
+---
+
+## P1 — Do This Session (Session 27)
+
+- [ ] CARE NCD INC deep-dive — NEW P1
+      → CARE has 441 NCD INC companies (2nd highest after IND-RA)
+      → CARE is accelerating in 2026 — how much of this is NCD segment?
+      → Sector + state breakdown; largest deals by amount
+      → Output: csv/care_ncd_inc_deepdive_20260624.csv
+
+- [ ] BW stabilization root cause — NEW P1
+      → Is BW issuing fewer NEW ratings (volume decline) or just not clearing old INC?
+      → Check: total BW records per month vs INC count — is volume declining?
+      → Output: csv/brickwork_volume_vs_inc_20260624.csv
+
+- [ ] 4-way INC investigation — NEW P1
+      → Only 2 companies INC at 4 agencies simultaneously (New Modern Technomech + 1 other)
+      → Why won't any agency clear them? Deep profile both companies.
+      → Output: csv/four_way_inc_profiles_20260624.csv
 
 ---
 
