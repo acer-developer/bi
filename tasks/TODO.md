@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-25
-Status: Session 28 complete. Session 29 starting next run.
+Status: Session 29 complete. Session 30 starting next run.
 
 ---
 
@@ -274,20 +274,44 @@ Status: Session 28 complete. Session 29 starting next run.
 
 ## P1 — Do This Session (Session 29)
 
-- [ ] October calling calendar — filter "D" grade companies (likely NCLT/default) — NEW P1
-      → Build "clean" callable October list excluding actual defaults
-      → Both NCD pools have significant "D" ratings that should be removed before calling
-      → Output: csv/october2026_clean_callable_20260625.csv
+- [x] October calling calendar — filter "D" grade companies — COMPLETE 2026-06-25 (Session 29)
+      → 1,876 records / 1,007 companies removed as actual defaults (24.3% removal rate)
+      → Clean callable: 5,961 rows, 3,179 unique companies (from 4,151 raw)
+      → CRISIL 2,255 | CARE 997 | BW 822 | ACUITE 688 | ICRA 463 | IND-RA 289
+      → Output: csv/october2026_clean_callable_20260625.csv (5,961 rows) + removed_defaults (1,876)
 
-- [ ] BRICKWORK October escalation deep-dive — NEW P1
-      → BW has 639 companies escalating in Oct–Nov 2026 (2nd largest after CRISIL)
-      → Given BW's permanent INC backlog, map these to BW's known INC sectors
-      → Output: csv/brickwork_october2026_targets_20260625.csv
+- [x] BRICKWORK October escalation deep-dive — COMPLETE 2026-06-25 (Session 29)
+      → 639 raw → 168 defaults removed (26.3%) → 471 clean unique, 822 records
+      → 366 ULTRA HOT + 379 HOT escalations (90.6% in highest urgency)
+      → Top target: Akbar Travels India ₹812.5 Cr escalating ULTRA HOT by Oct 7
+      → Output: csv/brickwork_october2026_targets_20260625.csv (822 rows)
 
-- [ ] ACUITE NCD INC standalone profile — NEW P1
-      → ACUITE NCD INC never profiled separately (overall ACUITE done in Session 22)
-      → How many ACUITE NCD INC? What sectors? Comparable to CARE/ICRA?
-      → Output: csv/acuite_ncd_inc_profile_20260625.csv
+- [x] ACUITE NCD INC standalone profile — COMPLETE 2026-06-25 (Session 29)
+      → FINDING: ACUITE has ZERO NCD INC companies (0.0% INC rate on NCD)
+      → ACUITE NCD book = only 61 records, 19 companies — none INC
+      → ACUITE is bank-instrument only (TL/BG/LC); NCD pitch inapplicable
+      → NCD INC ranking confirmed: IND-RA 663 > CARE 454 > ICRA 282 > BW 82 > ACUITE 0
+      → Output: csv/acuite_ncd_inc_profile_20260625.csv (0 rows — confirmed no data) + ncd_all_agencies_comparison
+
+---
+
+## P1 — Do This Session (Session 30)
+
+- [ ] IND-RA NCD INC standalone deep-dive — NEW P1
+      → IND-RA is the largest NCD INC agency (663 companies, 109 callable now)
+      → Never profiled as standalone NCD (Session 21 covered IND-RA × CRISIL dual-INC for NCD only)
+      → Build sector breakdown, amount analysis, urgency profile
+      → Output: csv/indra_ncd_inc_standalone_20260625.csv
+
+- [ ] CRISIL October escalation deep-dive — NEW P1
+      → CRISIL has 2,255 clean October records (largest pool by far)
+      → Map to CRISIL's known sector concentrations and INC patterns
+      → Output: csv/crisil_october2026_targets_20260625.csv
+
+- [ ] October 2026 clean callable — sector breakdown — NEW P1
+      → 3,179 unique companies across all agencies — which sectors dominate?
+      → Cross-reference with ACER's sector attack priorities
+      → Output: csv/october2026_clean_sector_breakdown_20260625.csv
 
 ---
 
