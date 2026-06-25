@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-24
-Status: Session 27 complete. Session 28 starting next run.
+Last Updated: 2026-06-25
+Status: Session 28 complete. Session 29 starting next run.
 
 ---
 
@@ -252,20 +252,42 @@ Status: Session 27 complete. Session 28 starting next run.
 
 ## P1 — Do This Session (Session 28)
 
-- [ ] October 2026 Calling Calendar — NEW P1
-      → April 2026 cohort (CARE 49, ACUITE 128, IND-RA 42, CRISIL 234) hits HOT+ by Oct–Nov 2026
-      → Build the October blitz list: companies entering HOT urgency window in Oct–Nov 2026
-      → Output: csv/october2026_calling_calendar_20260624.csv
+- [x] October 2026 Calling Calendar — COMPLETE 2026-06-25 (Session 28)
+      → 4,151 unique companies escalating Oct–Nov 2026 (4x the July blitz volume)
+      → 3,478 HOT/ULTRA HOT escalations; April 2026 cohort (984 cos) enters MEDIUM Oct–Nov
+      → CRISIL 1,479 | CARE 834 | BW 639 | ACUITE 421 | ICRA 383 | IND-RA 373 | Infomerics 290
+      → Output: csv/october2026_calling_calendar_20260625.csv (7,837) + hot_ultraHOT (6,467) + april cohort (1,647)
 
-- [ ] Energy NCD consolidated calling list — NEW P1
-      → CARE: 32 NCD INC energy companies; cross with IND-RA, ICRA, ACUITE, BW for energy NCD
-      → Single comprehensive energy NCD INC list across all agencies
-      → Output: csv/energy_ncd_inc_all_agencies_20260624.csv
+- [x] Energy NCD consolidated calling list — COMPLETE 2026-06-25 (Session 28)
+      → 63 unique companies, 78 records (CARE 32, IND-RA 21, ICRA 10, BW 1); 27 callable now
+      → Total identified NCD amount: ₹13,286 Cr (avg ₹172.6 Cr — highest ticket in dataset)
+      → Top: Senvion Wind ₹3,000 Cr (Oct window), Jsw Mahanadi ₹773 Cr (ULTRA HOT), Lanco Babandh ₹750 Cr
+      → Output: csv/energy_ncd_inc_all_agencies_20260625.csv (78) + energy_ncd_hot_only (33)
 
-- [ ] ICRA NCD vs CARE NCD comparison — NEW P1
-      → ICRA: 278 NCD INC companies vs CARE: 454; which has higher revenue per mandate?
-      → Profile top 20 from each agency by amount — compare segment sizes
-      → Output: csv/icra_vs_care_ncd_comparison_20260624.csv
+- [x] ICRA NCD vs CARE NCD comparison — COMPLETE 2026-06-25 (Session 28)
+      → CARE wins all metrics: 454 cos (vs ICRA 282), ₹56,923 Cr (vs ₹24,330 Cr), callable 186 (vs 123)
+      → CARE avg ₹104.8 Cr vs ICRA ₹70.9 Cr per record; ICRA concentrated in IL&FS group (NCLT risk)
+      → Combined pipeline: ₹15.5 Cr at ₹5L avg fee; CARE first priority
+      → Output: csv/icra_vs_care_ncd_comparison_20260625.csv (40) + full lists (349 ICRA, 553 CARE)
+
+---
+
+## P1 — Do This Session (Session 29)
+
+- [ ] October calling calendar — filter "D" grade companies (likely NCLT/default) — NEW P1
+      → Build "clean" callable October list excluding actual defaults
+      → Both NCD pools have significant "D" ratings that should be removed before calling
+      → Output: csv/october2026_clean_callable_20260625.csv
+
+- [ ] BRICKWORK October escalation deep-dive — NEW P1
+      → BW has 639 companies escalating in Oct–Nov 2026 (2nd largest after CRISIL)
+      → Given BW's permanent INC backlog, map these to BW's known INC sectors
+      → Output: csv/brickwork_october2026_targets_20260625.csv
+
+- [ ] ACUITE NCD INC standalone profile — NEW P1
+      → ACUITE NCD INC never profiled separately (overall ACUITE done in Session 22)
+      → How many ACUITE NCD INC? What sectors? Comparable to CARE/ICRA?
+      → Output: csv/acuite_ncd_inc_profile_20260625.csv
 
 ---
 
