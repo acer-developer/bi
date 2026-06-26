@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-25
-Status: Session 29 complete. Session 30 starting next run.
+Last Updated: 2026-06-26
+Status: Session 30 complete. Session 31 starting next run.
 
 ---
 
@@ -297,21 +297,44 @@ Status: Session 29 complete. Session 30 starting next run.
 
 ## P1 — Do This Session (Session 30)
 
-- [ ] IND-RA NCD INC standalone deep-dive — NEW P1
-      → IND-RA is the largest NCD INC agency (663 companies, 109 callable now)
-      → Never profiled as standalone NCD (Session 21 covered IND-RA × CRISIL dual-INC for NCD only)
-      → Build sector breakdown, amount analysis, urgency profile
-      → Output: csv/indra_ncd_inc_standalone_20260625.csv
+- [x] IND-RA NCD INC standalone deep-dive — COMPLETE 2026-06-26 (Session 30)
+      → 663 unique companies | 53.5% NCD INC rate (highest of any agency-instrument pair)
+      → 373 callable now (4 ULTRA HOT + 369 HOT) | ₹40,918 Cr total
+      → Top sector: Construction (93 cos, ₹7,569 Cr); Top target: P E C Ltd. (₹3,432 Cr)
+      → Output: csv/indra_ncd_inc_standalone_20260626.csv (674 rows) + sector summary
 
-- [ ] CRISIL October escalation deep-dive — NEW P1
-      → CRISIL has 2,255 clean October records (largest pool by far)
-      → Map to CRISIL's known sector concentrations and INC patterns
-      → Output: csv/crisil_october2026_targets_20260625.csv
+- [x] CRISIL October escalation deep-dive — COMPLETE 2026-06-26 (Session 30)
+      → 2,255 records | 1,220 unique companies | 953 ULTRA HOT + 879 HOT + 423 MEDIUM escalations
+      → Construction leads (124 companies, ₹8,428 Cr); Automobiles anomaly (94 cos, 87 UH)
+      → Top target: C S Construction Co. (₹978 Cr, ULTRA HOT); all bank instruments (no NCD)
+      → Output: csv/crisil_october2026_targets_20260626.csv (2,255) + UH subset (953) + sector summary
 
-- [ ] October 2026 clean callable — sector breakdown — NEW P1
-      → 3,179 unique companies across all agencies — which sectors dominate?
-      → Cross-reference with ACER's sector attack priorities
-      → Output: csv/october2026_clean_sector_breakdown_20260625.csv
+- [x] October 2026 clean callable — sector breakdown — COMPLETE 2026-06-26 (Session 30)
+      → 5,961 records | 3,179 unique | 21 sectors | 68.4% classification rate
+      → Construction #1 (344 cos, ₹53,422 Cr, score 54.1); Energy highest ticket (₹120 Cr avg)
+      → 4,914 rows / 2,665 companies in HOT+ULTRA HOT escalation
+      → Output: csv/october2026_clean_sector_breakdown_20260626.csv + agency-sector matrix + enriched full file
+
+---
+
+## P1 — Do This Session (Session 31)
+
+- [ ] CARE October escalation deep-dive — NEW P1
+      → CARE has 997 clean October records (2nd largest pool after CRISIL)
+      → Build sector breakdown, urgency profile, top targets list
+      → Output: csv/care_october2026_targets_20260626.csv
+
+- [ ] ACUITE + BRICKWORK combined October brief — NEW P1
+      → ACUITE 688 + BW 822 = 1,510 records combined (MSME-focus agencies)
+      → BW: 90.6% HOT+UH (confirmed highest rate); ACUITE: lower rate
+      → Build combined MSME calling brief with sector and urgency breakdown
+      → Output: csv/msme_agencies_october2026_20260626.csv
+
+- [ ] October 2026 week-by-week call schedule — NEW P1
+      → 5,961 companies escalating Oct–Nov 2026 — when exactly does each escalate?
+      → Build week-level calendar: Week 1 Oct (Oct 1-7), Week 2 (Oct 8-14), etc.
+      → Enables daily/weekly call planning for sales team
+      → Output: csv/october2026_weekly_calendar_20260626.csv
 
 ---
 
