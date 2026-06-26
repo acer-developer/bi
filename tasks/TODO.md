@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-26
-Status: Session 30 complete. Session 31 starting next run.
+Status: Session 31 complete. Session 32 starting next run.
 
 ---
 
@@ -319,22 +319,44 @@ Status: Session 30 complete. Session 31 starting next run.
 
 ## P1 — Do This Session (Session 31)
 
-- [ ] CARE October escalation deep-dive — NEW P1
-      → CARE has 997 clean October records (2nd largest pool after CRISIL)
-      → Build sector breakdown, urgency profile, top targets list
-      → Output: csv/care_october2026_targets_20260626.csv
+- [x] CARE October escalation deep-dive — COMPLETE 2026-06-26 (Session 31)
+      → 997 records | 566 unique | ULTRA HOT 376, HOT 352, MEDIUM 269 | 728 callable
+      → Top target: Bangalore Electricity Supply (₹2,257 Cr); 18% NCD (179 records)
+      → Output: csv/care_october2026_targets_20260626.csv + UH subset + sector summary
 
-- [ ] ACUITE + BRICKWORK combined October brief — NEW P1
-      → ACUITE 688 + BW 822 = 1,510 records combined (MSME-focus agencies)
-      → BW: 90.6% HOT+UH (confirmed highest rate); ACUITE: lower rate
-      → Build combined MSME calling brief with sector and urgency breakdown
-      → Output: csv/msme_agencies_october2026_20260626.csv
+- [x] ACUITE + BRICKWORK combined October brief — COMPLETE 2026-06-26 (Session 31)
+      → 1,510 records | 807 unique | BW UH 366 (44.5%), ACUITE UH 232 (33.7%)
+      → ACUITE mega-target: Kaleshwaram Irrigation ₹18,751 Cr | BW: Power Co Karnataka ₹2,944 Cr
+      → Output: csv/msme_agencies_october2026_20260626.csv + UH subsets + sector summary
 
-- [ ] October 2026 week-by-week call schedule — NEW P1
-      → 5,961 companies escalating Oct–Nov 2026 — when exactly does each escalate?
-      → Build week-level calendar: Week 1 Oct (Oct 1-7), Week 2 (Oct 8-14), etc.
-      → Enables daily/weekly call planning for sales team
-      → Output: csv/october2026_weekly_calendar_20260626.csv
+- [x] October 2026 week-by-week call schedule — COMPLETE 2026-06-26 (Session 31)
+      → 5,961 rows mapped to 8 call weeks (Oct Wk1-4, Nov Wk1-4)
+      → Largest week: Oct Wk4 (657 unique); IND-RA peaks Oct Wk2 (138 cos NCD)
+      → Output: csv/october2026_weekly_calendar_20260626.csv + summary + agency matrix
+
+---
+
+## P1 — Do This Session (Session 32)
+
+- [ ] IND-RA + ICRA combined October brief — NEW P1
+      → IND-RA 289 + ICRA 463 = 752 records; IND-RA Oct Wk2 NCD peak (138 cos)
+      → Profile both agencies separately then combine; ICRA is premium-priced segment
+      → Output: csv/indra_icra_october2026_20260626.csv
+
+- [ ] September pre-call strategy list — NEW P1
+      → 850 unique companies escalating in Oct Wk1 + Wk2 (Oct 1-14) — call in September
+      → Build pre-call list with company name, agency, sector, amount, pitch angle
+      → Output: csv/september_precall_list_20260626.csv
+
+- [ ] Cross-agency duplicate check — October callable pool — NEW P1
+      → Are any companies appearing under 2+ agencies in the 5,961 October pool?
+      → These dual-rated companies are highest priority (already open to multiple raters)
+      → Output: csv/october2026_cross_agency_duplicates_20260626.csv
+
+- [ ] Infomerics October deep-dive — NEW P1
+      → 447 Infomerics records in October pool — not yet profiled separately
+      → Zero competitor overlap; pure whitespace; call these before any competitor does
+      → Output: csv/infomerics_october2026_targets_20260626.csv
 
 ---
 
