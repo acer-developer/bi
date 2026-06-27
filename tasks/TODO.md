@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-26
-Status: Session 31 complete. Session 32 starting next run.
+Last Updated: 2026-06-27
+Status: Session 32 complete. Session 33 starting next run.
 
 ---
 
@@ -338,25 +338,51 @@ Status: Session 31 complete. Session 32 starting next run.
 
 ## P1 — Do This Session (Session 32)
 
-- [ ] IND-RA + ICRA combined October brief — NEW P1
-      → IND-RA 289 + ICRA 463 = 752 records; IND-RA Oct Wk2 NCD peak (138 cos)
-      → Profile both agencies separately then combine; ICRA is premium-priced segment
-      → Output: csv/indra_icra_october2026_20260626.csv
+- [x] IND-RA + ICRA combined October brief — COMPLETE 2026-06-27 (Session 32)
+      → IND-RA: 289 records | 249 unique | 102 UH | 169 HOT | ₹14,471 Cr; peak Oct Wk2 (148 records)
+      → ICRA: 463 records | 263 unique | 190 UH | 180 HOT | ₹12,255 Cr; peak Oct Wk4 (127 records)
+      → 3 companies dual-rated at both: Telawne Power Equipments, APR Constructions, Mandar Health
+      → IND-RA 55.7% NCD — SEBI license required; ICRA Construction #1 sector (₹5,497 Cr)
+      → Output: csv/indra_icra_october2026_20260627.csv (752 rows) + agency subsets + sector summary
 
-- [ ] September pre-call strategy list — NEW P1
-      → 850 unique companies escalating in Oct Wk1 + Wk2 (Oct 1-14) — call in September
-      → Build pre-call list with company name, agency, sector, amount, pitch angle
-      → Output: csv/september_precall_list_20260626.csv
+- [x] September pre-call strategy list — COMPLETE 2026-06-27 (Session 32)
+      → 1,450 records | 832 unique | 435 ULTRA HOT | 499 HOT | ₹32,200 Cr total
+      → Oct Wk1 (Oct 1-7): 656 records, 352 unique, 165 UH, ₹12,921 Cr
+      → Oct Wk2 (Oct 8-14): 794 records, 490 unique, 270 UH, ₹19,279 Cr
+      → Top target: Akbar Travels ₹812.5 Cr (BW), Mapsko Builders ₹251 Cr (CARE)
+      → Output: csv/september_precall_list_20260627.csv (1,450) + ultraHOT subset (435)
 
-- [ ] Cross-agency duplicate check — October callable pool — NEW P1
-      → Are any companies appearing under 2+ agencies in the 5,961 October pool?
-      → These dual-rated companies are highest priority (already open to multiple raters)
-      → Output: csv/october2026_cross_agency_duplicates_20260626.csv
+- [x] Cross-agency duplicate check — October callable pool — COMPLETE 2026-06-27 (Session 32)
+      → 166 unique companies rated by 2+ agencies (5.2% of pool); 6 companies rated by 3 agencies
+      → Top pair: CARE+CRISIL (37); Three-way leaders: Telawne Power, Universal Seaport, Dee Vee Projects
+      → Dee Vee Projects (ACUITE+CARE+IND-RA) = ₹926 Cr combined — largest multi-agency ticket
+      → Output: csv/october2026_cross_agency_duplicates_20260627.csv (595 rows) + summary (166)
 
-- [ ] Infomerics October deep-dive — NEW P1
-      → 447 Infomerics records in October pool — not yet profiled separately
-      → Zero competitor overlap; pure whitespace; call these before any competitor does
-      → Output: csv/infomerics_october2026_targets_20260626.csv
+- [x] Infomerics October deep-dive — COMPLETE 2026-06-27 (Session 32)
+      → 447 records | 242 unique | 100% callable (209 UH + 238 HOT, ZERO MEDIUM) | ₹24,933 Cr
+      → Only 1 company overlaps with D365 (0.4%) — essentially pure ACER whitespace
+      → Construction #1 (83 records, ₹5,577 Cr); Oct Wk4 peak (114 records)
+      → Output: csv/infomerics_october2026_targets_20260627.csv (447 rows) + sector summary
+
+---
+
+## P1 — Do This Session (Session 33)
+
+- [ ] October 2026 Master Action File — ALL agencies ranked — NEW P1
+      → Combine all 7 agency profiles into one ranked file (5,961 rows)
+      → Tier rankings: 3-way INC + Dual-rated > UH high-amount > HOT > rest
+      → Add call week, tier rank, pitch angle — final sales team handoff file
+      → Output: csv/october2026_MASTER_action_file_20260627.csv
+
+- [ ] SEBI CRA license contingency — NCD queue build — NEW P1
+      → IND-RA 161 + ICRA 103 + CARE 179 = 443 NCD records in October pool
+      → Build pre-license queue (engage now, rate when licensed) vs post-license queue
+      → Output: csv/ncd_pre_license_queue_[DATE].csv + csv/ncd_post_license_queue_[DATE].csv
+
+- [ ] Q1 2027 horizon scan — December 2026 to March 2027 pipeline — NEW P1
+      → Which companies currently LOW urgency will escalate in Dec-Mar?
+      → Begin building Q1 2027 pipeline to avoid October-only dependence
+      → Output: csv/q1_2027_pipeline_[DATE].csv
 
 ---
 
