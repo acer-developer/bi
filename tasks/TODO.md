@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-27
-Status: Session 32 complete. Session 33 starting next run.
+Status: Session 33 complete. Session 34 starting next run.
 
 ---
 
@@ -368,21 +368,46 @@ Status: Session 32 complete. Session 33 starting next run.
 
 ## P1 — Do This Session (Session 33)
 
-- [ ] October 2026 Master Action File — ALL agencies ranked — NEW P1
-      → Combine all 7 agency profiles into one ranked file (5,961 rows)
-      → Tier rankings: 3-way INC + Dual-rated > UH high-amount > HOT > rest
-      → Add call week, tier rank, pitch angle — final sales team handoff file
-      → Output: csv/october2026_MASTER_action_file_20260627.csv
+- [x] October 2026 Master Action File — ALL agencies ranked — COMPLETE 2026-06-27 (Session 33)
+      → 5,961 rows, 6 tiers, ₹163,927 Cr total pool; Tier 3 alone = ₹66,742 Cr
+      → Tier 1 (3-way): 6 companies incl. Dee Vee Projects ₹926 Cr; Tier 2 (dual): 160 cos
+      → Call Week + Agency_Count + NCD flag applied to all 5,961 records
+      → Output: csv/october2026_MASTER_action_file_20260627.csv (5,961) + tier/week summaries
 
-- [ ] SEBI CRA license contingency — NCD queue build — NEW P1
-      → IND-RA 161 + ICRA 103 + CARE 179 = 443 NCD records in October pool
-      → Build pre-license queue (engage now, rate when licensed) vs post-license queue
-      → Output: csv/ncd_pre_license_queue_[DATE].csv + csv/ncd_post_license_queue_[DATE].csv
+- [x] SEBI CRA license contingency — NCD queue build — COMPLETE 2026-06-27 (Session 33)
+      → 472 NCD records: CARE 179, IND-RA 161, ICRA 103, BW 27 — ₹26,218 Cr total
+      → Pre-license queue (472): call now, relationship building
+      → Post-license queue (392): UH+HOT only — rate immediately when licensed
+      → IND-RA Oct Wk2 (161 records) is license deadline trigger
+      → Output: csv/ncd_pre_license_queue_20260627.csv + csv/ncd_post_license_queue_20260627.csv
 
-- [ ] Q1 2027 horizon scan — December 2026 to March 2027 pipeline — NEW P1
-      → Which companies currently LOW urgency will escalate in Dec-Mar?
-      → Begin building Q1 2027 pipeline to avoid October-only dependence
-      → Output: csv/q1_2027_pipeline_[DATE].csv
+- [x] Q1 2027 horizon scan — December 2026 to March 2027 pipeline — COMPLETE 2026-06-27 (Session 33)
+      → 2,475 records | 1,323 unique | ₹88,932 Cr — bigger than July blitz in total value
+      → Dec 2026: 643 companies (878 currently HOT — coverage gap, call in August NOW)
+      → Infomerics: 246 companies, ₹11,884 Cr, zero competitor overlap
+      → CARE Q1 2027 highest-ticket: ₹21,484 Cr (162 companies)
+      → Output: csv/q1_2027_pipeline_20260627.csv (2,475 rows) + monthly/sector/agency summaries
+
+---
+
+## P1 — Do This Session (Session 34)
+
+- [ ] December 2026 "Ghost HOT" deep-dive — NEW P1
+      → 643 companies currently past 6 months INC but NOT in October pool (hit UH in Dec 2026)
+      → These are being missed — call them August/September 2026
+      → Sector breakdown, agency breakdown, top targets by amount
+      → Output: csv/december2026_ghost_hot_20260627.csv
+
+- [ ] Full ACER rolling 6-month calendar (Oct 2026 – Mar 2027) — NEW P1
+      → Merge October pool (5,961) + Q1 2027 pipeline (2,475) into one master
+      → Total ~8,000+ records with escalation month and call week
+      → Avoid duplicate removal for companies appearing in both pools
+      → Output: csv/acer_rolling_calendar_oct2026_mar2027_20260627.csv
+
+- [ ] CRISIL Q1 2027 deep-dive — NEW P1
+      → 793 CRISIL records in Q1 2027 pipeline (₹14,802 Cr)
+      → Sub-sector breakdown, instrument mix, calling sequence
+      → Output: csv/crisil_q1_2027_20260627.csv
 
 ---
 
