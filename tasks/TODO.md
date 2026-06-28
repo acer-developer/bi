@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-28
-Status: Session 34 complete. Session 35 starting next run.
+Status: Session 35 complete. Session 36 starting next run.
 
 ---
 
@@ -415,22 +415,45 @@ Status: Session 34 complete. Session 35 starting next run.
 
 ## P1 — Do This Session (Session 35)
 
-- [ ] Non-CRISIL Q1 2027 agency deep-dives — NEW P1
-      → Infomerics 466 records (₹11,884 Cr, ZERO competitor overlap) — highest whitespace value
-      → CARE 275 records (₹21,484 Cr) — highest per-record ticket in Q1
-      → BRICKWORK 483 records (₹7,654 Cr) — structural INC backlog confirmed
-      → Output: csv/infomerics_q1_2027_20260628.csv + care_q1_2027_20260628.csv + brickwork_q1_2027_20260628.csv
+- [x] Non-CRISIL Q1 2027 agency deep-dives — COMPLETE 2026-06-28 (Session 35)
+      → Infomerics 466 records (₹28,728 Cr, ZERO competitor overlap); IND-RA highest avg ₹206 Cr/co
+      → CARE 275 records (₹11,004 Cr, 54 NCD cos); BRICKWORK 483 records (₹10,398 Cr)
+      → ACUITE 209 records (₹4,757 Cr, ZERO NCD); ICRA 165 (₹6,418 Cr); IND-RA 84 (₹14,033 Cr)
+      → Output: 6 agency CSVs + 18 summary CSVs + non_crisil_q1_2027_brief_20260628.md
 
-- [ ] August 2026 action brief — NEW P1
-      → Ghost HOT (626 companies, ₹29,721 Cr) + October Tier 1/2 pre-calls
-      → Combined August calling target: ~800–1,000 companies
-      → One-page call scripts per agency
-      → Output: csv/august2026_action_brief_20260628.csv + august2026_calling_brief_20260628.md
+- [x] August 2026 action brief — COMPLETE 2026-06-28 (Session 35)
+      → 791 unique companies | 1,764 records | ₹40,948 Cr combined calling target
+      → Group A (Ghost HOT): 626 unique | ₹29,721 Cr | Group B (Oct Tier 1/2): 166 unique | ₹11,227 Cr
+      → 7-agency call scripts written; week-by-week schedule Aug Wk1–4 built
+      → Output: csv/august2026_action_brief_20260628.csv + ghost_hot_unique + agency_scripts + MD brief
 
-- [ ] Q2 2027 horizon scan (April–June 2027) — NEW P1
-      → Companies rated Apr–Jun 2026 (0–3 months old today) — currently LOW urgency
-      → Will be HOT by Oct–Dec 2026, ULTRA HOT by Apr–Jun 2027
-      → Output: csv/q2_2027_pipeline_20260628.csv
+- [x] Q2 2027 horizon scan (April–June 2027) — COMPLETE 2026-06-28 (Session 35)
+      → 1,657 records | 990 unique | ₹64,996 Cr — April 2026 D365 cohort (99% April 2027 escalation)
+      → CARE leads value (₹19,886 Cr); CRISIL leads volume (285 unique); IND-RA highest avg ticket
+      → 210 NCD companies require SEBI license; call window opens Jan 2027 (HOT threshold)
+      → Output: csv/q2_2027_pipeline_20260628.csv + 4 summary CSVs + q2_2027_horizon_brief_20260628.md
+
+---
+
+## P1 — Do This Session (Session 36)
+
+- [ ] Full Q1 2027 master action file — all 7 agencies combined
+      → Merge all 2,475 Q1 2027 records into single prioritized file
+      → Apply tier ranking (like October master): multi-agency overlap, NCD flag, Call_Month, Priority_Score
+      → Top companies by ₹: IHB Ltd. ₹6,725 Cr + L&W Construction ₹1,830 Cr + Cloudtail ₹1,750 Cr
+      → Output: csv/q1_2027_MASTER_action_file_20260628.csv (2,475 rows)
+
+- [ ] IND-RA + ICRA Q1 2027 combined brief
+      → IND-RA: 84 records (68 unique, ₹14,033 Cr, 29 NCD) — highest per-record ticket
+      → ICRA: 165 records (94 unique, ₹6,418 Cr, 37 NCD) — March 2027 NCD concentration
+      → Cross-match for dual-rated companies
+      → Output: csv/indra_icra_q1_2027_combined_20260628.csv + brief
+
+- [ ] Q2 2027 → Q1 2027 integrated pipeline comparison
+      → Q1 2027: 2,475 records | ₹88,932 Cr | Call Aug–Nov 2026
+      → Q2 2027: 1,657 records | ₹64,996 Cr | Call Jan–Apr 2027
+      → Combined 12-month forward pipeline: ~4,132 records | ~₹1.53 lakh Cr
+      → Output: csv/combined_q1_q2_2027_pipeline_20260628.csv + summary
 
 ---
 
