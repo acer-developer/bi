@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-27
-Status: Session 33 complete. Session 34 starting next run.
+Last Updated: 2026-06-28
+Status: Session 34 complete. Session 35 starting next run.
 
 ---
 
@@ -392,22 +392,45 @@ Status: Session 33 complete. Session 34 starting next run.
 
 ## P1 — Do This Session (Session 34)
 
-- [ ] December 2026 "Ghost HOT" deep-dive — NEW P1
-      → 643 companies currently past 6 months INC but NOT in October pool (hit UH in Dec 2026)
-      → These are being missed — call them August/September 2026
-      → Sector breakdown, agency breakdown, top targets by amount
-      → Output: csv/december2026_ghost_hot_20260627.csv
+- [x] December 2026 "Ghost HOT" deep-dive — COMPLETE 2026-06-28 (Session 34)
+      → 1,169 records | 626 unique companies | ₹29,721 Cr
+      → CRISIL 442 + Infomerics 171 + BW 162 + CARE 152 + ACUITE 96 + ICRA 87 + IND-RA 59
+      → Top target: Schwing Stetter ₹1,555 Cr (CRISIL) — HOT now, call August
+      → Output: csv/december2026_ghost_hot_20260628.csv (1,169 rows) + sector/agency summaries
 
-- [ ] Full ACER rolling 6-month calendar (Oct 2026 – Mar 2027) — NEW P1
-      → Merge October pool (5,961) + Q1 2027 pipeline (2,475) into one master
-      → Total ~8,000+ records with escalation month and call week
-      → Avoid duplicate removal for companies appearing in both pools
-      → Output: csv/acer_rolling_calendar_oct2026_mar2027_20260627.csv
+- [x] Full ACER rolling 6-month calendar (Oct 2026 – Mar 2027) — COMPLETE 2026-06-28 (Session 34)
+      → 8,436 records | 4,204 unique | ₹2,52,859 Cr total 6-month pipeline
+      → Oct 2026: 3,521 records (₹1,02,448 Cr) | Mar 2027: 925 records (₹35,224 Cr)
+      → Infomerics highest value at ₹53,661 Cr (zero competitor overlap)
+      → Output: csv/acer_rolling_calendar_oct2026_mar2027_20260628.csv (8,436 rows — MASTER 6-MONTH FILE)
 
-- [ ] CRISIL Q1 2027 deep-dive — NEW P1
-      → 793 CRISIL records in Q1 2027 pipeline (₹14,802 Cr)
-      → Sub-sector breakdown, instrument mix, calling sequence
-      → Output: csv/crisil_q1_2027_20260627.csv
+- [x] CRISIL Q1 2027 deep-dive — COMPLETE 2026-06-28 (Session 34)
+      → 793 records | 429 unique | ₹13,593 Cr
+      → Bimodal: Dec 2026 (445 records, ₹8,280 Cr, all HOT) + Mar 2027 (340 records, ₹5,288 Cr)
+      → Term Loan 47% (no SEBI license needed); 1 NCD (Atlas Constructions ₹363 Cr)
+      → Top company: Schwing Stetter (India) ₹2,207 Cr combined — call August
+      → Output: csv/crisil_q1_2027_20260628.csv (793 rows) + sector/month/instrument breakdowns
+
+---
+
+## P1 — Do This Session (Session 35)
+
+- [ ] Non-CRISIL Q1 2027 agency deep-dives — NEW P1
+      → Infomerics 466 records (₹11,884 Cr, ZERO competitor overlap) — highest whitespace value
+      → CARE 275 records (₹21,484 Cr) — highest per-record ticket in Q1
+      → BRICKWORK 483 records (₹7,654 Cr) — structural INC backlog confirmed
+      → Output: csv/infomerics_q1_2027_20260628.csv + care_q1_2027_20260628.csv + brickwork_q1_2027_20260628.csv
+
+- [ ] August 2026 action brief — NEW P1
+      → Ghost HOT (626 companies, ₹29,721 Cr) + October Tier 1/2 pre-calls
+      → Combined August calling target: ~800–1,000 companies
+      → One-page call scripts per agency
+      → Output: csv/august2026_action_brief_20260628.csv + august2026_calling_brief_20260628.md
+
+- [ ] Q2 2027 horizon scan (April–June 2027) — NEW P1
+      → Companies rated Apr–Jun 2026 (0–3 months old today) — currently LOW urgency
+      → Will be HOT by Oct–Dec 2026, ULTRA HOT by Apr–Jun 2027
+      → Output: csv/q2_2027_pipeline_20260628.csv
 
 ---
 
