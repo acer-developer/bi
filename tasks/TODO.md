@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-29
-Status: Session 36 complete. Session 37 starting next run.
+Status: Session 37 complete. Session 38 starting next run.
 
 ---
 
@@ -460,23 +460,43 @@ Status: Session 36 complete. Session 37 starting next run.
 
 ## P1 — Do This Session (Session 37)
 
-- [ ] Full master timeline — October 2026 + Q1 2027 + Q2 2027 combined
-      → Stack: October Master (5,961) + Q1 2027 (2,475) + Q2 2027 (1,657) = ~10,093 records
-      → One master ACER pipeline file with escalation dates, tiers, calling weeks
-      → Covers Oct 2026 through Jun 2027 — full 9-month forward view
-      → Output: csv/acer_oct2026_q2_2027_master_pipeline_20260629.csv (~10,093 rows)
+- [x] Full master timeline — October 2026 + Q1 2027 + Q2 2027 combined — COMPLETE 2026-06-29 (Session 37)
+      → 10,093 rows | 4,588 unique | ₹3,17,855 Cr — full 9-month forward pipeline
+      → 869 multi-window companies (appear in 2+ windows) — highest priority
+      → 858 NCD records (SEBI gated); Construction = #1 sector (489 cos, ₹85,325 Cr)
+      → Output: csv/acer_oct2026_q2_2027_master_pipeline_20260629.csv (10,093 rows) + briefs
 
-- [ ] Construction sector deep-dive — Q1 + Q2 2027 combined
-      → Q1 Construction: 124 companies ₹17,332 Cr | Q2 Construction/Infra: 100 companies ₹13,938 Cr
-      → Combined: ~224 companies ₹31,270 Cr — largest classified sector across both quarters
-      → Key targets: P E C Ltd. ₹3,432 Cr (IND-RA), L&W Construction ₹2,035 Cr (ICRA), Srinivas Infra
-      → Output: csv/construction_q1_q2_2027_combined_20260629.csv + brief
+- [x] Construction sector deep-dive — Q1 + Q2 2027 combined — COMPLETE 2026-06-29 (Session 37)
+      → Q1+Q2: 394 records | 230 unique | ₹31,903 Cr; all 3 windows: 489 unique | ₹85,325 Cr
+      → Gupta Power Infrastructure ₹3,960 Cr (Infomerics, zero overlap) = top target
+      → 5 dual-quarter construction companies; 31 NCD construction cos (₹4,168 Cr)
+      → Output: csv/construction_q1_q2_2027_combined_20260629.csv (394) + all_windows (1,026) + brief
 
-- [ ] 43 dual-quarter companies — deep profile + pitch scripts
-      → 43 companies rated by DIFFERENT agencies in Q1 vs Q2 — highest lifetime value
-      → Multi-instrument, multi-agency behavior = maximum ACER receptivity
-      → Build dedicated brief with individual pitch scripts
-      → Output: csv/dual_quarter_deep_profile_20260629.csv + brief
+- [x] 43 dual-quarter companies — deep profile + pitch scripts — COMPLETE 2026-06-29 (Session 37)
+      → 43 companies | ₹4,304 Cr | 37/43 (86%) use DIFFERENT agencies Q1 vs Q2
+      → Top: Vijai Electricals ₹895 Cr (CARE+IND-RA), Pushpit Steels ₹822 Cr (ACUITE+BW)
+      → CRISIL→CARE = most common multi-agency pattern (6 companies)
+      → Output: csv/dual_quarter_deep_profile_20260629.csv (43) + high_priority (37) + brief
+
+---
+
+## P1 — Do This Session (Session 38)
+
+- [ ] Revenue model stratification — differentiated by instrument type
+      → NCD: ~₹15–25L per deal; Term Loan/BG: ~₹3–7L per deal
+      → Apply to 10,093-record master pipeline for true revenue potential
+      → Output: csv/acer_revenue_model_20260629.csv + brief
+
+- [ ] Energy sector Q1+Q2 2027 deep-dive — mirror Construction brief
+      → Q1 Energy: identify all energy companies in Q1 pipeline
+      → Q2 Energy: Vijai Electricals ₹895 Cr confirmed dual-quarter
+      → Output: csv/energy_q1_q2_2027_combined_20260629.csv + brief
+
+- [ ] August 2026 RM deployment plan — who calls whom, by week
+      → 869 multi-window + 43 dual-quarter + 135 Q1 construction = priority call list
+      → Top 20 companies ≥₹500 Cr → senior RM assignments
+      → Build week-by-week RM schedule Aug Wk1–4
+      → Output: csv/august2026_rm_deployment_plan_20260629.csv + brief
 
 ---
 
