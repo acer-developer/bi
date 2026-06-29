@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-28
-Status: Session 35 complete. Session 36 starting next run.
+Last Updated: 2026-06-29
+Status: Session 36 complete. Session 37 starting next run.
 
 ---
 
@@ -437,23 +437,46 @@ Status: Session 35 complete. Session 36 starting next run.
 
 ## P1 — Do This Session (Session 36)
 
-- [ ] Full Q1 2027 master action file — all 7 agencies combined
-      → Merge all 2,475 Q1 2027 records into single prioritized file
-      → Apply tier ranking (like October master): multi-agency overlap, NCD flag, Call_Month, Priority_Score
-      → Top companies by ₹: IHB Ltd. ₹6,725 Cr + L&W Construction ₹1,830 Cr + Cloudtail ₹1,750 Cr
-      → Output: csv/q1_2027_MASTER_action_file_20260628.csv (2,475 rows)
+- [x] Full Q1 2027 master action file — all 7 agencies combined — COMPLETE 2026-06-29 (Session 36)
+      → 2,475 records | 1,323 unique | ₹88,932 Cr | 22 dual-agency companies
+      → Priority Score max 9 | 54 records score ≥ 7 | IHB Ltd. ₹6,725 Cr top target
+      → Dec 2026 = largest month (1,209 records); Mar 2027 = highest value (₹35,224 Cr)
+      → Output: csv/q1_2027_MASTER_action_file_20260629.csv (2,475 rows)
 
-- [ ] IND-RA + ICRA Q1 2027 combined brief
-      → IND-RA: 84 records (68 unique, ₹14,033 Cr, 29 NCD) — highest per-record ticket
-      → ICRA: 165 records (94 unique, ₹6,418 Cr, 37 NCD) — March 2027 NCD concentration
-      → Cross-match for dual-rated companies
-      → Output: csv/indra_icra_q1_2027_combined_20260628.csv + brief
+- [x] IND-RA + ICRA Q1 2027 combined brief — COMPLETE 2026-06-29 (Session 36)
+      → IND-RA: 84 records (68 unique, ₹14,033 Cr, ₹206 Cr avg, 29 NCD); ICRA: 165 (94 unique, ₹6,418 Cr, 41 NCD)
+      → ZERO company overlap between IND-RA and ICRA — completely separate customer bases
+      → IHB Ltd. ₹6,725 Cr (IND-RA) + L&W Construction ₹1,830 Cr (ICRA) = top targets
+      → Output: csv/indra_icra_q1_2027_combined_20260629.csv (249 rows) + brief
 
-- [ ] Q2 2027 → Q1 2027 integrated pipeline comparison
-      → Q1 2027: 2,475 records | ₹88,932 Cr | Call Aug–Nov 2026
-      → Q2 2027: 1,657 records | ₹64,996 Cr | Call Jan–Apr 2027
-      → Combined 12-month forward pipeline: ~4,132 records | ~₹1.53 lakh Cr
-      → Output: csv/combined_q1_q2_2027_pipeline_20260628.csv + summary
+- [x] Q2 2027 → Q1 2027 integrated pipeline comparison — COMPLETE 2026-06-29 (Session 36)
+      → Combined 12-month pipeline: 4,132 records | 2,270 unique | ₹1,53,928 Cr
+      → 43 companies in BOTH quarters (dual-quarter targets)
+      → CARE Q2 2027 (₹19,886 Cr) = 1.8x Q1 2027 (₹11,004 Cr) — April 2026 spike drives surge
+      → NCD combined: 386 records | ₹21,875 Cr — all SEBI gated; unlock Oct 8
+      → Output: csv/combined_q1_q2_2027_pipeline_20260629.csv (4,132 rows — MASTER 12-MONTH FILE)
+
+---
+
+## P1 — Do This Session (Session 37)
+
+- [ ] Full master timeline — October 2026 + Q1 2027 + Q2 2027 combined
+      → Stack: October Master (5,961) + Q1 2027 (2,475) + Q2 2027 (1,657) = ~10,093 records
+      → One master ACER pipeline file with escalation dates, tiers, calling weeks
+      → Covers Oct 2026 through Jun 2027 — full 9-month forward view
+      → Output: csv/acer_oct2026_q2_2027_master_pipeline_20260629.csv (~10,093 rows)
+
+- [ ] Construction sector deep-dive — Q1 + Q2 2027 combined
+      → Q1 Construction: 124 companies ₹17,332 Cr | Q2 Construction/Infra: 100 companies ₹13,938 Cr
+      → Combined: ~224 companies ₹31,270 Cr — largest classified sector across both quarters
+      → Key targets: P E C Ltd. ₹3,432 Cr (IND-RA), L&W Construction ₹2,035 Cr (ICRA), Srinivas Infra
+      → Output: csv/construction_q1_q2_2027_combined_20260629.csv + brief
+
+- [ ] 43 dual-quarter companies — deep profile + pitch scripts
+      → 43 companies rated by DIFFERENT agencies in Q1 vs Q2 — highest lifetime value
+      → Multi-instrument, multi-agency behavior = maximum ACER receptivity
+      → Build dedicated brief with individual pitch scripts
+      → Output: csv/dual_quarter_deep_profile_20260629.csv + brief
 
 ---
 
