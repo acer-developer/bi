@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-29
-Status: Session 37 complete. Session 38 starting next run.
+Last Updated: 2026-06-30
+Status: Session 38 complete. Session 39 starting next run.
 
 ---
 
@@ -482,21 +482,44 @@ Status: Session 37 complete. Session 38 starting next run.
 
 ## P1 — Do This Session (Session 38)
 
-- [ ] Revenue model stratification — differentiated by instrument type
-      → NCD: ~₹15–25L per deal; Term Loan/BG: ~₹3–7L per deal
-      → Apply to 10,093-record master pipeline for true revenue potential
-      → Output: csv/acer_revenue_model_20260629.csv + brief
+- [x] Revenue model stratification — differentiated by instrument type — COMPLETE 2026-06-30 (Session 38)
+      → NCD ₹20L/deal | TL ₹5L | BG ₹4L | LC ₹3L | ST ₹2.5L
+      → Total pipeline: ₹568.1 Cr avg (₹383–₹757 Cr range)
+      → NCD = 8.4% records but 29.9% revenue (₹170.1 Cr) — critical SEBI unlock
+      → Output: csv/acer_revenue_model_20260630.csv (10,093 rows) + brief
 
-- [ ] Energy sector Q1+Q2 2027 deep-dive — mirror Construction brief
-      → Q1 Energy: identify all energy companies in Q1 pipeline
-      → Q2 Energy: Vijai Electricals ₹895 Cr confirmed dual-quarter
-      → Output: csv/energy_q1_q2_2027_combined_20260629.csv + brief
+- [x] Energy sector Q1+Q2 2027 deep-dive — COMPLETE 2026-06-30 (Session 38)
+      → Q1+Q2: 170 records | 87 unique | ₹22,709 Cr; all windows: 382 records | 170 unique | ₹35,676 Cr
+      → CARE leads Q2 (₹8,726 Cr, 23 cos); ICRA highest avg ticket (₹628 Cr avg)
+      → 1 dual-quarter company: Vijai Electricals ₹895 Cr (CARE+IND-RA)
+      → Senvion Wind ₹3,000 Cr NCD = largest single energy target
+      → Output: csv/energy_q1_q2_2027_combined_20260630.csv (170 rows) + all_windows (382) + brief
 
-- [ ] August 2026 RM deployment plan — who calls whom, by week
-      → 869 multi-window + 43 dual-quarter + 135 Q1 construction = priority call list
-      → Top 20 companies ≥₹500 Cr → senior RM assignments
-      → Build week-by-week RM schedule Aug Wk1–4
-      → Output: csv/august2026_rm_deployment_plan_20260629.csv + brief
+- [x] August 2026 RM deployment plan — COMPLETE 2026-06-30 (Session 38)
+      → 1,608 unique companies | ₹1,26,959 Cr | ₹86.9 Cr revenue potential
+      → Tier 1 (Senior RM): 273 companies ≥₹500 Cr or NCD | ₹50.4 Cr
+      → Aug Wk1: 700 companies | ₹67.9 Cr — all Tier 1 + urgent HOT
+      → 241 NCD companies: relationship Aug → agreements Sep → sign Oct 8+
+      → Output: csv/august2026_rm_deployment_plan_20260630.csv (1,608 rows) + tier1 (273) + brief
+
+---
+
+## P1 — Do This Session (Session 39)
+
+- [ ] Sector-level revenue density analysis — revenue per company by sector
+      → Energy avg ₹261 Cr ticket vs Construction ₹138 Cr — but Construction has 2.6x volume
+      → Build "Revenue Density Score" combining ₹/company, deal count, NCD rate
+      → Output: csv/sector_revenue_density_20260630.csv + brief
+
+- [ ] IND-RA NCD pre-license outreach list — Aug Wk2 specific
+      → 373 IND-RA NCD INC companies in full pipeline
+      → Filter to Aug Wk2 plan, add agency-specific NCD call scripts
+      → Output: csv/indra_ncd_prelicense_outreach_20260630.csv
+
+- [ ] Instrument × Agency call script matrix (6 agencies × 4 instrument types)
+      → BW BG, CRISIL TL, IND-RA NCD, CARE NCD, ACUITE Fund-Based, ICRA NCD = 24 combinations
+      → Currently generic scripts — differentiate by agency INC rate and instrument type
+      → Output: august2026_pitch_script_matrix_20260630.md
 
 ---
 

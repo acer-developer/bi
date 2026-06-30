@@ -1,0 +1,10 @@
+Instrument_Family,Records,Unique_Cos,Fee_Per_Deal_Lakhs,Rev_Avg_Total_Lakhs,Rev_Low_Total_Lakhs,Rev_High_Total_Lakhs
+Term Loan,3977,2712,5.0,19759.0,11868.0,27713.0
+NCD / Bond,849,681,20.0,16980.0,12735.0,21225.0
+Bank Guarantee,1894,1468,4.0,7576.0,5682.0,9470.0
+Fund-Based Facilities,803,611,5.0,4015.0,2409.0,5621.0
+Letter of Credit,1217,961,3.0,3651.0,2434.0,4868.0
+LT Bank Facilities,454,289,5.0,2250.0,1362.0,3158.0
+Non-Fund-Based,429,372,3.0,1287.0,858.0,1716.0
+Other/Unknown,242,121,3.0,726.0,484.0,1210.0
+ST Bank Facilities,228,158,2.5,570.0,456.0,684.0
