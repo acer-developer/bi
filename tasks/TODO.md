@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-06-30
-Status: Session 38 complete. Session 39 starting next run.
+Status: Session 39 complete. Session 40 starting next run.
 
 ---
 
@@ -506,20 +506,38 @@ Status: Session 38 complete. Session 39 starting next run.
 
 ## P1 — Do This Session (Session 39)
 
-- [ ] Sector-level revenue density analysis — revenue per company by sector
-      → Energy avg ₹261 Cr ticket vs Construction ₹138 Cr — but Construction has 2.6x volume
-      → Build "Revenue Density Score" combining ₹/company, deal count, NCD rate
-      → Output: csv/sector_revenue_density_20260630.csv + brief
+- [x] Sector-level revenue density analysis — COMPLETE 2026-06-30 (Session 39)
+      → Fixed duplicate sector labels (Energy/Energy-Power, Jewellery/Jewellery-Gems) before scoring
+      → "Other" unclassified bucket ranks #2 by density (₹220.3 Cr) — strongest case yet for MCA CIN unlock
+      → Energy confirmed highest real-sector density (₹209.9 Cr/company) vs Construction volume play (489 cos)
+      → Output: csv/sector_revenue_density_20260630.csv (23 sectors) + brief
 
-- [ ] IND-RA NCD pre-license outreach list — Aug Wk2 specific
-      → 373 IND-RA NCD INC companies in full pipeline
-      → Filter to Aug Wk2 plan, add agency-specific NCD call scripts
-      → Output: csv/indra_ncd_prelicense_outreach_20260630.csv
+- [x] IND-RA NCD pre-license outreach list — Aug Wk2 specific — COMPLETE 2026-06-30 (Session 39)
+      → 306 unique IND-RA NCD companies (₹11,939.2 Cr); corrected finding: Aug Wk2 had ZERO NCD cos in RM plan
+      → 80 already in RM plan (auto-routed to Wk1, Tier 1); 226 NOT yet captured — recommended for Aug Wk2
+      → Output: csv/indra_ncd_prelicense_outreach_20260630.csv (306 rows)
 
-- [ ] Instrument × Agency call script matrix (6 agencies × 4 instrument types)
-      → BW BG, CRISIL TL, IND-RA NCD, CARE NCD, ACUITE Fund-Based, ICRA NCD = 24 combinations
-      → Currently generic scripts — differentiate by agency INC rate and instrument type
-      → Output: august2026_pitch_script_matrix_20260630.md
+- [x] Instrument × Agency call script matrix (6 agencies × 4 instrument types) — COMPLETE 2026-06-30 (Session 39)
+      → Fresh d365_data.xlsx pull (49,943 clean records) reconfirms BW BG 86.5%, IND-RA NCD 49.4%, ACUITE 0% NCD
+      → New finding: ICRA (14.9%) + IND-RA (10.0%) both COOL on Bank Guarantee — avoid BG displacement framing
+      → Output: august2026_pitch_script_matrix_20260630.md (24 differentiated scripts + tiering)
+
+---
+
+## P1 — Do This Session (Session 40)
+
+- [ ] IND-RA NCD Aug Wk2 gap — check if CARE/BRICKWORK NCD companies have the same RM-plan gap
+      → Session 39 found IND-RA's 226 uncaptured NCD companies need Wk2 scheduling
+      → Confirm whether this is IND-RA-specific or affects all NCD companies in the plan
+      → Output: csv/ncd_rm_plan_gap_all_agencies_20260630.csv
+
+- [ ] Jewellery sector mini-brief (merged label, 53 companies, 22.0% NCD rate — 2nd highest after Education)
+      → No Jewellery brief exists since the Session 12 split-label version (183 cos, pre-merge)
+      → Output: sector_Jewellery_20260630.md (or dated to run date)
+
+- [ ] Reconcile 4-family instrument grouping (script matrix) vs 9-family Instrument_Family (revenue model)
+      → Script matrix uses coarser grouping per TODO spec; revenue model uses finer family split
+      → Decide if finer agency × instrument pitch differentiation is needed; document the mapping either way
 
 ---
 
