@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-06-30
-Status: Session 39 complete. Session 40 starting next run.
+Last Updated: 2026-07-01
+Status: Session 40 complete. Session 41 starting next run.
 
 ---
 
@@ -526,18 +526,37 @@ Status: Session 39 complete. Session 40 starting next run.
 
 ## P1 — Do This Session (Session 40)
 
-- [ ] IND-RA NCD Aug Wk2 gap — check if CARE/BRICKWORK NCD companies have the same RM-plan gap
-      → Session 39 found IND-RA's 226 uncaptured NCD companies need Wk2 scheduling
-      → Confirm whether this is IND-RA-specific or affects all NCD companies in the plan
-      → Output: csv/ncd_rm_plan_gap_all_agencies_20260630.csv
+- [x] IND-RA NCD Aug Wk2 gap — check if CARE/BRICKWORK NCD companies have the same RM-plan gap — COMPLETE 2026-07-01 (Session 40)
+      → NOT IND-RA-specific — systemic across every NCD-bearing agency
+      → 454 of 695 NCD company-agency pairs (65.3%) uncaptured by the Aug RM plan: IND-RA 226, CARE 121, ICRA 76, BRICKWORK 28, Infomerics 3
+      → Output: csv/ncd_rm_plan_gap_all_agencies_20260701.csv (695 rows)
 
-- [ ] Jewellery sector mini-brief (merged label, 53 companies, 22.0% NCD rate — 2nd highest after Education)
-      → No Jewellery brief exists since the Session 12 split-label version (183 cos, pre-merge)
-      → Output: sector_Jewellery_20260630.md (or dated to run date)
+- [x] Jewellery sector mini-brief (merged label, 53 companies, 22.0% NCD rate — 2nd highest after Education) — COMPLETE 2026-07-01 (Session 40)
+      → 53 companies, 82 records, ₹2,238.5 Cr; CRISIL largest share (38%) but fragmented, no dominant agency
+      → Data quality flag: 2-3 name-keyword misclassifications found (Diamond Beverages, Silvertoan Papers, Goldenglobe Hotels)
+      → Output: csv/leads_Jewellery_20260701.csv (53 rows) + sector_Jewellery_20260701.md
 
-- [ ] Reconcile 4-family instrument grouping (script matrix) vs 9-family Instrument_Family (revenue model)
-      → Script matrix uses coarser grouping per TODO spec; revenue model uses finer family split
-      → Decide if finer agency × instrument pitch differentiation is needed; document the mapping either way
+- [x] Reconcile 4-family instrument grouping (script matrix) vs 9-family Instrument_Family (revenue model) — COMPLETE 2026-07-01 (Session 40)
+      → Verified exact mapping (10,093 = 10,093 records, no loss); 4-family is a clean superset of 9-family
+      → Fund-Based/Other bucket hides a 67% fee spread (Fund-Based Facilities ₹5L vs LC/Non-Fund/Other ₹3L, 803 records)
+      → No existing output affected (revenue model already uses correct 9-family tiers); documented scope: 4-family for scripts, 9-family for revenue math
+      → Output: instrument_family_reconciliation_20260701.md
+
+---
+
+## P1 — Do This Session (Session 41)
+
+- [ ] Build proposed Aug Wk2/Wk3 call schedule for the 454 uncaptured NCD companies (all 5 agencies)
+      → Session 40 identified and flagged the gap (csv/ncd_rm_plan_gap_all_agencies_20260701.csv); this session builds the actual week-by-week assignment
+      → Output: csv/ncd_aug_wk2_wk3_schedule_20260701_or_run_date.csv
+
+- [ ] Check if the RM plan's "Tier-1-only capture" gap extends beyond NCD to other high-value non-NCD companies (e.g. ≥₹500 Cr threshold)
+      → Is under-capture NCD-specific or does it affect the RM plan broadly?
+      → Output: csv covering the finding
+
+- [ ] Spot-check keyword-classification false positives in other sectors (Steel/Metals, Energy, etc.), following the Jewellery misclassification finding
+      → 2-3 of 53 Jewellery companies were false positives from simple substring matching
+      → Output: csv of flagged misclassifications across sectors sampled
 
 ---
 
