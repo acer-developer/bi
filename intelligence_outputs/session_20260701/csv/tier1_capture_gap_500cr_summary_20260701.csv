@@ -1,0 +1,4 @@
+Segment,Total,Not_Captured,Gap_Pct
+Non-NCD >=500cr,52,40,76.9
+"NCD >=500cr (reference, Task1 pool)",9,7,77.8
+ALL >=500cr combined,61,47,77.0

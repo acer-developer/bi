@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-07-01
-Status: Session 40 complete. Session 41 starting next run.
+Status: Session 41 complete. Session 42 starting next run.
 
 ---
 
@@ -546,17 +546,37 @@ Status: Session 40 complete. Session 41 starting next run.
 
 ## P1 — Do This Session (Session 41)
 
-- [ ] Build proposed Aug Wk2/Wk3 call schedule for the 454 uncaptured NCD companies (all 5 agencies)
-      → Session 40 identified and flagged the gap (csv/ncd_rm_plan_gap_all_agencies_20260701.csv); this session builds the actual week-by-week assignment
-      → Output: csv/ncd_aug_wk2_wk3_schedule_20260701_or_run_date.csv
+- [x] Build proposed Aug Wk2/Wk3 call schedule for the 454 uncaptured NCD companies (all 5 agencies) — COMPLETE 2026-07-01 (Session 41)
+      → All 454 assigned TIER 1 — Senior RM (NCD-linked, per plan's own trigger rule)
+      → Aug Wk2: 157 companies (₹5,410 Cr, closing Sep/Oct); Aug Wk3: 297 companies (₹17,584 Cr, closing Nov–Jan)
+      → Capacity flag: existing plan already has 792 in Wk2 vs only 48 in Wk3 — Wk3 has more slack
+      → Output: csv/ncd_aug_wk2_wk3_schedule_20260701.csv (454) + csv/ncd_aug_wk2_wk3_agency_summary_20260701.csv (10)
 
-- [ ] Check if the RM plan's "Tier-1-only capture" gap extends beyond NCD to other high-value non-NCD companies (e.g. ≥₹500 Cr threshold)
-      → Is under-capture NCD-specific or does it affect the RM plan broadly?
+- [x] Check if the RM plan's "Tier-1-only capture" gap extends beyond NCD to other high-value non-NCD companies (≥₹500 Cr threshold) — COMPLETE 2026-07-01 (Session 41)
+      → NOT NCD-specific — non-NCD ≥₹500 Cr gap is 76.9% (40/52), HIGHER than the 65.3% NCD gap from Session 40
+      → Combined ≥₹500 Cr gap (NCD + non-NCD): 77.0% (47/61) — this is a Tier-1 list build defect, not an NCD omission
+      → Output: csv/tier1_capture_gap_500cr_all_20260701.csv (61) + csv/tier1_capture_gap_500cr_summary_20260701.csv (3)
+
+- [x] Spot-check keyword-classification false positives in other sectors (Steel/Metals, Energy, etc.), following the Jewellery misclassification finding — COMPLETE 2026-07-01 (Session 41)
+      → Two methods: cross-window sector-label inconsistency (59 companies, e.g. "Just Textiles Ltd." tagged Textiles in Q2 2027 rows but Construction in October 2026 rows) + keyword mismatch (42 companies, incl. "Diamond Beverages" caught by both methods)
+      → 97 unique companies flagged combined; biggest clusters are Construction↔Textiles (9) and Automobiles↔Manufacturing (7), not Steel/Energy specifically
+      → Output: csv/sector_misclassification_flags_20260701.csv (97 rows)
+
+---
+
+## P1 — Do This Session (Session 42)
+
+- [ ] Rebuild the Aug RM deployment plan directly from the full 4,588-company master pipeline (acer_revenue_model_20260630.csv) with Tier 1/2/3 logic re-applied end-to-end
+      → Session 41 found the existing plan misses 77% of companies that meet its own Tier 1 (≥₹500 Cr / NCD) trigger — a build defect, not a threshold problem
+      → Decide: wholesale rebuild vs. continuing to patch (open question Q7 from Session 41) — recommend rebuild given scale of the gap
+      → Output: csv/august2026_rm_deployment_plan_REBUILT_20260702_or_run_date.csv + reconciliation vs. original plan
+
+- [ ] Investigate root cause of October-2026-window vs Q1/Q2-2027-window sector-tagging divergence for the 59 specific-sector-conflict companies (H9)
+      → Is Q1/Q2 2027 pulling from a different classification pass/source file than October 2026?
+      → Output: csv/sector_tagging_root_cause_20260702_or_run_date.csv or brief
+
+- [ ] Apply the same capture-gap check to the Tier 2 population (₹100–499 Cr) — is the defect uniform across tiers or concentrated at the top? (H10)
       → Output: csv covering the finding
-
-- [ ] Spot-check keyword-classification false positives in other sectors (Steel/Metals, Energy, etc.), following the Jewellery misclassification finding
-      → 2-3 of 53 Jewellery companies were false positives from simple substring matching
-      → Output: csv of flagged misclassifications across sectors sampled
 
 ---
 
