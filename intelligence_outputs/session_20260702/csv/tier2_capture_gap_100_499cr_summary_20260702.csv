@@ -1,0 +1,4 @@
+Segment,Total_Rows,Unique_Companies,Not_Captured_Companies,Gap_Pct
+"Amount-band trigger (100-499cr, non-NCD, row-level)",399,297,186,62.6
+"Multi-window trigger (2+ windows, amount<500, non-NCD)",740,740,0,0.0
+"ALL Tier 2 triggers combined (union, dedup)",1139,982,186,18.9

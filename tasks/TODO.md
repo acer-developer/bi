@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
-Last Updated: 2026-07-01
-Status: Session 41 complete. Session 42 starting next run.
+Last Updated: 2026-07-02
+Status: Session 42 complete. Session 43 starting next run.
 
 ---
 
@@ -566,17 +566,36 @@ Status: Session 41 complete. Session 42 starting next run.
 
 ## P1 — Do This Session (Session 42)
 
-- [ ] Rebuild the Aug RM deployment plan directly from the full 4,588-company master pipeline (acer_revenue_model_20260630.csv) with Tier 1/2/3 logic re-applied end-to-end
-      → Session 41 found the existing plan misses 77% of companies that meet its own Tier 1 (≥₹500 Cr / NCD) trigger — a build defect, not a threshold problem
-      → Decide: wholesale rebuild vs. continuing to patch (open question Q7 from Session 41) — recommend rebuild given scale of the gap
-      → Output: csv/august2026_rm_deployment_plan_REBUILT_20260702_or_run_date.csv + reconciliation vs. original plan
+- [x] Rebuild the Aug RM deployment plan directly from the full 4,588-company master pipeline (acer_revenue_model_20260630.csv) with Tier 1/2/3 logic re-applied end-to-end — COMPLETE 2026-07-02 (Session 42)
+      → Decision: wholesale rebuild (not patch) — Tier 1 grew 273→738; total coverage 1,565→4,588 (3,023 companies, 66%, were missing entirely)
+      → 39 tier reconciliation changes found (17 orig-Tier1 companies don't independently meet ≥₹500 Cr/NCD once same-instrument double-counting across windows is removed)
+      → Output: csv/august2026_rm_deployment_plan_REBUILT_20260702.csv (4,588 rows) + tier summary + newly_added (3,023) + tier_changes (39) + removed (0) + reconciliation (15)
 
-- [ ] Investigate root cause of October-2026-window vs Q1/Q2-2027-window sector-tagging divergence for the 59 specific-sector-conflict companies (H9)
-      → Is Q1/Q2 2027 pulling from a different classification pass/source file than October 2026?
-      → Output: csv/sector_tagging_root_cause_20260702_or_run_date.csv or brief
+- [x] Investigate root cause of October-2026-window vs Q1/Q2-2027-window sector-tagging divergence for the 59 specific-sector-conflict companies (H9) — COMPLETE 2026-07-02 (Session 42)
+      → ROOT CAUSE CONFIRMED: no single, version-controlled classify_sector() exists in repo — each window built by a different session's ad hoc reimplementation
+      → All 59 companies are 100% internally consistent within a window, 0% inconsistent — proves per-window classifier drift, not random noise
+      → session27/28_analysis.py have byte-identical SECTOR_PATTERNS but neither matches live master pipeline's label set (Energy/Energy-Power, BFSI/BFSI-NBFC, Jewellery/Jewellery-Gems) — a 3rd unsaved variant built the final pipeline
+      → Output: csv/sector_tagging_root_cause_20260702.csv (59 rows)
 
-- [ ] Apply the same capture-gap check to the Tier 2 population (₹100–499 Cr) — is the defect uniform across tiers or concentrated at the top? (H10)
-      → Output: csv covering the finding
+- [x] Apply the same capture-gap check to the Tier 2 population (₹100–499 Cr) — is the defect uniform across tiers or concentrated at the top? (H10) — COMPLETE 2026-07-02 (Session 42)
+      → NOT a tier defect — it's a "was this company in one of the 4 original source groups" defect. Multi-window companies: 0% gap (they WERE one of the 4 groups). Amount-band-only companies: 62.6% gap — nearly as bad as Tier 1's 77%
+      → Output: csv/tier2_capture_gap_100_499cr_all_20260702.csv (1,139) + summary (3)
+
+---
+
+## P1 — Do This Session (Session 43)
+
+- [ ] Decide + socialize: adopt REBUILT Aug RM plan as operational, resolve max-vs-sum ticket-size convention (Q8, H11)
+      → csv/august2026_rm_deployment_plan_REBUILT_20260702.csv uses max-per-company; original plan used sum-per-company for recurring instruments across windows
+      → Output: brief documenting the decision + impact, OR a second variant file if ACER ops prefers sum convention
+
+- [ ] Write and commit a canonical classify_sector() module (H12) — quick win ahead of MCA CIN NIC enrichment
+      → Fixed keyword list + fixed priority order + one label per category (resolve Energy/Energy-Power, BFSI/BFSI-NBFC, Jewellery/Jewellery-Gems, Mining/Mining-Minerals duplicates)
+      → Output: a committed .py module (not just an inline session script) + re-classified Sector column diff vs current
+
+- [ ] Re-run the 97-company sector-misclassification list (Session 41) against the new canonical classifier (H13)
+      → Check how many of the 97 resolve automatically once classification is unified
+      → Output: csv showing before/after sector for all 97
 
 ---
 

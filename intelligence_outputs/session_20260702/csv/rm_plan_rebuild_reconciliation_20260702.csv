@@ -1,0 +1,16 @@
+Metric,Value
+Original plan — unique companies,1565.0
+Rebuilt plan — unique companies,4588.0
+Master pipeline — unique companies,4588.0
+"Newly added (in rebuild, missing from original)",3023.0
+"Removed (in original, not found in master/rebuild — name mismatch check)",0.0
+Common companies with SAME tier,1526.0
+Common companies with CHANGED tier,39.0
+Rebuilt TIER 1 count,738.0
+Original TIER 1 count,273.0
+Rebuilt TIER 2 count,940.0
+Original TIER 2 count,813.0
+Rebuilt TIER 3 count,2910.0
+Original TIER 3 count,522.0
+Rebuilt total Amt_Cr,233842.02
+Original total Amt_Cr,126959.22
