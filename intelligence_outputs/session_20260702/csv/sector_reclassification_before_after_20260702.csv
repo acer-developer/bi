@@ -1,0 +1,98 @@
+Company Name,Detection_Method,Sector_Before,Sector_After_Canonical,Keyword_Case_Now_Matches_Expected
+Gowthami Solvent Oils Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Chemicals & Pharma,Agro & Food,
+Safal Seeds & Biotech Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Chemicals & Pharma,Agro & Food,
+Suyash Chemical & Fertilizer Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Chemicals & Pharma,Agro & Food,
+Sri Venkata Srinivasa Oils Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Energy,Agro & Food,
+Chhabeela Energy Foods Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Energy,Energy,
+K K V Agro Powers Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Energy,Agro & Food,
+Shreyans Oils Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Energy,Agro & Food,
+Diamond Beverages Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Jewellery/Gems,Agro & Food,
+Katyayini Paper Mills Private Limited,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Paper/Packaging,Paper/Packaging,
+Sri Balambika Textile Mills Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Textiles,Textiles,
+Shri Mahesh Co-operative Spinning Mills Limited,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Textiles,Textiles,
+Divya Spinning Mill Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Textiles,Textiles,
+Ashok Textile Mills Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Textiles,Textiles,
+Sambandam Spinning Mills Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Agro & Food / Textiles,Textiles,
+Auto Hitech Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / IT/Technology,Automobiles,
+Cyber Automobiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Automobiles,
+Orange Auto Private Limited,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Automobiles,
+Sangram Auto Components Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Automobiles,
+Gajraj Automobiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Automobiles,
+JS Auto Cast Foundry India Private Limited,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Automobiles,
+Sainath Autolinks Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Other,
+Nash Robotics & Automation Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Automobiles / Manufacturing,Other,
+Plus Medicare Hospitals Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Chemicals & Pharma / Healthcare,Healthcare,
+Q-Line Biotech Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Chemicals & Pharma / Healthcare,Healthcare,
+Hajra Medical Agency Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Chemicals & Pharma / Healthcare,Healthcare,
+Criyagen Agri & Biotech Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Chemicals & Pharma / Healthcare,Agro & Food,
+K B K Biotech Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Chemicals & Pharma / Healthcare,Healthcare,
+Taiko Plastic Technologies Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Chemicals & Pharma / IT/Technology,Chemicals & Pharma,
+Supreme Road Transport Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Logistics,Logistics,
+Antony Road Transport Solutions Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Logistics,Logistics,
+M M Shawl Engineers & Contractors Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Manufacturing,Manufacturing,
+Metaguard Engineers and Contractors,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Manufacturing,Manufacturing,
+Encore Projects Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Mining & Minerals,Other,
+Saam Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Adil Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Just Textiles Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Sri Varadaraja Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Marut Nandan Textiles Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Shanmugappriya Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Chelsea Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+C M C Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Shivmahal Textiles Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Construction / Textiles,Textiles,
+Telawne Power Equipments Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Energy / Manufacturing,Energy,
+Power Engineering (India) Private Limited,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Energy / Manufacturing,Manufacturing,
+Vimal Coal Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Energy / Mining & Minerals,Energy,
+Clean Coal Enterprises Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Energy / Mining & Minerals,Energy,
+Chakkra Coal India Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Energy / Mining & Minerals,Energy,
+Goldenglobe Hotels Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Hotels & Tourism / Jewellery/Gems,Hotels & Tourism,
+Omnitech Engineering Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),IT/Technology / Manufacturing,Manufacturing,
+R M Drip & Sprinklers Systems Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),IT/Technology / Paper/Packaging,Agro & Food,
+Technoplast Packaging Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),IT/Technology / Paper/Packaging,Paper/Packaging,
+Ankit Pulps & Boards Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),IT/Technology / Paper/Packaging,Paper/Packaging,
+Campari Exports Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Logistics / Trading/Exports,Trading/Exports,
+Swelore Engineering Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Manufacturing / Mining & Minerals,Manufacturing,
+Travancore Titanium Products Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Manufacturing / Mining & Minerals,Steel & Metals,
+Pioneer Fabricators Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Manufacturing / Textiles,Manufacturing,
+Vardhman Textile Components Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Manufacturing / Textiles,Textiles,
+Swapna Printing Works Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Paper/Packaging / Steel & Metals,Paper/Packaging,
+Shakambari Kniting Pvt. Ltd.,Cross-window sector inconsistency (same company tagged differently by source pipeline window),Steel & Metals / Textiles,Textiles,
+Wave Beverages Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Agro & Food,True
+Silvertoan Papers Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Jewellery/Gems,Paper/Packaging,True
+Inditrade Fincorp Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Trading/Exports,BFSI,True
+C K S Medicare Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Automobiles,Healthcare,True
+S M V Beverages Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Agro & Food,True
+Diamond Shipping Agencies Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Logistics,Logistics,False
+Sai Tech Medicare Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),IT/Technology,Healthcare,True
+Sentini Hospitals Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Steel & Metals,Healthcare,True
+Associated Broadcasting Co. Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Steel & Metals,Media/Retail,True
+Kafila Hospitality & Travels Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Healthcare,Hotels & Tourism,True
+Fibremarx Papers Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Textiles,Paper/Packaging,True
+Universal Import Export & Hospitality Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Healthcare,Hotels & Tourism,True
+Adwalpalkar Constructions & Resorts Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Construction,Hotels & Tourism,True
+Medicare Spryness (I) Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Automobiles,Healthcare,True
+Ambuj Hotel and Real Estate Private Limited,Keyword mismatch (same method as Session 40 Jewellery finding),Construction,Hotels & Tourism,True
+Vamica Resorts Infra Limited,Keyword mismatch (same method as Session 40 Jewellery finding),Construction,Hotels & Tourism,True
+Sneha Medicare Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Automobiles,Healthcare,True
+Wave Beverages Private Limited,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Agro & Food,True
+Broadcast Engineering Consultants India Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Manufacturing,Media/Retail,True
+Proodle Hospitality Services Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Healthcare,Hotels & Tourism,True
+Diamond Textile Mills Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Textiles,Textiles,False
+Alchemist Hospitals Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Chemicals & Pharma,Healthcare,True
+Khush Housing Finance Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Construction,BFSI,True
+Ivax Paper Chemicals Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Chemicals & Pharma,Paper/Packaging,True
+Shree Somnath Paper Mills Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Navdurga Pulp & Paper Mills India Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Danalakshmi Paper Mills Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Decor Paper Mills Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+KHFM Hospitality & Facility Management Services Limited,Keyword mismatch (same method as Session 40 Jewellery finding),Healthcare,Hotels & Tourism,True
+Astron Paper & Board Mill Limited,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Satkar Paper Mills Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Radheshyam Paper Mills Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Blue Ocean Beverages Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Agro & Food,True
+Nimbus Beverages Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Agro & Food,True
+Sri Andal Paper Mills Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Agro & Food,Paper/Packaging,True
+Kiara Jewellery Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Jewellery/Gems,True
+Mini Diamonds (India) Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Jewellery/Gems,True
+Shreela Diamonds & Jewels Pvt. Ltd.,Keyword mismatch (same method as Session 40 Jewellery finding),Other,Jewellery/Gems,True

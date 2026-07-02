@@ -1,6 +1,6 @@
 # ACER Intelligence — Master Task List
 Last Updated: 2026-07-02
-Status: Session 42 complete. Session 43 starting next run.
+Status: Session 43 complete. Session 44 starting next run.
 
 ---
 
@@ -585,17 +585,37 @@ Status: Session 42 complete. Session 43 starting next run.
 
 ## P1 — Do This Session (Session 43)
 
-- [ ] Decide + socialize: adopt REBUILT Aug RM plan as operational, resolve max-vs-sum ticket-size convention (Q8, H11)
-      → csv/august2026_rm_deployment_plan_REBUILT_20260702.csv uses max-per-company; original plan used sum-per-company for recurring instruments across windows
-      → Output: brief documenting the decision + impact, OR a second variant file if ACER ops prefers sum convention
+- [x] Decide + socialize: adopt REBUILT Aug RM plan as operational, resolve max-vs-sum ticket-size convention (Q8, H11) — COMPLETE 2026-07-02 (Session 43)
+      → Neither convention was correct: naive sum (₹3,17,855 Cr) double-counts recurring same-instrument rows across windows; single overall max (Session 42 REBUILT, ₹2,33,842 Cr) undercounts genuine multi-instrument companies
+      → DECISION: adopt sum-of-per-instrument-type-max (₹2,82,177 Cr) — 61 companies change tier vs Session 42 REBUILT, 12 newly qualify for TIER 1
+      → Output: csv/august2026_rm_deployment_plan_V2_SUMCONVENTION_20260702.csv (4,588) + tier_summary_V2 (3) + tier_diffs (61) + newly_tier1 (12) + session43_brief
 
-- [ ] Write and commit a canonical classify_sector() module (H12) — quick win ahead of MCA CIN NIC enrichment
-      → Fixed keyword list + fixed priority order + one label per category (resolve Energy/Energy-Power, BFSI/BFSI-NBFC, Jewellery/Jewellery-Gems, Mining/Mining-Minerals duplicates)
-      → Output: a committed .py module (not just an inline session script) + re-classified Sector column diff vs current
+- [x] Write and commit a canonical classify_sector() module (H12) — COMPLETE 2026-07-02 (Session 43)
+      → classify_sector.py committed at repo root; fixed keyword list + fixed priority order + one label per category
+      → Resolved Energy/Energy-Power, BFSI/BFSI-NBFC, Jewellery/Jewellery-Gems, Mining/Mining-Minerals duplicates via SECTOR_ALIASES + canonical SECTOR_PATTERNS
+      → Fixed regex word-boundary bugs found while tracing the 97 flagged companies (bare 'tin' matching inside "Sentini", bare 'car' inside "Medicare", bare 'trad' inside "Inditrade")
+      → Output: classify_sector.py (repo root, committed)
 
-- [ ] Re-run the 97-company sector-misclassification list (Session 41) against the new canonical classifier (H13)
-      → Check how many of the 97 resolve automatically once classification is unified
-      → Output: csv showing before/after sector for all 97
+- [x] Re-run the 97-company sector-misclassification list (Session 41) against the new canonical classifier (H13) — COMPLETE 2026-07-02 (Session 43)
+      → 59/59 cross-window inconsistencies resolved by construction (one function = one answer); 36/38 (94.7%) keyword-mismatch flags now match expected sector
+      → 3/97 still resolve to "Other" (genuinely unresolvable from name text alone — MCA CIN territory); 2/38 original flags were themselves false positives ("Diamond Shipping/Textile" — correctly NOT reclassified to Jewellery)
+      → Output: csv/sector_reclassification_before_after_20260702.csv (97 rows)
+
+---
+
+## P1 — Do This Session (Session 44)
+
+- [ ] Re-run classify_sector() across the FULL 4,588-company master pipeline (not just the 97 flagged companies) (H14)
+      → Produce full before/after Sector diff + refreshed sector-revenue-density ranking (Session 39's ranking used the old, inconsistent Sector column)
+      → Output: csv showing before/after sector for all 4,588 companies + updated sector_revenue_density
+
+- [ ] Regenerate Aug weekly call schedule + RM tier assignment files from the V2 (sum-convention) plan (H15)
+      → csv/august2026_rm_deployment_plan_V2_SUMCONVENTION_20260702.csv should become the new master, retiring the Session 42 REBUILT file — confirm with ACER ops first (Q10)
+      → Output: updated weekly calendar + tier-assignment CSVs built from V2
+
+- [ ] Codify the sum-of-per-instrument-type-max ticket-size rule in INSTRUCTIONS.md so it isn't re-litigated (Q8 follow-up)
+      → Add a short "Ticket Size Convention" section under ANALYTICAL FRAMEWORKS
+      → Output: INSTRUCTIONS.md edit (no CSV needed)
 
 ---
 
